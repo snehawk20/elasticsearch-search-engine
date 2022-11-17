@@ -1,5 +1,4 @@
 import copy
-import json
 import re
 import ssl
 from urllib.parse import urlparse
@@ -7,18 +6,18 @@ from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 
+from object import WikipediaPage
 
-class WikipediaParser:
-    def __init__(self):
+
+class WikipediaCrawler:
+    def __init__(self, directory, max_depth):
         self.wiki_page_link_pattern = re.compile("/wiki/[\w]+$")
         self.category_link_pattern = re.compile("/wiki/Category:[\w]+$")
 
-        # second, download page, extract data and store it in corpus folder
         self.ssl_context = ssl.create_default_context()
-        self.max_depth = 3
-
+        self.max_depth = max_depth
         self.store_after_parsing = True
-        self.directory = "corpus"
+        self.directory = directory
         self.crawled_pages = set()
         self.valid_origins = ["https://en.wikipedia.org"]
 
@@ -66,7 +65,7 @@ class WikipediaParser:
         links = list(filter(lambda x: x.get('href') is not None, soup.find_all('a')))
         for link in links:
             url = link.get('href')
-            pages.extend(self.parse(base_url + url, depth + 1))
+            pages.extend(self.crawl(base_url + url, depth + 1))
 
         return pages
 
@@ -90,10 +89,10 @@ class WikipediaParser:
         for link in links:
             link_url = link.get('href')
             if link_url is not None:
-                base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(link_url))
-                if base_url in self.valid_origins and self.wiki_page_link_pattern.match(link_url[len(base_url):]):
-                    page.links.append(link_url)
-                    pages.extend(self.parse(link_url, depth + 1))
+                if self.wiki_page_link_pattern.match(link_url):
+                    base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(url))
+                    page.links.append(base_url + link_url)
+                    pages.extend(self.crawl(base_url + link_url, depth + 1))
 
         # extract paragraphs
         text_container = soup.find('div', {'class': 'mw-parser-output'})
@@ -130,7 +129,7 @@ class WikipediaParser:
         if toc_element is not None:
             page.table_of_contents = list(filter(lambda x: x != "", toc_element.text.split("\n")[1:]))
 
-        page.title = soup.find(id="firstHeading").string
+        page.title = soup.find(id="firstHeading").text
         page.html = str(soup)
 
         if self.store_after_parsing:
@@ -138,7 +137,7 @@ class WikipediaParser:
         pages.append(page)
         return pages
 
-    def parse(self, initial_link, depth=0):
+    def crawl(self, initial_link, depth=0):
         if depth <= self.max_depth:
             base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_link))
             if base_url in self.valid_origins:
@@ -147,33 +146,3 @@ class WikipediaParser:
                 elif self.wiki_page_link_pattern.match(initial_link[len(base_url):]):
                     return self.parse_page(initial_link, depth)
         return []
-
-
-class WikipediaPage:
-    def __init__(self, url):
-        """
-        a wrapper for wikipedia page content
-        """
-        self.url = url
-        self.title = []
-        self.html = ""
-        self.table_of_contents = []
-        self.graphics = []
-        self.paragraphs = []
-        self.links = []
-
-    def store(self, directory):
-        """
-        Save the page content in JSON format
-        :param directory:
-        :return:
-        """
-        file_name = self.title.replace(" ", "_")
-        with open(directory + "/" + file_name + '.json', 'w+', encoding='utf-8') as file:
-            fields = self.__dict__
-            json.dump(fields, file, indent=4, ensure_ascii=False)
-
-    @staticmethod
-    def load(self, filename):
-        with open(filename, "r", encoding='utf-8') as file:
-            self.__dict__ = json.load(file)
