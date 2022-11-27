@@ -1,0 +1,50 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Abstract_structure",
+    "title": "Abstract structure",
+    "table_of_contents": [],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "An abstract structure is an abstraction that might be of the geometric spaces or a set structure, or a hypostatic abstraction that is defined by a set of mathematical theorems and laws, properties and relationships in a way that is logically if not always historically independent [1] of the structure of contingent experiences, for example, those involving physical objects. Abstract structures are studied not only in logic and mathematics but in the fields that apply them, as computer science and computer graphics, and in the studies that reflect on them, such as philosophy (especially the philosophy of mathematics). Indeed, modern mathematics has been defined in a very general sense as the study of abstract structures (by the Bourbaki group: see discussion there, at algebraic structure and also structure).\n\nAn abstract structure may be represented (perhaps with some degree of approximation) by one or more physical objects –  this is called an implementation or instantiation of the abstract structure. But the abstract structure itself is defined in a way that is not dependent on the properties of any particular implementation.\n\nAn abstract structure has a richer structure than a concept or an idea. An abstract structure must include precise rules of behaviour which can be used to determine whether a candidate implementation actually matches the abstract structure in question, and it must be free from contradictions. Thus we may debate how well a particular government fits the concept of democracy, but there is no room for debate over whether a given sequence of moves is or is not a valid game of chess (for example Kasparovian approaches).\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Euclidean_space",
+        "https://en.wikipedia.org/wiki/Hypostatic_abstraction",
+        "https://en.wikipedia.org/wiki/Logic",
+        "https://en.wikipedia.org/wiki/Mathematics",
+        "https://en.wikipedia.org/wiki/Computer_science",
+        "https://en.wikipedia.org/wiki/Computer_graphics",
+        "https://en.wikipedia.org/wiki/Philosophy",
+        "https://en.wikipedia.org/wiki/Philosophy_of_mathematics",
+        "https://en.wikipedia.org/wiki/Nicolas_Bourbaki",
+        "https://en.wikipedia.org/wiki/Algebraic_structure",
+        "https://en.wikipedia.org/wiki/Instantiation_principle",
+        "https://en.wikipedia.org/wiki/Concept",
+        "https://en.wikipedia.org/wiki/Idea",
+        "https://en.wikipedia.org/wiki/Contradiction",
+        "https://en.wikipedia.org/wiki/Democracy",
+        "https://en.wikipedia.org/wiki/Kasparov",
+        "https://en.wikipedia.org/wiki/Sorting_algorithm",
+        "https://en.wikipedia.org/wiki/Recipe",
+        "https://en.wikipedia.org/wiki/Melody",
+        "https://en.wikipedia.org/wiki/Orchestration",
+        "https://en.wikipedia.org/wiki/Euclidean_geometry",
+        "https://en.wikipedia.org/wiki/Continental_drift",
+        "https://en.wikipedia.org/wiki/Earth",
+        "https://en.wikipedia.org/wiki/Formal_language",
+        "https://en.wikipedia.org/wiki/Natural_language",
+        "https://en.wikipedia.org/wiki/Combinatorics",
+        "https://en.wikipedia.org/wiki/Kolmogorov_complexity",
+        "https://en.wikipedia.org/wiki/Abstraction",
+        "https://en.wikipedia.org/wiki/Abstract_object",
+        "https://en.wikipedia.org/wiki/Deductive_apparatus",
+        "https://en.wikipedia.org/wiki/Formal_science",
+        "https://en.wikipedia.org/wiki/Mathematical_structure",
+        "https://en.wikipedia.org/wiki/Mathematical_logic",
+        "https://en.wikipedia.org/wiki/Abstract_structure",
+        "https://en.wikipedia.org/wiki/Abstract_structure",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}

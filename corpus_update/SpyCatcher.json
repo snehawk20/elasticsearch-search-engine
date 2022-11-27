@@ -1,0 +1,103 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SpyCatcher",
+    "title": "SpyCatcher",
+    "table_of_contents": [
+        "1 Development and reaction mechanism",
+        "2 Applications",
+        "2.1 Vaccine production",
+        "2.2 Enzyme cyclization",
+        "2.3 Protein hydrogels",
+        "3 Expanded Tag/Catcher pairs",
+        "4 Spy&Go affinity purification",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The SpyTag/SpyCatcher system is a technology for irreversible conjugation of recombinant proteins. The peptide SpyTag (13 amino acids) spontaneously reacts with the protein SpyCatcher (12.3 kDa) to form an intermolecular isopeptide bond between the pair.[1] DNA sequence encoding either SpyTag or SpyCatcher can be recombinantly introduced into the DNA sequence encoding a protein of interest, forming a fusion protein. These fusion proteins can be covalently linked when mixed in a reaction through the SpyTag/SpyCatcher system.\n\nUsing the Tag/Catcher pair, bioconjugation can be achieved between two recombinant proteins that would otherwise be restrictive or impossible with traditional direct genetic fusion between the two proteins. For example, issues regarding protein folding, suboptimal expression host, and specialized post-translational modifications can be alleviated by separating the production of the proteins with the modularity of the Tag/Catcher system.[2]\n\n"
+        },
+        {
+            "title": "Development and reaction mechanism",
+            "text": "SpyTag and SpyCatcher were formed from the splitting and engineering of the CnaB2 domain of the FbaB protein from Streptococcus pyogenes, which naturally forms an intramolecular isopeptide bond to assist colonization of the host cell.[3][4] With the formation of the isopeptide bond, the CnaB2 domain becomes more tolerant to conformational, thermal and pH changes.\n\nBuilding upon this, SpyTag was obtained from CnaB2 by extracting the C-terminal beta strand containing the reactive aspartic acid at D556 and leaving the rest of the beta strands containing the reactive lysine K470 and the catalytic glutamic acid at E516 to become SpyCatcher, after further engineering to remove some hydrophobic surface residues. The resulting SpyTag/SpyCatcher can react to form the isopeptide bond with a second-order rate constant of 1.4 ± 0.4 × 103 M−1 s−1. It is postulated[5] that the reaction mechanism proceeds by a nucleophilic attack of D556 from K470, mediated by E516. By reconstituting SpyTag:SpyCatcher, the resulting conjugated complex acquires the stability of the parent CnaB2 domain.\n\nA second generation SpyTag/SpyCatcher called SpyTag002/SpyCatcher002 was then created through phage display that enables the peptide-protein pair to react up to 12 times faster than the original pair, at a rate constant of 2.0 ± 0.2 × 104 M−1 s−1.[6] The second generation SpyCatcher002 also has abolished self-reactivity that is present with SpyCatcher.\n\nA third generation SpyTag/SpyCatcher called SpyTag003/SpyCatcher003 has now also been created through rational design. This reacts up to 400 fold faster than the original pair with a rate constant of 5.5 ± 0.6 × 105 M−1 s−1.[7] This version is back reactive with the two previous generations of SpyTag/SpyCatcher reagents.\n\nSpyTag/SpyCatcher react with high specificity even when in the presence of bacterial and mammalian cell environments.[1][6][7]\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "Because of the specificity, irreversible covalent linkage and ease of use, the SpyTag/SpyCatcher conjugation system has seen many different applications.[5][8][9]\n\nBy fusing either SpyTag or SpyCatcher to self-assembling molecules such as virus-like particles, antigens fused to the other pair can be decorated onto the molecule via the isopeptide bond formed.[10][11][12][13] This enables fast production of vaccines as the central self-assembling molecule can be stocked up beforehand, whilst the antigen can be easily produced under optimal conditions to achieve proper protein folding.\n\nCyclization of enzymes by fusing the N- and C-termini of the protein helps elevate the stability of the enzyme against heat. By having SpyTag and SpyCatcher together in the enzyme at the termini, the enzyme will undergo spontaneous cyclization by forming the isopeptide bond. Cyclized beta-lactamase, phytase, firefly luciferase, and xylanase (to name a few) have shown retained enzyme activity even after being subjected to heat at 100 °C.[14][15]\n\nHydrogels have had a wide-range of applications in biomedical sciences. One commonly used type of hydrogel starting material are the elastin-like polypeptides. SpyTag/SpyCatcher chemistry has been used to produce tailored molecular networks (“networks of spies”) within these hydrogels that enable the encapsulation of living mammalian cells such as fibroblasts.[16] Subsequent modifications have enabled photo-responsive hydrogel formation,[17] user-defined control over cell-material interactions,[18] combined hyaluronan-elastin-like polypeptides,[19] as well creating protein scaffolds for enzyme flow biocatalysis.[20]\n\n"
+        },
+        {
+            "title": "",
+            "text": "Before the development of SpyTag/SpyCatcher, the pair Isopeptag/Pilin-C was created from protein Spy0128 of Streptococcus pyogenes.[21] Following SpyTag/SpyCatcher, the fully orthogonal pair SnoopTag/SnoopCatcher was developed from the RrgA protein of Streptococcus pneumoniae that has no cross-reactivity with SpyTag/SpyCatcher.[22] Note that SnoopTag/SnoopCatcher forms an isopeptide bond between a Lys-Asn instead of Lys-Asp found in SpyTag/SpyCatcher. The same domain from RrgA has now been split in a different way to that used to create SnoopTag/SnoopCatcher, with the new pair called DogTag/DogCatcher. Unlike SpyTag and SnoopTag which have extended structures, the region of RrgA used to create DogTag forms a β-hairpin and so predisposed for successful insertion into protein loops. This ability has been successfully exploited to fluorescently label an internal loop of the mammalian TRPC5 membrane channel protein which cannot be modified at the protein termini, without impacting on the channel properties of TRPC5.[23] DogTag has been successful coupled to DogCatcher when inserted into soluble proteins (superfolder GFP, HaloTag, and Gre2p).[23]\n\nThe pair SdyTag/SdyCatcher was also developed in the same year from Streptococcus dysgalactiae fibronectin-binding protein CnaB domain, but since the protein has sequence similarity to the parent protein where SpyTag/SpyCatcher is derived from, this Tag/Catcher pair has cross-reactivity with the latter pair.[24]\n\nRather than finding homologous proteins from different species, a new Tag/Catcher pair was developed from SpyTag/SpyCatcher with minimal mutations. SpyTag I3W (AW) reacts with SpyCatcher F77V, F94A (BVA) but minimally with SpyCatcher, whereas SpyCatcher F77V, F94A can react with both SpyTag I3W and SpyTag.[25] However, the cross-reactivity of SpyCatcher F77V, F94A with both SpyTag versions may limit its utility as a new Tag/Catcher pair.\n\nA different chemistry can be exploited for protein ligation: the discovery of an intramolecular ester bond formation in Clostridium perfringens cell-surface adhesin protein Cpe0147 led to the development of another Tag/Catcher pair with Cpe0147565–587 as the Tag and Cpe0147439–563 as the Catcher.[26] The ester bond formed between Thr-Gln is irreversible, however by mutating the Thr to Ser, the Ser-Gln ester bond is reversible with a change of pH.\n\n"
+        },
+        {
+            "title": "",
+            "text": "Mutation of the catalytic glutamic acid residue (E77) in SpyCatcher to alanine stops isopeptide bond formation but does not prevent the initial non-covalent SpyTag/SpyCatcher association. This non-covalent SpyTag/SpyCatcher interaction has been utilized in the affinity purification of SpyTag-fused recombinant proteins.[27] In this purification strategy, termed Spy&Go, resin-immobilized SpyCatcher is used to harvest SpyTag-fused proteins from cell culture supernatants or cell lysates. Non-specifically bound proteins are removed by washing the resin with a neutral buffer and the target protein eluted at neutral pH using high imidazole concentration.\n\nThe Spy&Go affinity resin is based on SpyCatcher2.1 E77A S49C variant termed SpyDock.[27] SpyDock can be expressed in E. coli as soluble protein, purified using Ni-NTA and anion-exchange resins and immobilized to iodoacetyl-activated agarose through the unpaired cysteine introduced by the S49C substitution. In neutral buffers with physiological salt concentration SpyDock binds to SpyTag- and SpyTag002-fused proteins with affinity in the high nanomolar range (Kd = 750 ± 50 nM for SpyTag, Kd = 73 ± 13 nM for SpyTag002).[27] Affinity to SpyTag003 has not been reported, but requires harsher conditions to ensure full dissociation suggesting it binds tighter.[7] SpyDock-bound proteins are eluted by incubating the resin with 2.5 M imidazole in neutral buffer.[27] The SpyDock resin can be regenerated several times using consecutive washes with 4 M imidazole, 6 M guanidinium hydrochloride and 0.1 M NaOH.[27]\n\nSpy&Go purification of proteins with either N-terminal, internal or C-terminal SpyTag have all been reported.[7][27] SpyDock resin is compatible with all SpyTag generations (SpyTag,[1] SpyTag002,[6] SpyTag003[7]) and it does not interfere with the later covalent conjugation of the purified proteins with SpyCatcher.[27]\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Recombinant_DNA",
+        "https://en.wikipedia.org/wiki/Peptide",
+        "https://en.wikipedia.org/wiki/Amino_acid",
+        "https://en.wikipedia.org/wiki/Protein",
+        "https://en.wikipedia.org/wiki/Isopeptide_bond",
+        "https://en.wikipedia.org/wiki/Recombinant_DNA",
+        "https://en.wikipedia.org/wiki/Fusion_protein",
+        "https://en.wikipedia.org/wiki/Bioconjugation",
+        "https://en.wikipedia.org/wiki/Bioconjugation",
+        "https://en.wikipedia.org/wiki/Fusion_protein",
+        "https://en.wikipedia.org/wiki/Protein_production",
+        "https://en.wikipedia.org/wiki/Streptococcus_pyogenes",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Beta_sheet",
+        "https://en.wikipedia.org/wiki/Aspartic_acid",
+        "https://en.wikipedia.org/wiki/Lysine",
+        "https://en.wikipedia.org/wiki/Glutamic_acid",
+        "https://en.wikipedia.org/wiki/Hydrophobic",
+        "https://en.wikipedia.org/wiki/Rate_constant",
+        "https://en.wikipedia.org/wiki/Nucleophilic_attack",
+        "https://en.wikipedia.org/wiki/Phage_display",
+        "https://en.wikipedia.org/wiki/Antigen",
+        "https://en.wikipedia.org/wiki/Protein_production",
+        "https://en.wikipedia.org/wiki/Protein_folding",
+        "https://en.wikipedia.org/wiki/Phytase",
+        "https://en.wikipedia.org/wiki/Firefly_luciferase",
+        "https://en.wikipedia.org/wiki/Xylanase",
+        "https://en.wikipedia.org/wiki/Enzyme_activity",
+        "https://en.wikipedia.org/wiki/Hydrogel",
+        "https://en.wikipedia.org/wiki/Hyaluronic_acid",
+        "https://en.wikipedia.org/wiki/Enzyme",
+        "https://en.wikipedia.org/wiki/Biocatalysis",
+        "https://en.wikipedia.org/wiki/Isopeptag",
+        "https://en.wikipedia.org/wiki/Streptococcus_pyogenes",
+        "https://en.wikipedia.org/wiki/Streptococcus_pneumoniae",
+        "https://en.wikipedia.org/wiki/TRPC5",
+        "https://en.wikipedia.org/wiki/Green_fluorescent_protein",
+        "https://en.wikipedia.org/wiki/HaloTag",
+        "https://en.wikipedia.org/wiki/Streptococcus_dysgalactiae",
+        "https://en.wikipedia.org/wiki/Sequence_homology",
+        "https://en.wikipedia.org/wiki/Mutation",
+        "https://en.wikipedia.org/wiki/Clostridium_perfringens",
+        "https://en.wikipedia.org/wiki/Bacterial_adhesin",
+        "https://en.wikipedia.org/wiki/Affinity_chromatography",
+        "https://en.wikipedia.org/wiki/Recombinant_DNA",
+        "https://en.wikipedia.org/wiki/Imidazole",
+        "https://en.wikipedia.org/wiki/Escherichia_coli",
+        "https://en.wikipedia.org/wiki/Nitrilotriacetic_acid",
+        "https://en.wikipedia.org/wiki/Agarose",
+        "https://en.wikipedia.org/wiki/Protein_tag",
+        "https://en.wikipedia.org/wiki/Bioconjugation",
+        "https://en.wikipedia.org/wiki/Biomolecular_engineering",
+        "https://en.wikipedia.org/wiki/Isopeptide_bond",
+        "https://en.wikipedia.org/wiki/Protein_tag",
+        "https://en.wikipedia.org/wiki/Isopeptag",
+        "https://en.wikipedia.org/wiki/Biotin_carboxyl_carrier_protein",
+        "https://en.wikipedia.org/wiki/Green_fluorescent_protein",
+        "https://en.wikipedia.org/wiki/HaloTag",
+        "https://en.wikipedia.org/wiki/Maltose_binding_protein",
+        "https://en.wikipedia.org/wiki/Thioredoxin",
+        "https://en.wikipedia.org/wiki/SpyCatcher",
+        "https://en.wikipedia.org/wiki/SpyCatcher",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}

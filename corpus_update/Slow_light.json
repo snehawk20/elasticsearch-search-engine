@@ -1,0 +1,89 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Slow_light",
+    "title": "Slow light",
+    "table_of_contents": [
+        "1 Background",
+        "2 Ways to achieve slow light",
+        "3 Potential use",
+        "4 In fiction",
+        "5 See also",
+        "6 Notes",
+        "7 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Slow light is the propagation of an optical pulse or other modulation of an optical carrier at a very low group velocity.  Slow light occurs when a propagating pulse is substantially slowed by the interaction with the medium in which the propagation takes place.\n\nGroup velocities below c were known to be possible as far back as 1880, but could not be realized in a useful manner until 1991, when Stephen Harris and collaborators demonstrated electromagnetically induced transparency in trapped strontium atoms.[1][2] \nReduction of the speed of light by a factor of 165 was reported in 1995.[3]  In 1998, Danish physicist Lene Vestergaard Hau led a combined team from Harvard University and the Rowland Institute for Science which realized much lower group velocities of light.  They succeeded in slowing a beam of light to about 17 meters per second.[4] In 2004, researchers at UC Berkeley first demonstrated slow light in a semiconductor, with a group velocity 9.6 kilometers per second.[5] Hau and her colleagues later succeeded in stopping light completely, and developed methods by which it can be stopped and later restarted.[6][7]\n\nIn 2005, IBM created a microchip that can slow down light, fashioned out of fairly standard materials, potentially paving the way toward commercial adoption.[8]\n\n"
+        },
+        {
+            "title": "Background",
+            "text": "When light propagates through a material, it travels slower than the vacuum speed, c. This is a change in the phase velocity of the light and is manifested in physical effects such as refraction. This reduction in speed is quantified by the ratio between c and the phase velocity. This ratio is called the refractive index of the material. Slow light is a dramatic reduction in the group velocity of light, not the phase velocity. Slow light effects are not due to abnormally large refractive indices, as will be explained below.\n\nThe simplest picture of light given by classical physics is of a wave or disturbance in the electromagnetic field. In a vacuum, Maxwell's equations predict that these disturbances will travel at a specific speed, denoted by the symbol c. This well-known physical constant is commonly referred to as the speed of light. The postulate of the constancy of the speed of light in all inertial reference frames lies at the heart of special relativity and has given rise to a popular notion that the \"speed of light is always the same\".  However, in many situations light is more than a disturbance in the electromagnetic field.\n\nLight traveling within a medium is no longer a disturbance solely of the electromagnetic field, but rather a disturbance of the field and the positions and velocities of the charged particles (electrons) within the material. The motion of the electrons is determined by the field (due to the Lorentz force) but the field is determined by the positions and velocities of the electrons (due to Gauss' law and Ampère's law). The behavior of a disturbance of this combined electromagnetic-charge density field (i.e. light) is still determined by Maxwell's equations, but the solutions are complicated because of the intimate link between the medium and the field.\n\nUnderstanding the behavior of light in a material is simplified by limiting the types of disturbances studied to sinusoidal functions of time. For these types of disturbances Maxwell's equations transform into algebraic equations and are easily solved. These special disturbances propagate through a material at a speed slower than c called the phase velocity. The ratio between c and the phase velocity is called the refractive index or index of refraction of the material (n). The index of refraction is not a constant for a given material, but depends on temperature, pressure, and upon the frequency of the (sinusoidal) light wave. This latter leads to an effect called dispersion.\n\nA human eye perceives the intensity of the sinusoidal disturbance as the brightness of the light and the frequency as the color. If a light is turned on or off at a specific time or otherwise modulated, then the amplitude of the sinusoidal disturbance is also time-dependent. The time-varying amplitude does not propagate at the phase velocity but rather at the group velocity. The group velocity depends not only on the refractive index of the material, but also the way in which the refractive index changes with frequency (i.e. the derivative of refractive index with respect to frequency).\n\nSlow light refers to a very low group velocity of light. If the dispersion relation of the refractive index is such that the index changes rapidly over a small range of frequencies, then the group velocity might be very low, thousands or millions of times less than c, even though the index of refraction is still a typical value (between 1.5 and 3.5 for glasses and semiconductors).\n\n"
+        },
+        {
+            "title": "Ways to achieve slow light",
+            "text": "There are many mechanisms which can generate slow light, all of which create narrow spectral regions with high dispersion, i.e. peaks in the dispersion relation.  Schemes are generally grouped into two categories: material dispersion and waveguide dispersion.  Material dispersion mechanisms such as electromagnetically induced transparency (EIT), coherent population oscillation (CPO), and various four-wave mixing (FWM) schemes produce a rapid change in refractive index as a function of optical frequency, i.e. they modify the temporal component of a propagating wave.  This is done by using a nonlinear effect to modify the dipole response of a medium to a signal or \"probe\" field.  Waveguide dispersion mechanisms such as photonic crystals, coupled resonator optical waveguides (CROW), and other micro-resonator structures[9] modify the spatial component (k-vector) of a propagating wave. Slow light can also be achieved by exploiting the dispersion properties of planar waveguides realized with single negative metamaterials (SNM)[10][11] or double negative metamaterials (DNM).[12]\n\nA predominant figure of merit of slow light schemes is the Delay-Bandwidth Product (DBP).  Most slow light schemes can actually offer an arbitrarily long delay for a given device length (length/delay = signal velocity) at the expense of bandwidth.  The product of the two is roughly constant.  A related figure of merit is the fractional delay, the time a pulse is delayed divided by the total time of the pulse. Plasmon induced transparency – an analog of EIT – provides another approach based on the destructive interference between different resonance modes. Recent work has now demonstrated this effect over a broad transparency window across a frequency range greater than 0.40 THz.[13]\n\n"
+        },
+        {
+            "title": "Potential use",
+            "text": "Optical switches which make use of slow light in photonic crystals could produce faster data transmission in fiber optic cables, while having significantly lower power requirements.[14][15] Slow light can also be used to control delays in optical networks, permitting more orderly traffic flow.[16] In addition, slow light can be used to build interferometers that are far more sensitive to frequency shift than conventional interferometers.[17] This property can be used to build better, smaller frequency sensors and compact high resolution spectrometers.[citation needed] Other potential applications include optical quantum memory.[18]\n\n"
+        },
+        {
+            "title": "In fiction",
+            "text": "The description of \"luminite\" in Maurice Renard's novel, Le maître de la lumière (The Master of Light, 1933),  might be one of the earliest mentions of slow light.[19]\n\nSubsequent fictional works that address slow light are noted below.\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Group_velocity",
+        "https://en.wikipedia.org/wiki/Speed_of_light",
+        "https://en.wikipedia.org/wiki/Electromagnetically_induced_transparency",
+        "https://en.wikipedia.org/wiki/Lene_Hau",
+        "https://en.wikipedia.org/wiki/Harvard_University",
+        "https://en.wikipedia.org/wiki/Rowland_Institute_for_Science",
+        "https://en.wikipedia.org/wiki/Semiconductor",
+        "https://en.wikipedia.org/wiki/IBM",
+        "https://en.wikipedia.org/wiki/Integrated_circuit",
+        "https://en.wikipedia.org/wiki/Phase_velocity",
+        "https://en.wikipedia.org/wiki/Refraction",
+        "https://en.wikipedia.org/wiki/Refractive_index",
+        "https://en.wikipedia.org/wiki/Group_velocity",
+        "https://en.wikipedia.org/wiki/Light",
+        "https://en.wikipedia.org/wiki/Electromagnetic_field",
+        "https://en.wikipedia.org/wiki/Vacuum",
+        "https://en.wikipedia.org/wiki/Speed_of_light",
+        "https://en.wikipedia.org/wiki/Special_relativity",
+        "https://en.wikipedia.org/wiki/Electron",
+        "https://en.wikipedia.org/wiki/Lorentz_force",
+        "https://en.wikipedia.org/wiki/Sinusoidal",
+        "https://en.wikipedia.org/wiki/Phase_velocity",
+        "https://en.wikipedia.org/wiki/Refractive_index",
+        "https://en.wikipedia.org/wiki/Index_of_refraction",
+        "https://en.wikipedia.org/wiki/Luminous_intensity",
+        "https://en.wikipedia.org/wiki/Brightness",
+        "https://en.wikipedia.org/wiki/Group_velocity",
+        "https://en.wikipedia.org/wiki/Derivative",
+        "https://en.wikipedia.org/wiki/Dispersion_relation",
+        "https://en.wikipedia.org/wiki/Electromagnetically_induced_transparency",
+        "https://en.wikipedia.org/wiki/Photonic_crystals",
+        "https://en.wikipedia.org/wiki/Negative_index_metamaterials",
+        "https://en.wikipedia.org/wiki/Optical_networking",
+        "https://en.wikipedia.org/wiki/Interferometer",
+        "https://en.wikipedia.org/wiki/Maurice_Renard",
+        "https://en.wikipedia.org/wiki/Dave_Eggers",
+        "https://en.wikipedia.org/wiki/You_Shall_Know_Our_Velocity",
+        "https://en.wikipedia.org/wiki/Terry_Pratchett",
+        "https://en.wikipedia.org/wiki/Discworld",
+        "https://en.wikipedia.org/wiki/Bob_Shaw",
+        "https://en.wikipedia.org/wiki/Light_of_Other_Days",
+        "https://en.wikipedia.org/wiki/Analog_Science_Fiction_and_Fact",
+        "https://en.wikipedia.org/wiki/ZDNet",
+        "https://en.wikipedia.org/wiki/The_Guardian",
+        "https://en.wikipedia.org/wiki/Maurice_Renard",
+        "https://en.wikipedia.org/wiki/Terry_Pratchett",
+        "https://en.wikipedia.org/wiki/The_Colour_of_Magic",
+        "https://en.wikipedia.org/wiki/Bob_Shaw",
+        "https://en.wikipedia.org/wiki/Slow_light",
+        "https://en.wikipedia.org/wiki/Slow_light",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}
