@@ -1,0 +1,120 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Spiking_neural_network",
+    "title": "Spiking neural network",
+    "table_of_contents": [
+        "1 History",
+        "2 Underpinnings",
+        "3 Applications",
+        "4 Software",
+        "4.1 SNN simulation",
+        "5 Hardware",
+        "6 Benchmarks",
+        "7 See also",
+        "8 References",
+        "9 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Spiking neural networks (SNNs) are artificial neural networks that more closely mimic natural neural networks.[1] In addition to neuronal and synaptic state, SNNs incorporate the concept of time into their operating model. The idea is that neurons in the SNN do not transmit information at each propagation cycle (as it happens with typical multi-layer perceptron networks), but rather transmit information only when a membrane potential – an intrinsic quality of the neuron related to its membrane electrical charge – reaches a specific value, called the threshold. When the membrane potential reaches the threshold, the neuron fires, and generates a signal that travels to other neurons which, in turn, increase or decrease their potentials in response to this signal. A neuron model  that fires at the moment of threshold crossing is also called a spiking neuron model.[2]\n\nThe most prominent spiking neuron model is the leaky integrate-and-fire model. In the integrate-and-fire model, the momentary activation level (modeled as a differential equation) is normally considered to be the neuron's state, with incoming spikes pushing this value higher or lower, until the state eventually either decays or  - if the firing threshold is reached - the neuron fires. After firing the state variable is reset to a lower value.\n\nVarious decoding methods exist for interpreting the outgoing spike train as a real-value number, relying on either the frequency of spikes (rate-code), the time-to-first-spike after stimulation, or the interval between spikes.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Many multi-layer artificial neural networks are fully connected, receiving input from every neuron in the previous layer and signalling every neuron in the subsequent layer. Although these networks have achieved breakthroughs in many fields, they are biologically inaccurate and do not mimic the operation mechanism of neurons in the brain of a living thing.[3]\n\nThe biologically inspired Hodgkin–Huxley model of a spiking neuron was proposed  in 1952. This model describes how action potentials are initiated and propagated. Communication between neurons, which requires the exchange of chemical neurotransmitters in the synaptic gap, is described in various models, such as the integrate-and-fire model, FitzHugh–Nagumo model (1961–1962), and Hindmarsh–Rose model (1984). The leaky integrate-and-fire model (or a derivative) is commonly used as it is easier to compute than the Hodgkin–Huxley model.[4]\n\nBrainchip Holdings Ltd announced on 21 October 2021 that it was taking orders for its Akida AI Processor Development Kits,[5] making it the world's first commercially available neuromorphic processor operating on a spiking neural network.\n\n"
+        },
+        {
+            "title": "Underpinnings",
+            "text": "Information in the brain is represented as action potentials (neuron spikes), which may be grouped into spike trains or even coordinated waves of brain activity. A fundamental question of neuroscience is to determine whether neurons communicate by a rate or temporal code.[6] Temporal coding suggests that a single spiking neuron can replace hundreds of hidden units on a sigmoidal neural net.[1]\n\nAn SNN computes in the continuous rather than the discrete domain. The idea is that neurons may not test for activation in every iteration of propagation (as is the case in a typical multilayer perceptron network), but only when their membrane potentials reach a certain value. When a neuron is activated, it produces a signal that is passed to connected neurons, raising or lowering their membrane potential.\n\nIn a spiking neural network, a neuron's current state is defined as its membrane potential (possibly modeled as a differential equation). An input pulse causes the membrane potential to rise for a period of time and then gradually decline. Encoding schemes have been constructed to interpret these pulse sequences as a number, taking into account both pulse frequency and pulse interval. A neural network model based on pulse generation time can be established. Using the exact time of pulse occurrence, a neural network can employ more information and offer better computing properties.\n\nThe SNN approach produces a continuous output instead of the binary output of traditional ANNs. Pulse trains are not easily interpretable, hence the need for encoding schemes as above. However, a pulse train representation may be more suited for processing spatiotemporal data (or continual real-world sensory data classification).[7] SNNs consider space by connecting neurons only to nearby neurons so that they process input blocks separately (similar to CNN using filters). They consider time by encoding information as pulse trains so as not to lose information in a binary encoding. This avoids the additional complexity of a recurrent neural network (RNN). It turns out that impulse neurons are more powerful computational units than traditional artificial neurons.[8]\n\nSNNs are theoretically more powerful than second-generation networks[term undefined: what are 2nd-gen networks?]; however, SNN training issues and hardware requirements limit their use. Although unsupervised biologically inspired learning methods are available such as Hebbian learning and STDP, no effective supervised training method is suitable for SNNs that can provide better performance than second-generation networks.[citation needed] Spike-based activation of SNNs is not differentiable thus making it hard to develop gradient descent based training methods to perform error backpropagation, though a few recent algorithms such as NormAD[9] and multilayer NormAD[10] have demonstrated good training performance through suitable approximation of the gradient of spike based activation.\n\nSNNs have much larger computational costs for simulating realistic neural models than traditional ANNs.[citation needed]\n\nPulse-coupled neural networks (PCNN) are often confused with SNNs. A PCNN can be seen as a kind of SNN.\n\nCurrently there are a few challenges when using SNNs that researchers are actively working on. The first challenge concerns the nondifferentiability of the spiking nonlinearity. The expressions for both the forward- and backward-learning methods contain the derivative of the neural activation function which is non-differentiable because neuron's output is either 1 when it spikes, and 0 otherwise. This all-or-nothing behavior of the binary spiking nonlinearity stops gradients from “flowing” and makes LIF neurons unsuitable for gradient-based optimization. The second challenge concerns the implementation of the optimization algorithm itself. Standard BP can be expensive in terms of computation, memory, and communication and may be poorly suited to the constraints dictated by the hardware that implements it (e.g., a computer, brain, or neuromorphic device).[11] Regarding the first challenge there are several approached in order to overcome it. A few of them are:\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "SNNs can in principle apply to the same applications as traditional ANNs.[12] In addition, SNNs can model the central nervous system of biological organisms, such as an insect seeking food without prior knowledge of the environment.[13] Due to their relative realism, they can be used to study the operation of biological neural circuits. Starting with a hypothesis about the topology of a biological neuronal circuit and its function, recordings of this circuit can be compared to the output of the corresponding SNN, evaluating the plausibility of the hypothesis. However, there is a lack of effective training mechanisms for SNNs, which can be inhibitory for some applications, including computer vision tasks.\n\nAs of 2019 SNNs lag behind ANNs in terms of accuracy, but the gap is decreasing, and has vanished on some tasks.[14]\n\nWhen using SNNs for image based data we need to convert static images into binary spike trains coding. Types of encodings:  [15]\n\n"
+        },
+        {
+            "title": "Software",
+            "text": "A diverse range of application software can simulate SNNs. This software can be classified according to its uses:\n\n These simulate complex neural models with a high level of detail and accuracy. Large networks usually require lengthy processing. Candidates include:[16]\n\n"
+        },
+        {
+            "title": "Hardware",
+            "text": "Future neuromorphic architectures[21] will comprise billions of such nanosynapses, which require a clear understanding of the physical mechanisms responsible for plasticity. Experimental systems based on ferroelectric tunnel junctions have been used to show that STDP can be harnessed from heterogeneous polarization switching. Through combined scanning probe imaging, electrical transport and atomic-scale molecular dynamics, conductance variations can be modelled by nucleation-dominated reversal of domains. Simulations show that arrays of ferroelectric nanosynapses can autonomously learn to recognize patterns in a predictable way, opening the path towards unsupervised learning.[22]\n\n"
+        },
+        {
+            "title": "Benchmarks",
+            "text": "Classification capabilities of spiking networks trained according to unsupervised learning methods[36] have been tested on the common benchmark datasets, such as, Iris, Wisconsin Breast Cancer or Statlog Landsat dataset.[37][38][39] Various approaches to information encoding and network design have been used. For example, a 2-layer feedforward network for data clustering and classification. Based on the idea proposed in Hopfield (1995) the authors implemented models of local receptive fields combining the properties of radial basis functions (RBF) and spiking neurons to convert input signals (classified data) having a floating-point representation into a spiking representation.[40][41]\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Artificial_neural_network",
+        "https://en.wikipedia.org/wiki/Artificial_neural_network",
+        "https://en.wikipedia.org/wiki/Artificial_neuron",
+        "https://en.wikipedia.org/wiki/Electrical_synapse",
+        "https://en.wikipedia.org/wiki/Operating_Model",
+        "https://en.wikipedia.org/wiki/Artificial_neuron",
+        "https://en.wikipedia.org/wiki/Perceptron",
+        "https://en.wikipedia.org/wiki/Membrane_potential",
+        "https://en.wikipedia.org/wiki/Spiking_neuron_model",
+        "https://en.wikipedia.org/wiki/Differential_equation",
+        "https://en.wikipedia.org/wiki/Spike_train",
+        "https://en.wikipedia.org/wiki/Network_topology",
+        "https://en.wikipedia.org/wiki/Biological_neuron_model",
+        "https://en.wikipedia.org/wiki/Action_potential",
+        "https://en.wikipedia.org/wiki/Neurotransmitter",
+        "https://en.wikipedia.org/wiki/Synapse",
+        "https://en.wikipedia.org/wiki/Neural_coding",
+        "https://en.wikipedia.org/wiki/Temporal_coding",
+        "https://en.wikipedia.org/wiki/Perceptron",
+        "https://en.wikipedia.org/wiki/Convolutional_neural_network",
+        "https://en.wikipedia.org/wiki/Recurrent_neural_network",
+        "https://en.wikipedia.org/wiki/Hebbian_theory",
+        "https://en.wikipedia.org/wiki/Gradient_descent",
+        "https://en.wikipedia.org/wiki/Backpropagation",
+        "https://en.wikipedia.org/wiki/Central_nervous_system",
+        "https://en.wikipedia.org/wiki/Biological_neural_network",
+        "https://en.wikipedia.org/wiki/Electrophysiology",
+        "https://en.wikipedia.org/wiki/Application_software",
+        "https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst",
+        "https://en.wikipedia.org/wiki/Caltech",
+        "https://en.wikipedia.org/wiki/Yale_University",
+        "https://en.wikipedia.org/wiki/Duke_University",
+        "https://en.wikipedia.org/wiki/Neuromorphic_engineering",
+        "https://en.wikipedia.org/wiki/Heidelberg_University",
+        "https://en.wikipedia.org/wiki/KTH_Royal_Institute_of_Technology",
+        "https://en.wikipedia.org/wiki/PyTorch",
+        "https://en.wikipedia.org/wiki/PyTorch",
+        "https://en.wikipedia.org/wiki/Unsupervised_learning",
+        "https://en.wikipedia.org/wiki/Neurogrid",
+        "https://en.wikipedia.org/wiki/SpiNNaker",
+        "https://en.wikipedia.org/wiki/ARM_architecture",
+        "https://en.wikipedia.org/wiki/Massively_parallel_computing",
+        "https://en.wikipedia.org/wiki/Thalamocortical_radiations",
+        "https://en.wikipedia.org/wiki/University_of_Manchester",
+        "https://en.wikipedia.org/wiki/ARM_architecture",
+        "https://en.wikipedia.org/wiki/TrueNorth",
+        "https://en.wikipedia.org/wiki/Milliwatt",
+        "https://en.wikipedia.org/wiki/Neuromorphic_computing",
+        "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+        "https://en.wikipedia.org/wiki/Attractor_network",
+        "https://en.wikipedia.org/wiki/Echo_state_network",
+        "https://en.wikipedia.org/wiki/Deep_learning",
+        "https://en.wikipedia.org/wiki/Human_Brain_Project",
+        "https://en.wikipedia.org/wiki/CoDi",
+        "https://en.wikipedia.org/wiki/Cognitive_architecture",
+        "https://en.wikipedia.org/wiki/Cognitive_map",
+        "https://en.wikipedia.org/wiki/Cognitive_computer",
+        "https://en.wikipedia.org/wiki/Computational_neuroscience",
+        "https://en.wikipedia.org/wiki/Neural_coding",
+        "https://en.wikipedia.org/wiki/Neural_correlate",
+        "https://en.wikipedia.org/wiki/Neural_decoding",
+        "https://en.wikipedia.org/wiki/Neuroethology",
+        "https://en.wikipedia.org/wiki/Neuroinformatics",
+        "https://en.wikipedia.org/wiki/Models_of_neural_computation",
+        "https://en.wikipedia.org/wiki/Motion_perception",
+        "https://en.wikipedia.org/wiki/Systems_neuroscience",
+        "https://en.wikipedia.org/wiki/Wulfram_Gerstner",
+        "https://en.wikipedia.org/wiki/GitHub",
+        "https://en.wikipedia.org/wiki/Spiking_neural_network",
+        "https://en.wikipedia.org/wiki/Spiking_neural_network",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Louis_Kauffman",
+    "title": "Louis Kauffman",
+    "table_of_contents": [
+        "1 Biography",
+        "2 Work",
+        "2.1 Bracket polynomial",
+        "2.2 Kauffman polynomial",
+        "2.3 Discrete ordered calculus",
+        "3 Awards and honors",
+        "4 Publications",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Louis Hirsch Kauffman (born February 3, 1945) is an American mathematician, topologist, and professor of mathematics in the Department of Mathematics, Statistics, and Computer science at the University of Illinois at Chicago. He is known for the introduction and development of the bracket polynomial and the Kauffman polynomial.\n\n"
+        },
+        {
+            "title": "Biography",
+            "text": "Kauffman was valedictorian of his graduating class at Norwood Norfolk Central High School in 1962. He received his B.S. at the Massachusetts Institute of Technology in 1966 and his Ph.D. in mathematics from Princeton University in 1972 (with William Browder as thesis advisor).\n\nKauffman has worked at many places as a visiting professor and researcher, including the University of Zaragoza in Spain, the University of Iowa in Iowa City, the Institut des Hautes Études Scientifiques in Bures Sur Yevette, France, the Institut Henri Poincaré in Paris, France, the University of Bologna, Italy, the Federal University of Pernambuco in Recife, Brazil, and the Newton Institute in Cambridge England.[1]\n\nHe is the founding editor and one of the managing editors of the Journal of Knot Theory and Its Ramifications, and editor of the World Scientific Book Series On Knots and Everything. He writes a column entitled Virtual Logic for the journal Cybernetics and Human Knowing\n\nFrom 2005 to 2008 he was president of the American Society for Cybernetics. He plays\nclarinet in the ChickenFat Klezmer Orchestra in Chicago.\n\n"
+        },
+        {
+            "title": "Work",
+            "text": "Kauffman's research interests are in the fields of cybernetics, topology and foundations of mathematics and physics. His work is primarily in the topics of knot theory and connections with statistical mechanics, quantum theory, algebra, combinatorics and foundations.[2] In topology he introduced and developed the bracket polynomial and Kauffman polynomial.\n\nIn the mathematical field of knot theory, the bracket polynomial, also known as the Kauffman bracket, is a polynomial invariant of framed links.  Although it is not an invariant of knots or links (as it is not invariant under type I Reidemeister moves), a suitably \"normalized\" version yields the famous knot invariant called the Jones polynomial.  The bracket polynomial plays an important role in unifying the Jones polynomial with other quantum invariants.  In particular, Kauffman's interpretation of the Jones polynomial allows generalization to state sum invariants of 3-manifolds.  Recently the bracket polynomial formed the basis for Mikhail Khovanov's construction of a homology for knots and links, creating\na stronger invariant than the Jones polynomial and such that the graded Euler characteristic of the Khovanov homology is equal to the original\nJones polynomial. The generators for the chain complex of the Khovanov homology are states of the bracket polynomial decorated with elements\nof a Frobenius algebra.\n\nThe Kauffman polynomial is a 2-variable knot polynomial due to Louis Kauffman. It is defined as\n\nwhere \n\n\n\nw\n(\nK\n)\n\n\n{\\displaystyle w(K)}\n\n is the writhe and \n\n\n\nL\n(\nK\n)\n\n\n{\\displaystyle L(K)}\n\n is a regular isotopy invariant which generalizes the bracket polynomial.\n\nIn 1994, Kauffman and Tom Etter wrote a draft proposal for a non-commutative discrete ordered calculus (DOC), which they presented in revised form in 1996.[3] In the meantime, the theory was presented in a modified form by Kauffman and H. Pierre Noyes together with a presentation of a derivation of free space Maxwell's equations on this basis.[4]\n\n"
+        },
+        {
+            "title": "Awards and honors",
+            "text": "He won a Lester R. Ford Award (with Thomas Banchoff) in 1978.[5] Kauffman is the 1993 recipient of the Warren McCulloch award of the American Society for Cybernetics and the 1996 award of the Alternative Natural Philosophy Association for his work in discrete physics. He is the 2014 recipient of the Norbert Wiener award of the American Society for Cybernetics.[6]\n\nIn 2012 he became a fellow of the American Mathematical Society.[7]\n\n"
+        },
+        {
+            "title": "Publications",
+            "text": "Louis H. Kauffman is author of several monographs on knot theory and mathematical physics. His publication list numbers over 170.[1] Books:\n\nArticles and papers, a selection:\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Louis_Kaufman",
+        "https://en.wikipedia.org/wiki/United_States",
+        "https://en.wikipedia.org/wiki/Princeton_University",
+        "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+        "https://en.wikipedia.org/wiki/Mathematics",
+        "https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago",
+        "https://en.wikipedia.org/wiki/Doctoral_advisor",
+        "https://en.wikipedia.org/wiki/Mathematician",
+        "https://en.wikipedia.org/wiki/Topology",
+        "https://en.wikipedia.org/wiki/Mathematics",
+        "https://en.wikipedia.org/wiki/University_of_Illinois_at_Chicago",
+        "https://en.wikipedia.org/wiki/Bracket_polynomial",
+        "https://en.wikipedia.org/wiki/Kauffman_polynomial",
+        "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+        "https://en.wikipedia.org/wiki/Mathematics",
+        "https://en.wikipedia.org/wiki/Princeton_University",
+        "https://en.wikipedia.org/wiki/University_of_Zaragoza",
+        "https://en.wikipedia.org/wiki/University_of_Iowa",
+        "https://en.wikipedia.org/wiki/University_of_Bologna",
+        "https://en.wikipedia.org/wiki/Federal_University_of_Pernambuco",
+        "https://en.wikipedia.org/wiki/Newton_Institute",
+        "https://en.wikipedia.org/wiki/Journal_of_Knot_Theory_and_Its_Ramifications",
+        "https://en.wikipedia.org/wiki/American_Society_for_Cybernetics",
+        "https://en.wikipedia.org/wiki/Knot_theory",
+        "https://en.wikipedia.org/wiki/Statistical_mechanics",
+        "https://en.wikipedia.org/wiki/Quantum_field_theory",
+        "https://en.wikipedia.org/wiki/Algebra",
+        "https://en.wikipedia.org/wiki/Combinatorics",
+        "https://en.wikipedia.org/wiki/Topology",
+        "https://en.wikipedia.org/wiki/Bracket_polynomial",
+        "https://en.wikipedia.org/wiki/Kauffman_polynomial",
+        "https://en.wikipedia.org/wiki/Bracket_polynomial",
+        "https://en.wikipedia.org/wiki/Knot_theory",
+        "https://en.wikipedia.org/wiki/Bracket_polynomial",
+        "https://en.wikipedia.org/wiki/Polynomial",
+        "https://en.wikipedia.org/wiki/Framed_link",
+        "https://en.wikipedia.org/wiki/Reidemeister_move",
+        "https://en.wikipedia.org/wiki/Knot_invariant",
+        "https://en.wikipedia.org/wiki/Jones_polynomial",
+        "https://en.wikipedia.org/wiki/Quantum_invariant",
+        "https://en.wikipedia.org/wiki/Khovanov_homology",
+        "https://en.wikipedia.org/wiki/Frobenius_algebra",
+        "https://en.wikipedia.org/wiki/Kauffman_polynomial",
+        "https://en.wikipedia.org/wiki/Kauffman_polynomial",
+        "https://en.wikipedia.org/wiki/Knot_polynomial",
+        "https://en.wikipedia.org/wiki/Writhe",
+        "https://en.wikipedia.org/wiki/Regular_isotopy",
+        "https://en.wikipedia.org/wiki/Thomas_Banchoff",
+        "https://en.wikipedia.org/wiki/American_Society_for_Cybernetics",
+        "https://en.wikipedia.org/wiki/American_Society_for_Cybernetics",
+        "https://en.wikipedia.org/wiki/American_Mathematical_Society",
+        "https://en.wikipedia.org/wiki/Mathematics_Genealogy_Project",
+        "https://en.wikipedia.org/wiki/Louis_Kauffman",
+        "https://en.wikipedia.org/wiki/Louis_Kauffman",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}

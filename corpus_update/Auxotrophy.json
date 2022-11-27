@@ -1,0 +1,73 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Auxotrophy",
+    "title": "Auxotrophy",
+    "table_of_contents": [
+        "1 Applications",
+        "1.1 Genetics",
+        "1.2 The Mutagenicity test (or Ames test)",
+        "1.3 Auxotrophy-based methods to incorporate unnatural amino acids into proteins and proteomes",
+        "2 In popular culture",
+        "3 See also",
+        "4 Footnotes",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Auxotrophy (Ancient Greek: αὐξάνω \"to increase\"; τροφή \"nourishment\") is the inability of an organism to synthesize a particular organic compound required for its growth (as defined by IUPAC). An auxotroph is an organism that displays this characteristic; auxotrophic is the corresponding adjective. Auxotrophy is the opposite of prototrophy, which is characterized by the ability to synthesize all the compounds needed for growth.\n\nPrototrophic cells (also referred to as the 'wild type') are self sufficient producers of all required metabolites (e.g. amino acids, lipids, cofactors), while auxotrophs require to be on medium with the metabolite that they cannot produce.[1] For example saying a cell is methionine auxotrophic means that it would need to be on a medium containing methionine or else it would not be able to replicate. In this example this is because it is unable to produce its own methionine (methionine auxotroph). However, a prototroph or a methionine prototrophic cell would be able to function and replicate on a medium with or without methionine.[2]\n\nReplica plating is a technique that transfers colonies from one plate to another in the same spot as the last plate so the different media plates can be compared side by side. It is used to compare the growth of the same colonies on different plates of media to determine which environments the bacterial colony can or cannot grow in (this gives insight to possible auxotrophic characteristics. The method of replica plating implemented by Joshua Lederberg and Esther Lederberg included auxotrophs that were temperature-sensitive; that is, their ability to synthesize was temperature-dependent.[3] (Auxotrophs are usually not temperature-dependent. They can also depend on other factors.) It is also possible that an organism is auxotrophic to more than just one organic compound that it requires for growth.[4]\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "In genetics, a strain is said to be auxotrophic if it carries a mutation that renders it unable to synthesize an essential compound.  For example, a yeast mutant with an inactivated uracil synthesis pathway gene is a uracil auxotroph (e.g., if the yeast Orotidine 5'-phosphate decarboxylase gene is inactivated, the resultant strain is a uracil auxotroph). Such a strain is unable to synthesize uracil and will only be able to grow if uracil can be taken up from the environment. This is the opposite of a uracil prototroph, or in this case a wild-type strain, which can still grow in the absence of uracil. Auxotrophic genetic markers are often used in molecular genetics; they were famously used in Beadle and Tatum's Nobel prize-winning work on the one gene-one enzyme hypothesis, connecting mutations of genes to protein mutations. This then allows for biosynthetic or biochemical pathway mapping that can help determine which enzyme or enzymes are mutated and dysfunctional in the auxotrophic strains of bacteria being studied.[2]\n\nResearchers have used strains of E. coli auxotrophic for specific amino acids to introduce non-natural amino acid analogues into proteins. For instance cells auxotrophic for the amino acid phenylalanine can be grown in media supplemented with an analogue such as para-azido phenylalanine.\n\nMany living things, including humans, are auxotrophic for large classes of compounds required for growth and must obtain these compounds through diet (see vitamin, essential nutrient, essential amino acid, essential fatty acid).\n\nThe complex pattern of evolution of vitamin auxotrophy across the eukaryotic tree of life is intimately connected with the interdependence between organisms.[5]\n\nThe Salmonella Mutagenesis test (Ames test) uses multiple strains of Salmonella typhimurium that are auxotrophic to histidine to test whether a given chemical can cause mutations by observing its auxotrophic property in response to an added chemical compound.[6] The mutation a chemical substance or compound causes is measured by applying it to the bacteria on a plate containing histidine then moving the bacteria to a new plate without sufficient histidine for continual growth. If the substance does not mutate the genome of the bacteria from auxotrophic to histidine back to prototrophic to histidine, then the bacteria would not show growth on the new plate. So by comparing the ratio of the bacteria on the new plate to the old plate and the same ratio for the control group, it is possible to quantify how mutagenic a substance is, or rather, how likely it is to cause mutations in DNA.[7] A chemical is considered positive for Ames test if it causes mutations increasing the observed reversion rate and negative if presents similar to the control group. There is a normal, but small, number of revertant colonies expected when an auxotrophic bacteria is plated on a media without the metabolite it needs because it could mutate back to prototrophy. The chances of this are low and therefore cause very small colonies to be formed. If a mutagenic substance is added, however, the number of revertants would be visibly higher than without the mutagenic substance. The Ames test, basically, is considered positive if a substance increases chance of mutation in the DNA of the bacteria enough to cause a quantifiable difference in the revertants of the mutagen plate and the control group plate. Negative Ames test means the possible mutagen DID not cause increase in revertants and positive Ames test signifies that the possible mutagen DID increase the chance of mutation. These mutagenic effects on bacteria are researched as a possible indicator of the same effects on larger organisms, like humans. It is suggested that if a mutation can arise in bacterial DNA under presence of a mutagen then the same effect would occur for larger organisms causing cancer.[6] A negative Ames test result could suggest that the substance is not a mutagen and would not cause tumor formation in living organisms. However only few of the positive Ames Test resulting chemicals were considered insignificant when tested in larger organisms but the positive Ames test for bacteria still could not be conclusively linked to expression of cancer in larger organisms. While it can be a possible determinant of tumors for living organisms, humans, animals, and so on, more studies must be completed to come to a conclusion.[8]\n\nA large number of unnatural amino acids, which are similar to their canonical counterparts in shape, size and chemical properties, are introduced into the recombinant proteins by means of auxotrophic expression hosts.[9] For example, methionine (Met) or tryptophan (Trp) auxotrophic Escherichia coli strains can be cultivated in a defined minimal medium. In this experimental setup it is possible to express recombinant proteins whose canonical Trp and Met residues are completely substituted with different medium-supplemented related analogs.[10] This methodology leads to a new form of protein engineering, which is not performed by codon manipulation at the DNA level (e.g. oligonucleotide-directed mutagenesis), but by codon reassignments at the level of protein translation under efficient selective pressure.[11] Therefore, the method is referred as selective pressure incorporation (SPI).[12]\n\nNo organism studied so far encodes other amino acids than the canonical twenty; two additional canonical amino acids (selenocysteine, pyrrolysine) are inserted into proteins by recoding translation termination signals. This boundary can be crossed by adaptive laboratory evolution of metabolically stable auxotrophic microbial strains. For example, the first clearly successful attempt to evolve Escherichia coli that can survive solely on the unnatural amino acid thieno[3,2-b]pyrrolyl) alanine as the only substitute for tryptophan was made in 2015.[13]\n\n"
+        },
+        {
+            "title": "In popular culture",
+            "text": "The 1993 film Jurassic Park (based on the 1990 Michael Crichton novel of the same name) features dinosaurs that were genetically altered so that they could not produce the amino acid lysine.[14] This was known as the \"lysine contingency\" and was supposed to prevent the cloned dinosaurs from surviving outside the park, forcing them to be dependent on lysine supplements provided by the park's veterinary staff. In reality, no animals are capable of producing lysine (it is an essential amino acid).[15]\n\n"
+        }
+    ],
+    "links": [
+        "https://en.wikipedia.org/wiki/Ancient_Greek_language",
+        "https://en.wikipedia.org/wiki/Organic_compound",
+        "https://en.wikipedia.org/wiki/IUPAC",
+        "https://en.wikipedia.org/wiki/Wild_type",
+        "https://en.wikipedia.org/wiki/Amino_acid",
+        "https://en.wikipedia.org/wiki/Lipid",
+        "https://en.wikipedia.org/wiki/Methionine",
+        "https://en.wikipedia.org/wiki/Replica_plating",
+        "https://en.wikipedia.org/wiki/Joshua_Lederberg",
+        "https://en.wikipedia.org/wiki/Esther_Lederberg",
+        "https://en.wikipedia.org/wiki/Genetics",
+        "https://en.wikipedia.org/wiki/Mutation",
+        "https://en.wikipedia.org/wiki/Yeast",
+        "https://en.wikipedia.org/wiki/Uracil",
+        "https://en.wikipedia.org/wiki/Molecular_genetics",
+        "https://en.wikipedia.org/wiki/George_Wells_Beadle",
+        "https://en.wikipedia.org/wiki/Edward_Lawrie_Tatum",
+        "https://en.wikipedia.org/wiki/Nobel_prize",
+        "https://en.wikipedia.org/wiki/Proteins",
+        "https://en.wikipedia.org/wiki/Vitamin",
+        "https://en.wikipedia.org/wiki/Essential_nutrient",
+        "https://en.wikipedia.org/wiki/Essential_amino_acid",
+        "https://en.wikipedia.org/wiki/Essential_fatty_acid",
+        "https://en.wikipedia.org/wiki/Eukaryotic",
+        "https://en.wikipedia.org/wiki/Ames_test",
+        "https://en.wikipedia.org/wiki/Salmonella_typhimurium",
+        "https://en.wikipedia.org/wiki/Histidine",
+        "https://en.wikipedia.org/wiki/Mutations",
+        "https://en.wikipedia.org/wiki/Codon_reassignment",
+        "https://en.wikipedia.org/wiki/Michael_Crichton",
+        "https://en.wikipedia.org/wiki/Dinosaur",
+        "https://en.wikipedia.org/wiki/Genetic_engineering",
+        "https://en.wikipedia.org/wiki/Lysine",
+        "https://en.wikipedia.org/wiki/Cloning",
+        "https://en.wikipedia.org/wiki/Essential_amino_acid",
+        "https://en.wikipedia.org/wiki/Autotroph",
+        "https://en.wikipedia.org/wiki/Bradytroph",
+        "https://en.wikipedia.org/wiki/Juri_Rappsilber",
+        "https://en.wikipedia.org/wiki/The_New_York_Times",
+        "https://en.wikipedia.org/wiki/Auxotrophy",
+        "https://en.wikipedia.org/wiki/Auxotrophy",
+        "https://en.wikipedia.org/wiki/Main_Page",
+        "https://en.wikipedia.org/wiki/Main_Page"
+    ]
+}
