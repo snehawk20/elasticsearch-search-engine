@@ -1,0 +1,80 @@
+{% extends 'index.html' %}
+
+{% block head %}
+    <link rel="stylesheet" href="/static/styleSearch.css">
+{% endblock %}
+
+{% block content %}
+<div class="body">
+    <h2>Search Engine</h2>
+    <div >
+        <h1 class="heading" >Science Fiction Films</h1>
+       
+    <section class="intro" style="margin-top: -45px;">
+        <div class="mask d-flex align-items-center h-100">
+            <div class="container">
+            <form action="/response" method="post">
+
+              <div class="row" style="margin-right: 2px;
+              margin-left: 2px;">
+                
+                <div class=" mx-auto">
+                  <div class="card mb-2" style="border-radius: 10em; background: linear-gradient(to right, #F0B6D5, #A38495);">
+                    <div class="card-body p-2">
+                       <div class="input-group input-group-lg">
+                        <input type="text" class="form-control form-control-lg rounde bg-transparent text-white"
+                          placeholder="Type Query" aria-label="Type Keywords" aria-describedby="basic-addon2" name="query" id="query"/>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="card" style="background-color: #edeaea;">
+                    <div class="card-body p-4">
+                      <h6 class="text-uppercase mt-3 mb-4" style="color: #A38495;">Advanced search</h6>
+                      <div class="row">
+                        <div class="col-md-4 mb-3" style="flex: 100%;
+                        max-width: 100%;">
+                          <div class="dropdown">
+                            <select class="custom-select" id="inputGroupSelect01" name="model">
+                                <option selected hidden>Scoring Model: </option>
+                                <option value="1">BM25</option>
+                                <option value="2">TF-IDF</option>
+                            </select>
+                          </div>
+                        </div>
+                        <div class="col-md-4 mb-3" style="flex: 100%;
+                        max-width: 100%;">
+                         
+                            <select class="custom-select" id="inputGroupSelect01" name="topdocs" >
+                                <option selected hidden>Documents To be Retrieved: </option>
+                                <option value="1">Top 7</option>
+                                <option value="2">Top 10</option>
+                                <option value="3">Retrieve All</option>
+                            </select> 
+                        </div>
+
+                        <div class="bSpace">
+                        
+                            <button type="button" class="btn btn-outline-success button" style="border-color: #A38495; color:black;" onclick="window.location.reload(true)">Reset</button>
+                            <button type="submit" class="btn btn-rounded purple-gradient" formaction="/response" >Search</button>
+                        </div>                    
+                    </div>
+                  </div>
+
+                </div>
+             </div>
+            </form>
+            </div>
+          </div>
+        
+      </section>
+    </div>
+</div>
+
+<script>
+    function myFunction() {
+      document.getElementById("myForm").reset();
+    }
+</script>
+{% endblock %}
+
+
