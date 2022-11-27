@@ -1,0 +1,33 @@
+{% extends "index.html" %}
+{% block head %}
+    <link rel="stylesheet" href="/static/styleResult.css">
+{% endblock %}
+
+{% block content %}
+    
+    <div>
+        <div class="main">
+            <div class="input-group input-group-lg header">
+                <input type="text" class="form-control form-control-lg rounde bg-transparent query" style="font-size: 3.25rem;"
+                  placeholder= "{{ query }}" disabled aria-label="Type Keywords" aria-describedby="basic-addon2" name="query" id="query" />
+          
+            </div>
+            <div class="flex-container">
+                {% for item in data %}
+                <div><a href="{{ item }}" target="_blank">{{ item }}</a></div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+
+<!-- 
+    query fized at the top
+
+    entire page static
+    with just results scrollable
+    and also clickable :||
+
+
+ -->

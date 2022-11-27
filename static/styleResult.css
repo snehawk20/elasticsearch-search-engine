@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/498309616/photo/great-ocean-road-at-night-milky-way-view.jpg?s=170667a&w=0&k=20&c=6RqhI1CMKaldfpSnAlsZZOQF9LfvadmkOFzaQUrGvWY=");
+    background-repeat: no-repeat ;
+    background-size:90%;
+    background-position: center;
+    /* background-position-y: 30px; */
+    height:600px;
+    /* margin: 20px 20px 20px 20px; */
+    margin-top: 2%;
+    margin-left: 6%;
+    margin-right: 7%;
+}
+
+.query {
+    color: aliceblue;
+    text-decoration: solid aliceblue;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    /* position: absolute; */
+    flex-direction: column;
+    background-color: transparent;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    /* margin-bottom: -20px; */
+    overflow: scroll;
+    /* border: 1px solid white; */
+
+    /* width:300px; */
+    height:750px;
+    justify-content: flex-start;
+
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 3px;
+    width:95%;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    margin-left: 24px;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+    border: 1px;
+
+    flex: 0 0 auto;
+  }
