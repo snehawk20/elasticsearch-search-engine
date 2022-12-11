@@ -1,14 +1,10 @@
 from flask import Flask, request, render_template, redirect, jsonify,url_for
 from elasticsearch import Elasticsearch
-import json
-import requests
 import os
-from flask_restful import Api , Resource , reqparse
 
 es = Elasticsearch({"host":"localhost","port":9200,"scheme":"http"})
 
 app=Flask(__name__)
-api = Api(app)
 
 @app.route('/')
 def searchQuery():
@@ -23,13 +19,14 @@ def response():
         query=request.form['query']
         model=request.form['model']
         topdocs=request.form['topdocs']
+        querytype=request.form['querytype']
 
         my_dir = os.path.dirname(__file__)
         file_path = os.path.join(my_dir, "trial.py")
         file = open(file_path)
         getvalues={}
        
-        exec(file.read(),{"query":query,"model":model, "topdocs": topdocs},getvalues)
+        exec(file.read(),{"query":query,"model":model, "topdocs": topdocs , "querytype" : querytype},getvalues)
     else:
         print("error occurred while making request")
 
