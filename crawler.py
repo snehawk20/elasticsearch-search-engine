@@ -91,7 +91,7 @@ class WikipediaCrawler:
             if link_url is not None:
                 if self.wiki_page_link_pattern.match(link_url):
                     base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(url))
-                    page.links.append(base_url + link_url)
+                    #page.links.append(base_url + link_url)
                     pages.extend(self.crawl(base_url + link_url, depth + 1))
 
         # extract paragraphs
@@ -110,27 +110,27 @@ class WikipediaCrawler:
         page.paragraphs = list(filter(lambda x: x["text"] != "", page.paragraphs))
 
         # extract graphics
-        image_container = soup.find_all('div', {'class': 'thumbinner'})
-        zero_graphic = {"url": "", "caption": ""}
+        # image_container = soup.find_all('div', {'class': 'thumbinner'})
+        # zero_graphic = {"url": "", "caption": ""}
 
-        for image in image_container:
-            current_graphic = copy.deepcopy(zero_graphic)
+        # for image in image_container:
+        #     current_graphic = copy.deepcopy(zero_graphic)
 
-            for child in image.children:
-                if child.name == "a":
-                    current_graphic["url"] = child.get('href')
+        #     for child in image.children:
+        #         if child.name == "a":
+        #             current_graphic["url"] = child.get('href')
 
-                elif child.name == "div":
-                    current_graphic["caption"] = child.text
+        #         elif child.name == "div":
+        #             current_graphic["caption"] = child.text
 
-            page.graphics.append(current_graphic)
+        #     page.graphics.append(current_graphic)
 
         toc_element = soup.find(id="toc")
         if toc_element is not None:
             page.table_of_contents = list(filter(lambda x: x != "", toc_element.text.split("\n")[1:]))
 
         page.title = soup.find(id="firstHeading").text
-        page.html = str(soup)
+        # page.html = str(soup)
 
         if self.store_after_parsing:
             page.store(self.directory)
