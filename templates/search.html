@@ -34,8 +34,11 @@
                         <input id="search" type="text" class="form-control form-control-lg rounde bg-transparent text-white"
                           placeholder="Type Query" aria-label="Type Keywords" aria-describedby="basic-addon2" name="query" id="query"/>
                         </div>
-                        <ul id="suggestions"></ul>
                     </div>
+                  </div>
+                  <div class="card mb-2" style="background: transparent">
+                    <ul id="suggestions"></ul>
+
                   </div>
                   <div class="card" style="background-color: #edeaea;">
                     <div class="card-body p-4">
@@ -47,7 +50,7 @@
                             <select class="custom-select" id="inputGroupSelect01" name="model">
                                 <option selected hidden>Scoring Model: </option>
                                 <option value="1">BM25</option>
-                                <option value="2">TF-IDF</option>
+                                <option value="2">Jelinek_Mercer</option>
                             </select>
                           </div>
                         </div>
@@ -98,12 +101,17 @@
           console.log(response["title"].length)
 
           ul.innerHTML = " "
-
+         // ul.setAttribute(style="list-style-type: none")
+         
           for (var i = 0; i < response["title"].length; i++) {
             var li = document.createElement("li");
             li.appendChild(document.createTextNode(response["title"][i]));
+            var val=response["title"][i];
+
+            li.setAttribute('onclick', 'document.getElementById("search").value = "'+val+'";' );
             ul.appendChild(li);
           }
+
         }
 
       })
