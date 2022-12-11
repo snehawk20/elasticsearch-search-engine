@@ -1,0 +1,29 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Rodney_Brooks",
+    "title": "Rodney Brooks",
+    "table_of_contents": [
+        "1 Life",
+        "2 Work",
+        "2.1 Academic work",
+        "2.2 Industrial work",
+        "2.3 Robots",
+        "3 Bibliography",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nRodney Allen Brooks (born 30 December 1954[1][2]) is an Australian roboticist, Fellow of the Australian Academy of Science, author, and robotics entrepreneur, most known for popularizing the actionist approach to robotics. He was a Panasonic Professor of Robotics at the Massachusetts Institute of Technology and former director of the MIT Computer Science and Artificial Intelligence Laboratory. He is a founder and former Chief Technical Officer of iRobot[3] and co-Founder, Chairman and Chief Technical Officer of Rethink Robotics (formerly Heartland Robotics) and currently[when?] is the co-founder and Chief Technical Officer of Robust.AI (founded in 2019).[4]\n\n"
+        },
+        {
+            "title": "Life",
+            "text": "Brooks received a M.A. in pure mathematics from Flinders University of South Australia.[citation needed]\n\nIn 1981, he received a PhD in Computer Science from Stanford University under the supervision of Thomas Binford.[5] He has held research positions at Carnegie Mellon University and MIT and a faculty position at Stanford University. He joined the faculty of MIT in 1984. He was Panasonic Professor of Robotics at the Massachusetts Institute of Technology. He was director of the MIT Computer Science and Artificial Intelligence Laboratory (1997–2007), previously the \"Artificial Intelligence Laboratory\".\n\nIn 1997, Brooks and his work were featured in the film Fast, Cheap & Out of Control.[6]\n\nBrooks became a member of the National Academy of Engineering in 2004 for contributions to the foundations and applications of robotics, including the establishment of consumer and hazardous environment robotics industries.[7]\n\n"
+        },
+        {
+            "title": "Work",
+            "text": "Instead of computation as the ultimate conceptual metaphor that helped artificial intelligence become a separate discipline in the scientific community, he proposed that action or behavior are more appropriate to be used in robotics. Critical of applying the computational metaphor, even to the fields where the action metaphor is more appropriate, he wrote in 2008 that:\n\nIn his 1990 paper, \"Elephants Don't Play Chess\",[9] Brooks argued that in order for robots to accomplish everyday tasks in an environment shared by humans, their higher cognitive abilities, including abstract thinking emulated by symbolic reasoning, need to be based on the primarily sensory-motor coupling (action) with the environment, complemented by the proprioceptive sense which is a key component in hand–eye coordination, pointing out that:\n\nBrooks was an entrepreneur before leaving academia to found Rethink Robotics. He was one of ten founders of Lucid Inc., and worked with them until the company's closure in 1993.[citation needed] Before Lucid closed, Brooks had founded iRobot with former students Colin Angle and Helen Greiner.\n\nHe experimented with off-the-shelf components, such as Fischertechnik and Lego, and tried to make robots self-replicate by putting together clones of themselves using the components. His robots include mini-robots used in oil wells explorations without cables, the robots that searched for survivors at Ground Zero in New York, and the robots used in medicine doing robotic surgery.[6]\n\nIn the late 1980s, Brooks and his team introduced Allen, a robot using subsumption architecture. As of 2012[update] Brooks' work focused on engineering intelligent robots to operate in unstructured environments, and understanding human intelligence through building humanoid robots.[citation needed]\n\nIntroduced in 2012 by Rethink Robotics, an industrial robot named Baxter was intended as the robotic analogue of the early personal computer designed to safely interact with neighboring human workers and be programmable for the performance of simple tasks. The robot stopped if it encountered a human in the way of its robotic arm and has a prominent off switch which its human partner can push if necessary. Costs were projected to be the equivalent of a worker making $4 an hour.[10]\n\n"
+        }
+    ]
+}

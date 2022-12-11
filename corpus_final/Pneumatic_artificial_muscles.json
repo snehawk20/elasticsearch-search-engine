@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Pneumatic_artificial_muscles",
+    "title": "Pneumatic artificial muscles",
+    "table_of_contents": [
+        "1 Advantages",
+        "2 Hydraulic operation",
+        "3 See also",
+        "4 Notes",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Pneumatic artificial muscles (PAMs) are contractile or extensional devices operated by pressurized air filling a pneumatic bladder. In an approximation of human muscles, PAMs are usually grouped in pairs: one agonist and one antagonist.\n\nPAMs were first developed (under the name of McKibben Artificial Muscles) in the 1950s for use in artificial limbs. The Bridgestone rubber company (Japan) commercialized the idea in the 1980s under the name of Rubbertuators.\n\nThe retraction strength of the PAM is limited by the sum total strength of individual fibers in the woven shell. The exertion distance is limited by the tightness of the weave; a very loose weave allows greater bulging, which further twists individual fibers in the weave.\n\nOne example of a complex configuration of air muscles is the Shadow Dexterous Hand[1] developed by the Shadow Robot Company, which also sells a range of muscles for integration into other projects/systems.[2]\n\n"
+        },
+        {
+            "title": "Advantages",
+            "text": "PAMs are very lightweight because their main element is a thin membrane. This allows them to be directly connected to the structure they power, which is an advantage when considering the replacement of a defective muscle. If a defective muscle has to be substituted, its location will always be known and its substitution becomes easier. This is an important characteristic, since the membrane is connected to rigid endpoints, which introduces tension concentrations and therefore possible membrane ruptures.\n\nAnother advantage of PAMs is their inherent compliant behaviour: when a force is exerted on the PAM, it \"gives in\", without increasing the force in the actuation. This is an important feature when the PAM is used as an actuator in a robot that interacts with a human, or when delicate operations have to be carried out.\n\nIn PAMs the force is not only dependent on pressure but also on their state of inflation. This is one of the major advantages; the mathematical model that supports the PAMs functionality is a non-linear system, which makes them much easier[citation needed]  than conventional pneumatic cylinder actuators to control precisely. The relationship between force and extension in PAMs mirrors what is seen in the length-tension relationship in biological muscle systems.\n\nThe compressibility of the gas is also an advantage since it adds compliance. As with other pneumatic systems PAM actuators usually need electric valves and a compressed air generator.\n\nThe loose-weave nature of the outer fiber shell also enables PAMs to be flexible and to mimic biological systems. If the surface fibers are very badly damaged and become unevenly distributed leaving a gap, the internal bladder may inflate through the gap and rupture. As with all pneumatic systems it is important that they are not operated when damaged.\n\n"
+        },
+        {
+            "title": "Hydraulic operation",
+            "text": "Although the technology is primarily pneumatically (gas) operated, there is nothing that prevents the technology from also being hydraulically (liquid) operated. Using an incompressible fluid increases system rigidity and reduces compliant behavior.\n\nIn 2017, such a device was presented by Bridgestone and the Tokyo Institute of Technology,[3] with a claimed strength-to-weight ratio five to ten times higher than for conventional electric motors and hydraulic cylinders.\n\n"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Vesica_piscis",
+    "title": "Vesica piscis",
+    "table_of_contents": [
+        "1 Mathematical description",
+        "1.1 Area",
+        "2 Applications",
+        "3 Symbolism",
+        "4 Gallery",
+        "5 See also",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The vesica piscis is a type of lens, a mathematical shape formed by the intersection of two disks with the same radius, intersecting in such a way that the center of each disk lies on the perimeter of the other.[1] In Latin, \"vesica piscis\" literally means \"bladder of a fish\", reflecting the shape's resemblance to the conjoined dual air bladders (\"swim bladder\") found in most fish.[2] In Italian, the shape's name is mandorla (\"almond\").[3]\n\nThis figure appears in the first proposition of Euclid's Elements, where it forms the first step in constructing an equilateral triangle using a compass and straightedge. The triangle has as its vertices the two disk centers and one of the two sharp corners of the vesica piscis.[4]\n\n"
+        },
+        {
+            "title": "Mathematical description",
+            "text": "Mathematically, the vesica piscis is a special case of a lens, the shape formed by the intersection of two disks.\n\nThe mathematical ratio of the height of the vesica piscis to the width across its center is the square root of 3, or 1.7320508... (since if straight lines are drawn connecting the centers of the two circles with each other and with the two points where the circles intersect, two equilateral triangles join along an edge). The ratios 265:153 = 1.7320261... and 1351:780 = 1.7320513... are two of a series of approximations to this value, each with the property that no better approximation can be obtained with smaller whole numbers.  Archimedes of Syracuse, in his Measurement of a Circle, uses these ratios as upper and lower bounds:[5]\n\nThe area of the vesica piscis is formed by two equilateral triangles and four equal circular segments. In the drawing one triangle and one segment appear in blue.\n\nOne triangle and one segment form a sector of one sixth of the circle (60°).\nThe area of the sector is then: \n\n\n\n\n\n1\n6\n\n\nπ\n\nr\n\n2\n\n\n\n\n{\\displaystyle {\\frac {1}{6}}\\pi r^{2}}\n\n.\n\nSince the side of the equilateral triangle has length r, its area is \n\n\n\n\n\n\n3\n\n4\n\n\n\nr\n\n2\n\n\n\n\n{\\displaystyle {\\frac {\\sqrt {3}}{4}}r^{2}}\n\n.\n\nThe area of the segment is the difference between those two areas:\n\nBy summing the areas of two triangles and four segments, we obtain the area of the vesica piscis:\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "The two circles of the vesica piscis, or three circles forming in pairs three vesicae, are commonly used in Venn diagrams. Arcs of the same three circles can also be used to form the triquetra symbol, and the Reuleaux triangle.[3]\n\nIn Christian art, some aureolas are in the shape of a vertically oriented vesica piscis, and the seals of ecclesiastical organizations can be enclosed within a vertically oriented vesica piscis (instead of the more usual circular enclosure). Also, the ichthys symbol incorporates the vesica piscis shape. Ecclesiastical heraldry of the Catholic Church appeared first in seals, nearly all vesica-shaped.[6][7] The vesica piscis has been used within Freemasonry, most notably in the shapes of the collars worn by officiants of the Masonic rituals.[8] It was also considered the proper shape for the enclosure of the seals of Masonic lodges.[9][10]\n\nThe vesica piscis is also used as proportioning system in architecture, in particular Gothic architecture. The system was illustrated in Cesare Cesariano's 1521 version of Vitruvius's De architectura, which he called \"the rule of the German architects\". The vesica piscis was a leitmotif of architect Carlo Scarpa and is used as a “viewing device” in Tomba Brion (Brion Cemetery) in San Vito d'Altivole, Italy.[11]\n\nSeveral other artworks or designs have also featured this shape:\n\n"
+        },
+        {
+            "title": "Symbolism",
+            "text": "Various symbolic meanings have been associated with the vesica piscis:\n\n"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Orbital_spaceflight",
+    "title": "Orbital spaceflight",
+    "table_of_contents": [
+        "1 Orbital launch",
+        "2 Stability",
+        "3 Orbits",
+        "4 Orbital maneuver",
+        "5 Deorbit and re-entry",
+        "6 History",
+        "7 See also",
+        "8 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nAn orbital spaceflight (or orbital flight) is a spaceflight in which a spacecraft is placed on a trajectory where it could remain in space for at least one orbit. To do this around the Earth, it must be on a free trajectory which has an altitude at perigee (altitude at closest approach) around 80 kilometers (50 mi); this is the boundary of space as defined by NASA, the US Air Force and the FAA. To remain in orbit at this altitude requires an orbital speed of ~7.8 km/s. Orbital speed is slower for higher orbits, but attaining them requires greater delta-v. The Fédération Aéronautique Internationale has established the Kármán line at an altitude of 100 km (62 mi) as a working definition for the boundary between aeronautics and astronautics. This is used because at an altitude of about 100 km (62 mi), as Theodore von Kármán calculated, a vehicle would have to travel faster than orbital velocity to derive sufficient aerodynamic lift from the atmosphere to support itself.[1][2]\n\nDue to atmospheric drag, the lowest altitude at which an object in a circular orbit can complete at least one full revolution without propulsion is approximately 150 kilometres (93 mi).\n\nThe expression \"orbital spaceflight\" is mostly used to distinguish from sub-orbital spaceflights, which are flights where the apogee of a spacecraft reaches space, but the perigee is too low.[3]\n\n"
+        },
+        {
+            "title": "Orbital launch",
+            "text": "Orbital spaceflight from Earth has only been achieved by launch vehicles that use rocket engines for propulsion. To reach orbit, the rocket must impart to the payload a delta-v of about 9.3–10 km/s. This figure is mainly (~7.8 km/s) for horizontal acceleration needed to reach orbital speed, but allows for atmospheric drag (approximately 300 m/s with the ballistic coefficient of a 20 m long dense fueled vehicle), gravity losses (depending on burn time and details of the trajectory and launch vehicle), and gaining altitude.\n\nThe main proven technique involves launching nearly vertically for a few kilometers while performing a gravity turn, and then progressively flattening the trajectory out at an altitude of 170+ km and accelerating on a horizontal trajectory (with the rocket angled upwards to fight gravity and maintain altitude) for a 5–8-minute burn until orbital velocity is achieved. Currently, 2–4 stages are needed to achieve the required delta-v.  Most launches are by expendable launch systems.\n\nThe Pegasus rocket for small satellites instead launches from an aircraft at an altitude of 39,000 ft (12 km).\n\nThere have been many proposed methods for achieving orbital spaceflight that have the potential of being much more affordable than rockets. Some of these ideas such as the space elevator, and rotovator, require new materials much stronger than any currently known.  Other proposed ideas include ground accelerators such as launch loops, rocket assisted aircraft/spaceplanes such as Reaction Engines Skylon, scramjet powered spaceplanes, and RBCC powered spaceplanes. Gun launch has been proposed for cargo.\n\nFrom 2015 SpaceX have demonstrated significant progress in their more incremental approach to reducing the cost of orbital spaceflight. Their potential for cost reduction comes mainly from pioneering propulsive landing with their reusable rocket booster stage as well as their Dragon capsule, but also includes reuse of the other components such as the payload fairings and the use of 3D printing of a superalloy to construct more efficient rocket engines, such as their SuperDraco. The initial stages of these improvements could reduce the cost of an orbital launch by an order of magnitude.[4]\n\n"
+        },
+        {
+            "title": "Stability",
+            "text": "An object in orbit at an altitude of less than roughly 200 km is considered unstable due to atmospheric drag. For a satellite to be in a stable orbit (i.e. sustainable for more than a few months), 350 km is a more standard altitude for low Earth orbit. For example, on 1 February 1958 the Explorer 1 satellite was launched into an orbit with a perigee of 358 kilometers (222 mi).[5] It remained in orbit for more than 12 years before its atmospheric reentry over the Pacific Ocean on 31 March 1970.\n\nHowever, the exact behaviour of objects in orbit depends on altitude, their ballistic coefficient, and details of space weather which can affect the height of the upper atmosphere.\n\n"
+        },
+        {
+            "title": "Orbits",
+            "text": "There are three main \"bands\" of orbit around the Earth: low Earth orbit (LEO), medium Earth orbit (MEO), and geostationary orbit (GEO).\n\nAccording to orbital mechanics, an orbit lies in a particular, largely fixed plane around the Earth, which coincides with the center of the Earth, and may be inclined with respect to the equator. The relative motion of the spacecraft and the movement of the Earth's surface, as the Earth rotates on its axis, determine the position that the spacecraft appears in the sky from the ground, and which parts of the Earth are visible from the spacecraft.\n\nIt is possible to calculate a ground track that shows which part of the Earth a spacecraft is immediately above; this is useful for helping to visualise the orbit.\n\n"
+        },
+        {
+            "title": "Orbital maneuver",
+            "text": "In spaceflight, an orbital maneuver is the use of propulsion systems to change the orbit of a spacecraft. For spacecraft far from Earth—for example those in orbits around the Sun—an orbital maneuver is called a deep-space maneuver (DSM).\n\n"
+        },
+        {
+            "title": "Deorbit and re-entry",
+            "text": "Returning spacecraft (including all potentially crewed craft) have to find a way of slowing down as much as possible while still in higher atmospheric layers and avoiding hitting the ground (lithobraking) or burning up.  For many orbital space flights, initial deceleration is provided by the retrofiring of the craft's rocket engines, perturbing the orbit (by lowering perigee down into the atmosphere) onto a suborbital trajectory.  Many spacecraft in low Earth orbit (e.g., nanosatellites or spacecraft that have run out of station keeping fuel or are otherwise non-functional) solve the problem of deceleration from orbital speeds through using atmospheric drag (aerobraking) to provide initial deceleration.  In all cases, once initial deceleration has lowered the orbital perigee into the mesosphere, all spacecraft lose most of the remaining speed, and therefore kinetic energy, through the atmospheric drag effect of aerobraking.\n\nIntentional aerobraking is achieved by orienting the returning space craft so as to present the heat shields forward toward the atmosphere to protect against the high temperatures generated by atmospheric compression and friction caused by passing through the atmosphere at hypersonic speeds.  The thermal energy is dissipated mainly by compression heating the air in a shockwave ahead of the vehicle using a blunt heat shield shape, with the aim of minimising the heat entering the vehicle.\n\nSub-orbital space flights, being at a much lower speed, do not generate anywhere near as much[further explanation needed] heat upon re-entry.\n\nEven if the orbiting objects are expendable, most[quantify] space authorities[example  needed] are pushing toward controlled re-entries to minimize hazard to lives and property on the planet.[citation needed]\n\n"
+        }
+    ]
+}

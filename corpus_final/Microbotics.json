@@ -1,0 +1,35 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Microbotics",
+    "title": "Microbotics",
+    "table_of_contents": [
+        "1 History",
+        "2 Definitions",
+        "3 Design considerations",
+        "4 Types and applications",
+        "4.1 Medical microbots",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Microbotics (or microrobotics) is the field of miniature robotics, in particular mobile robots with characteristic dimensions less than 1 mm. The term can also be used for robots capable of handling micrometer size components.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Microbots were born thanks to the appearance of the microcontroller in the last decade of the 20th century, and the appearance of microelectromechanical systems (MEMS) on silicon, although many microbots do not use silicon for mechanical components other than sensors. The earliest research and conceptual design of such small robots was conducted in the early 1970s in (then) classified research for U.S. intelligence agencies. Applications envisioned at that time included prisoner of war rescue assistance and electronic intercept missions. The underlying miniaturization support technologies were not fully developed at that time, so that progress in prototype development was not immediately forthcoming from this early set of calculations and concept design.[1] As of 2008, the smallest microrobots use a scratch drive actuator.[2]\n\nThe development of wireless connections, especially Wi-Fi (i.e. in household networks) has greatly increased the communication capacity of microbots, and consequently their ability to coordinate with other microbots to carry out more complex tasks. Indeed, much recent research has focused on microbot communication, including a 1,024 robot swarm at Harvard University that assembles itself into various shapes;[3] and manufacturing microbots at SRI International for DARPA's \"MicroFactory for Macro Products\" program that can build lightweight, high-strength structures.[4][5]\n\nMicrobots called xenobots have also been built using biological tissues instead of metal and electronics.[6] Xenobots avoid some of the technological and environmental complications of traditional microbots as they are self-powered, biodegradable, and biocompatible.\n\n"
+        },
+        {
+            "title": "Definitions",
+            "text": "While the \"micro\" prefix has been used subjectively to mean \"small\", standardizing on length scales avoids confusion. Thus a nanorobot would have characteristic dimensions at or below 1 micrometer, or manipulate components on the 1 to 1000 nm size range.[citation needed]  A microrobot would have characteristic dimensions less than 1 millimeter, a millirobot would have dimensions less than a cm, a mini-robot would have dimensions less than 10 cm (4 in), and a small robot would have dimensions less than 100 cm (39 in).[citation needed]\n\nMany sources also describe robots larger than 1 millimeter as microbots or robots larger than 1 micrometer as nanobots. See also: Category:Micro robots\n\n"
+        },
+        {
+            "title": "Design considerations",
+            "text": "The way microrobots move around is a function of their purpose and necessary size.  At submicron sizes, the physical world demands rather bizarre ways of getting around.  The Reynolds number for airborne robots is less than unity; the  viscous forces dominate the  inertial forces, so “flying” could use the viscosity of air, rather than Bernoulli's principle of lift.  Robots moving through fluids may require rotating  flagella like the motile form of  E. coli.  Hopping is stealthy and energy-efficient; it allows the robot to negotiate the surfaces of a variety of terrains.[7] Pioneering calculations (Solem 1994) examined possible behaviors based on physical realities.[8]\n\nOne of the major challenges in developing a microrobot is to achieve motion using a very limited power supply. The microrobots can use a small lightweight battery source like a coin cell or can scavenge power from the surrounding environment in the form of vibration or light energy.[9] Microrobots are also now using biological motors as power sources, such as flagellated Serratia marcescens, to draw chemical power from the surrounding fluid to actuate the robotic device. These biorobots can be directly controlled by stimuli such as chemotaxis or galvanotaxis with several control schemes available. A popular alternative to an onboard battery is to power the robots using externally induced power. Examples include the use of electromagnetic fields,[10] ultrasound and light to activate and control micro robots.[11]\n\nThe 2022 study focused on a photo-biocatalytic approach for the \"design of light-driven microrobots with applications in microbiology and biomedicine\".[12][13]\n\n"
+        },
+        {
+            "title": "Types and applications",
+            "text": "Due to their small size, microbots are potentially very cheap, and could be used in large numbers (swarm robotics) to explore environments which are too small or too dangerous for people or larger robots. It is expected that microbots will be useful in applications such as looking for survivors in collapsed buildings after an earthquake or crawling through the digestive tract. What microbots lack in brawn or computational power, they can make up for by using large numbers, as in swarms of microbots.\n\nPotential applications with demonstrated prototypes include:\n\nFor example, there are biocompatible microalgae-based microrobots for active drug-delivery in the lungs and the gastrointestinal tract,[33][34][35] and magnetically guided engineered bacterial microbots for 'precision targeting'[36] for fighting cancer[37][38] that all have been tested with mice.\n\n"
+        }
+    ]
+}

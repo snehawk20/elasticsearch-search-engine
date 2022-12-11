@@ -1,0 +1,29 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SERENDIP",
+    "title": "SERENDIP",
+    "table_of_contents": [
+        "1 Background",
+        "2 Projects",
+        "3 Findings",
+        "4 See also",
+        "5 References and notes"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "SERENDIP (Search for Extraterrestrial Radio Emissions from Nearby Developed Intelligent Populations) is a Search for Extra-Terrestrial Intelligence (SETI) program originated by the Berkeley SETI Research Center at the University of California, Berkeley.[1]\n\nSERENDIP takes advantage of ongoing \"mainstream\" radio telescope observations as a \"piggy-back\" or \"commensal\" program. Rather than having its own observation program, SERENDIP analyzes deep space radio telescope data that it obtains while other astronomers are using the telescope.\n\n"
+        },
+        {
+            "title": "Background",
+            "text": "The initial SERENDIP instrument was a 100-channel analog radio spectrometer covering 100 kHz of bandwidth. Subsequent instruments have been significantly more capable, with the number of channels doubling roughly every year. These instruments have been deployed at a large number of telescopes including the NRAO 90m telescope at Green Bank and the Arecibo 305m telescope.\n\nSERENDIP observations have been conducted at frequencies between 400 MHz and 5 GHz, with most observations near the so-called Cosmic Water Hole (1.42 GHz (21 cm) neutral hydrogen and 1.66 GHz hydroxyl transitions).\n\n"
+        },
+        {
+            "title": "Projects",
+            "text": "SERENDIP V was installed at the Arecibo Observatory in June 2009. The digital back-end instrument was an FPGA-based 128 million-channel digital spectrometer covering 200 MHz of bandwidth.  It took data commensally with the seven-beam Arecibo L-band Feed Array (ALFA).[2]\n\nThe next generation of SERENDIP experiments, SERENDIP VI was deployed in 2014 at both Arecibo and the Green Bank Telescope.[3] SERENDIP VI will also look for fast radio bursts, in collaboration with scientists from University of Oxford and West Virginia University.[4]\n\n"
+        },
+        {
+            "title": "Findings",
+            "text": "The program has found around 400 suspicious signals, but there is not enough data to prove that they belong to extraterrestrial intelligence.[5] In September–October 2004 the media wrote about Radio source SHGb02+14a and its artificial origin, but scrutiny has not been able to confirm its connection with an extraterrestrial civilization.[6] Currently no confirmed extraterrestrial signals have been found.[7]\n\n"
+        }
+    ]
+}

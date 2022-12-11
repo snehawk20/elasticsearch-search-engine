@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Module_file",
+    "title": "Module file",
+    "table_of_contents": [
+        "1 Structure",
+        "2 Popular formats",
+        "3 Scene",
+        "4 Music disk",
+        "5 Software module file players and converters",
+        "5.1 Players",
+        "5.2 Converters and trackers",
+        "5.3 Libraries",
+        "6 See also",
+        "7 References",
+        "8 Further reading",
+        "9 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Module file (MOD music, tracker music) is a family of music file formats originating from the MOD file format on Amiga systems used in the late 1980s. Those who produce these files (using the software called music trackers) and listen to them form the worldwide MOD scene,[1] a part of the demoscene subculture.\n\nThe mass interchange of \"MOD music\" or \"tracker music\" (music stored in module files created with trackers) evolved from early FIDO networks. Many websites host large numbers of these files, the most comprehensive of them being the Mod Archive.\n\nNowadays, most module files, including ones in compressed form, are supported by most popular media players such as VLC, Foobar2000, Exaile and many others (mainly due to inclusion of common playback libraries such as libmodplug for gstreamer).\n\n"
+        },
+        {
+            "title": "Structure",
+            "text": "Module files store digitally recorded samples and several \"patterns\" or \"pages\" of music data in a form similar to that of a spreadsheet.[2] These patterns contain note numbers, instrument numbers, and controller messages.[2] The number of notes that can be played simultaneously depends on how many \"tracks\" there are per pattern.[3]And the song is built of a pattern list, that tells in what order these patterns shall be played in the song.\n\nA disadvantage of module files is that there is no real standard specification in how the modules should be played back properly, which may result in modules sounding slightly different in different players. This is mostly due to effects that can be applied to the samples in the module file and how the authors of different players choose to implement them. However, tracker music has the advantage of requiring very little CPU overhead for playback, and is executed in real-time.[4]\n\n"
+        },
+        {
+            "title": "Popular formats",
+            "text": "Each module file format builds on concepts introduced in its predecessors.\n\n"
+        },
+        {
+            "title": "Scene",
+            "text": "The process of composing module files, known as tracking, is a skillful activity that involves a much closer contact with musical sound than conventional composition, as every aspect of each sonic event is coded, from pitch and duration to exact volume, panning, and laying in numerous effects such as echo, tremolo and fades.[1] Once the module file is finished, it is released to the tracker community. The composer uploads the new composition to one or more of several sites where module files are archived, making it available to their audience, who will download the file on their own computers. By encoding textual information within each module file, composers maintain contact with their audiences and with one another by including their email addresses, greetings to fans and other composers, and virtual signatures.[1]\n\nAlthough trackers can be considered to have some technical limitations, they do not prevent a creative individual from producing music that is indiscernible from professionally created music. The demosceners were focused on pushing the limits of technology.[12] Many tracker musicians gained international prominence within MOD software users and some of them went on to work for high-profile video game studios, or began to appear on large record labels.[8][13] Notable artists include Andrew Sega, Purple Motion, Darude, Alexander Brandon, Peter Hajba, Axwell, Venetian Snares, Jesper Kyd, TDK, Thomas J. Bergersen, Markus Kaarlonen, Michiel van den Bos and Dan Gardopée. It is also widely known that many of Aphrodite's early releases were made on two synchronized Amigas running OctaMED, and that James Holden made majority of his early material in Jeskola Buzz. Deadmau5 and Erez Eisen of Infected Mushroom have both used Impulse Tracker in their early career.[14][15]\n\n"
+        },
+        {
+            "title": "Music disk",
+            "text": "Music disk, or musicdisk, is a term used by the demoscene to describe a collection of songs made on a computer.  They are essentially the computer equivalent of an album.  A music disk is typically packaged in the form of a program with a custom user interface, so the listener does not need other software to play the songs.[16]  The \"disk\" part of the term comes from the fact that music disks were once made to fit on a single floppy disk, so they could be easily distributed at demo parties.  On modern platforms, music disks are usually downloaded to a hard disk drive.\n\nAmiga music disks usually consist of MOD files, while PC music disks often contain multichannel formats such as XM or IT.  Music disks are also common on the Commodore 64 and Atari ST, where they use their own native formats.\n\nRelated terms include music pack, which can refer to a demoscene music collection that does not include its own player, and chipdisk, a music disk containing only chiptunes, which have become popular on the PC given the large size of MP3 music disks.\n\n"
+        }
+    ]
+}

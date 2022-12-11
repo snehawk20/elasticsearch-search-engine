@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Polyphyletic",
+    "title": "Polyphyly",
+    "table_of_contents": [
+        "1 Etymology",
+        "2 Avoidance",
+        "3 Polyphyletic species",
+        "4 See also",
+        "5 References",
+        "6 Bibliography",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A polyphyletic group is an assemblage of organisms or other evolving elements that is of mixed evolutionary origin.[1] The term is often applied to groups that share similar features known as homoplasies, which are explained as a result of convergent evolution. The arrangement of the members of a polyphyletic group is called a polyphyly /ˈpɒlɪˌfaɪli/.[2] It is contrasted with monophyly and paraphyly.\n\nFor example, the biological characteristic of warm-bloodedness evolved separately in the ancestors of mammals and the ancestors of birds; \"warm-blooded animals\" is therefore a polyphyletic grouping.[3] Other examples of polyphyletic groups are algae, C4 photosynthetic plants,[4] and edentates.[5]\n\nMany taxonomists aim to avoid homoplasies in grouping taxa together, with a goal to identify and eliminate groups that are found to be polyphyletic. This is often the stimulus for major revisions of the classification schemes. Researchers concerned more with ecology than with systematics may take polyphyletic groups as legitimate subject matter; the similarities in activity within the fungus group Alternaria, for example, can lead researchers to regard the group as a valid genus while acknowledging its polyphyly.[6] In recent research, the concepts of monophyly, paraphyly, and polyphyly have been used in deducing key genes for barcoding of diverse groups of species.[7]\n\n"
+        },
+        {
+            "title": "Etymology",
+            "text": "The term polyphyly, or polyphyletic, derives from the two Ancient Greek words, πολύς (polús), meaning \"many, a lot of\", and φῦλον (phûlon), meaning \"genus, species\",[8][9] and refers to the fact that a polyphyletic group includes organisms (e.g., genera, species) arising from multiple ancestral sources.\n\nConversely, the term monophyly, or monophyletic, builds on the ancient Greek prefix μόνος (mónos), meaning \"alone, only, unique\",[8][9] and refers to the fact that a monophyletic group includes organisms consisting of all the descendants of a unique common ancestor.\n\nBy comparison, the term paraphyly, or paraphyletic, uses the ancient Greek prefix παρά (pará), meaning \"beside, near\",[8][9] and refers to the situation in which one or several monophyletic subgroups are left apart from all other descendants of a unique common ancestor.\n\n"
+        },
+        {
+            "title": "Avoidance",
+            "text": "In many schools of taxonomy, the recognition of polyphyletic groups in a classification is discouraged. Monophyletic groups (that is, clades) are considered by these schools of thought to be the only valid groupings of organisms because they are diagnosed (\"defined\", in common parlance) on the basis of synapomorphies, while paraphyletic or polyphyletic groups are not.  From the perspective of ancestry, clades are simple to define in purely phylogenetic terms without reference to clades previously introduced: a node-based clade definition, for example, could be \"All descendants of the last common ancestor of species X and Y\". On the other hand, polyphyletic groups can be delimited as a conjunction of several clades, for example \"the flying vertebrates consist of the bat, bird, and pterosaur clades\".  \n\nFrom a practical perspective, grouping species monophyletically facilitates prediction far more than does polyphyletic grouping. For example, classifying a newly discovered grass in the monophyletic family Poaceae, the true grasses, immediately results in numerous predictions about its structure and its developmental and reproductive characteristics, that are synapomorphies of this family. In contrast, Linnaeus' assignment of plants with two stamens to the polyphyletic class Diandria, while practical for identification, turns out to be useless for prediction, since the presence of exactly two stamens has developed convergently in many groups.[10]\n\n"
+        },
+        {
+            "title": "Polyphyletic species",
+            "text": "Species have a special status in systematics as being an observable feature of nature itself and as the basic unit of classification.[11] It is usually implicitly assumed that species are monophyletic (or at least paraphyletic). However, hybrid speciation arguably leads to polyphyletic species.[12] Hybrid species are a common phenomenon in nature, particularly in plants where polyploidy allows for rapid speciation.[13] Some cladist authors do not consider species to possess the property of \"-phyly\", which they assert applies only to groups of species. [14][15]\n\n"
+        }
+    ]
+}

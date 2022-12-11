@@ -1,0 +1,60 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Breakthrough_Listen",
+    "title": "Breakthrough Listen",
+    "table_of_contents": [
+        "1 Overview",
+        "2 Announcement",
+        "3 Significance",
+        "4 Targets",
+        "5 Breakthrough Listen Exotica Catalog",
+        "6 Data processing",
+        "7 Funding",
+        "8 Project leadership",
+        "9 Results",
+        "10 See also",
+        "11 References",
+        "12 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Breakthrough Listen is a project to search for intelligent extraterrestrial communications in the Universe.[1][2] With $100 million in funding and thousands of hours of dedicated telescope time on state-of-the-art facilities,[3] it is the most comprehensive search for alien communications to date.[1][2] The project began in January 2016, and is expected to continue for 10 years.[4] It is a component of Yuri Milner's Breakthrough Initiatives program. The science program for Breakthrough Listen is based at Berkeley SETI Research Center,[5][6] located in the Astronomy Department[7] at the University of California, Berkeley.\n\nThe project uses radio wave observations from the Green Bank Observatory and the Parkes Observatory, and visible light observations from the Automated Planet Finder.[8] Targets for the project include one million nearby stars and the centers of 100 galaxies. All data generated from the project are available to the public, and SETI@Home (BOINC) is used for some of the data analysis. The first results were published in April 2017, with further updates expected every 6 months.[6]\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "The project aims to discover signs of extraterrestrial civilizations by searching stars and galaxies for radio signals and laser transmissions. The search for radio signals is carried out on the Green Bank Telescope in the Northern Hemisphere and the Parkes Telescope in the Southern Hemisphere. The Green Bank Telescope is the world's largest steerable radio telescope, and the Parkes Telescope is the second-largest steerable radio telescope in the Southern Hemisphere.[9][10]\n\nTogether, the radio telescopes will cover ten times more sky than previous searches and scan the entire 1-to-10 GHz range, the so-called \"quiet zone\" in the spectrum where radio waves are unobscured by cosmic sources or Earth's atmosphere.[11]\n\nThe radio telescopes are sensitive enough to detect \"Earth-leakage\" levels of radio transmission from stars within 5 parsecs,[4] and can detect a transmitter of the same power as a common aircraft radar from the 1,000 nearest stars.[12] The Green Bank Telescope began operations in January 2016, and the Parkes Telescope from October 2016.[4] The FAST radiotelescope in China also joined forces in October 2016 with the Breakthrough Initiatives to launch a coordinated search, including the rapid sharing of promising new signals for additional observation and analysis.[13]\n\nThe search for optical laser transmissions is carried out by the Automated Planet Finder of Lick Observatory.[14] The telescope has the sensitivity to detect a 100 watt laser from a star 25 trillion miles (4.25 light years) away.[12]\n\n"
+        },
+        {
+            "title": "Announcement",
+            "text": "Breakthrough Listen was announced to the public on July 20, 2015 (the anniversary of the Apollo 11 Moon landing) by Milner at London's Royal Society. The event was flanked by scientists such as Frank Drake, who is known for the Drake equation that estimates the number of detectable alien civilizations, and Geoff Marcy, an astronomer who has helped find hundreds of exoplanets.[15] The announcement included an open letter co-signed by multiple scientists, including physicist Stephen Hawking, expressing support for an intensified search for alien life.[1][16] During the public launch, Hawking said:\n\n"
+        },
+        {
+            "title": "Significance",
+            "text": "The project is the most comprehensive search for alien communications to date.[1] It is estimated that the project will generate as much data in one day as previous SETI projects generated in one year.[1] Compared to previous programs, the radio surveys cover 10 times more of the sky, at least 5 times more of the radio spectrum, and work 100 times faster.[14] The optical laser survey is also the deepest and broadest search in history.[14]\n\nAndrew Siemion, director of the Berkeley SETI Research Center at the University of California, Berkeley, describes that \"We would typically get 24–36 hours on a telescope per year, but now we'll have thousands of hours per year on the best instruments...It's difficult to overstate how big this is. It's a revolution.\"[17]\n\n"
+        },
+        {
+            "title": "Targets",
+            "text": "As of April 2016, the targets for the radio search with the Green Bank Radio Telescope in the Northern Hemisphere include the following:[4]\n\nThe Parkes Radio Telescope will cover similar targets in the Southern Hemisphere from 1–4 GHz, and also the galactic plane and center.[4]\n\nThe targets for the Automated Planet Finder will closely match those of the Green Bank radio search, with small adjustments due to the telescope's much smaller field of view.[4]\n\nWhile the telescopes are observing, the current targets of the Green Bank Radio Telescope and the Automated Planet Finder can be viewed live at the Berkeley Seti Research Center.[citation needed]\n\nIn January 2017, the project published its initial targets, which are the 60 nearest stars and a further 1649 stars which are the closest representatives of each spectral type.[18] The initial targets also include 123 galaxies which cover all morphological types of galaxies.[18]\n\nIn October 2019 it was announced that Breakthrough Listen will collaborate with scientist from NASA's Transiting Exoplanet Survey Satellite (TESS) team. Over a thousand new planets found by TESS will be scanned for technosignatures. The search will use Listen's primary facilities (Green Bank and Parkes Telescopes, MeerKAT, and the Automated Planet Finder) as well as partner facilities (including VERITAS, NenuFAR, FAST, the Murchison Widefield Array, LOFAR stations in Ireland and Sweden, Jodrell Bank Observatory, e-MERLIN, Keck Observatory, Sardinia Radio Telescope, along with the Allen Telescope Array). In addition to targeting of TESS planets with Listen facilities, the TESS lightcurves themselves will be searched for anomalies, for example caused by megastructures.[19][20]\n\n"
+        },
+        {
+            "title": "Breakthrough Listen Exotica Catalog",
+            "text": "Breakthrough Listen Exotica Catalog is a list of 700 targets that were chosen \"to include \"one of everything\" in the observed Universe – ranging from comets to galaxies, from mundane objects to the most rare and violent celestial phenomena\".[21][22][23]\n\nThere are four types of targets in the catalog:[21]\n\n"
+        },
+        {
+            "title": "Data processing",
+            "text": "Analyzing radio observations for possible signals requires intensive data analysis to cover all of the possible signal types. To carry out an in-depth search, the data recorder at the Green Bank telescope has been significantly upgraded.[24] The system records 6 GHz of bandwidth at 24GB of data per second, making it among the highest data rate recording systems in radio astronomy, and there is a plan to double its capabilities in the near future.[24] Once this data has been recorded, it is analysed for signals using a computing cluster with 64 GTX 1080 GPUs.[24] The raw data is reduced to a lower resolution to allow long-term storage, but even this reduced data totals approximately 1 petabyte per year.[25]\n\nAll data generated from Breakthrough Listen project will be open to the public.[26] The data is uploaded on the initiative's Open Data Archive, where any user can download it for software analysis. Breakthrough Initiatives are developing open source software to assist users in understanding and analyzing the data, which are available on GitHub under UCBerkeleySETI.[26]\n\nThe data is also processed by the SETI@home (BOINC) volunteer computer network, with the first batch of data being made available to SETI@home in April 2016.[4]\n\n"
+        },
+        {
+            "title": "Funding",
+            "text": "The project is funded with $100 million from Yuri Milner.[27] One third of this funding will be used to purchase telescope time.[28] So far, the project has signed contracts for around 20 percent of the time on the Green Bank Telescope for the next five years, and 25 percent of the time on the Parkes Telescope.[9][29]  Another third will be used for the development of new equipment to receive and process potential signals,[28] and the final third will be used to hire astronomy staff.[30]\n\n"
+        },
+        {
+            "title": "Project leadership",
+            "text": "Among the projects leaders are:[citation needed]\n\n"
+        },
+        {
+            "title": "Results",
+            "text": "The project has begun at lower frequencies as these have a lower frequency range which is easier to record and process, and plans eventually to observe in a wide range of frequencies from 1.15 GHz to 93 GHz.[24]\n\n"
+        }
+    ]
+}

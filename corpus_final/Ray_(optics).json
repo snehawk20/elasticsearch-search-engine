@@ -1,0 +1,29 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Incident_light",
+    "title": "Ray (optics)",
+    "table_of_contents": [
+        "1 Definition",
+        "2 Special rays",
+        "2.1 Interaction with surfaces",
+        "2.2 Optical systems",
+        "2.3 Fiber optics",
+        "3 Geometrical optics",
+        "4 Ray tracing",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In optics a ray is an idealized geometrical model of light, obtained by choosing a curve that is perpendicular to the wavefronts of the actual light, and that points in the direction of energy flow.[1][2]  Rays are used to model the propagation of light through an optical system, by dividing the real light field up into discrete rays that can be computationally propagated through the system by the techniques of ray tracing. This allows even very complex optical systems to be analyzed mathematically or simulated by computer.  Ray tracing uses approximate solutions to Maxwell's equations that are valid as long as the light waves propagate through and around objects whose dimensions are much greater than the light's wavelength.  Ray optics or geometrical optics does not describe phenomena such as diffraction, which require wave optics theory. Some wave phenomena such as interference can be modeled in limited circumstances by adding phase to the ray model.\n\n"
+        },
+        {
+            "title": "Definition",
+            "text": "A light ray is a line (straight or curved) that is perpendicular to the light's wavefronts; its tangent is collinear with the wave vector. Light rays in homogeneous media are straight. They bend at the interface between two dissimilar media and may be curved in a medium in which the refractive index changes. Geometric optics describes how rays propagate through an optical system. Objects to be imaged are treated as collections of independent point sources, each producing spherical wavefronts and corresponding outward rays. Rays from each object point can be mathematically propagated to locate the corresponding point on the image.\n\nA slightly more rigorous definition of a light ray follows from Fermat's principle, which states that the path taken between two points by a ray of light is the path that can be traversed in the least time.[3]\n\n"
+        },
+        {
+            "title": "Special rays",
+            "text": "There are many special rays that are used in optical modelling to analyze an optical system. These are defined and described below, grouped by the type of system they are used to model.\n\n"
+        }
+    ]
+}

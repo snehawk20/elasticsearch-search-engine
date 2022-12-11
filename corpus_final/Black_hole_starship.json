@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Black_hole_starship",
+    "title": "Black hole starship",
+    "table_of_contents": [
+        "1 Advantages",
+        "2 Criteria",
+        "3 Criticism",
+        "4 In fiction",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In astronautics, a black hole starship is the theoretical concept of a starship capable of interstellar travel using a black hole as an energy source for spacecraft propulsion. The concept was first discussed in science fiction, notably in the book Imperial Earth by Arthur C. Clarke, and in the work of Charles Sheffield, in which energy extracted from a Kerr–Newman black hole is described as powering the rocket engines in the story \"Killing Vector\" (1978).[1]\n\nIn a more detailed analysis, a proposal to create an artificial black hole and using a parabolic reflector to reflect its Hawking radiation was discussed in 2009 by Louis Crane and Shawn Westmoreland.[2] Their conclusion was that it was on the edge of possibility, but that quantum gravity effects that are presently unknown will either make it easier, or make it impossible.[3] Similar concepts were also sketched out by Bolonkin.[4]\n\n"
+        },
+        {
+            "title": "Advantages",
+            "text": "Although beyond current technological capabilities, a black hole starship offers some advantages compared to other possible methods. For example, in nuclear fusion or fission, only a small proportion of the mass is converted into energy, so enormous quantities of material would be needed. Thus, a nuclear starship would greatly deplete Earth of fissile and fusile material. One possibility is antimatter, but the manufacturing of antimatter is hugely energy-inefficient, and antimatter is difficult to contain. The Crane and Westmoreland paper states:\n\n"
+        },
+        {
+            "title": "Criteria",
+            "text": "According to the authors, a black hole to be used in space travel needs to meet five criteria:[5]\n\nBlack holes seem to have a sweet spot in terms of size, power and lifespan which is almost ideal. A black hole weighing 606,000 metric tons (6.06 × 108 kg) would have a Schwarzschild radius of 0.9 attometers (0.9 × 10–18 m, or 9 × 10–19 m), a power output of 160 petawatts (160 × 1015 W, or 1.6 × 1017 W), and a 3.5-year lifespan. With such a power output, the black hole could accelerate to 10% the speed of light in 20 days, assuming 100% conversion of energy into kinetic energy. Assuming only 10% conversion into kinetic energy, it would take 10 times more.[2]\n\nGetting the black hole to act as a power source and engine also requires a way to convert the Hawking radiation into energy and thrust. One potential method involves placing the hole at the focal point of a parabolic reflector attached to the ship, creating forward thrust, if such a reflector can be built. A slightly easier, but less efficient method would involve simply absorbing all the gamma radiation heading towards the fore of the ship to push it onwards, and let the rest shoot out the back.[5][6] This would, however, generate an enormous amount of heat as radiation is absorbed by the dish.\n\n"
+        },
+        {
+            "title": "Criticism",
+            "text": "It is not clear that a starship powered by Hawking radiation can be made feasible within the laws of known physics. In the standard black hole thermodynamic model, the average energy of emitted quanta increases as size decreases, and extremely small black holes emit the majority of their energy in particles other than photons.[7][8] In the Journal of the British Interplanetary Society, Jeffrey S. Lee of Icarus Interstellar states a typical quantum of radiation from a one-attometer black hole would be too energetic to be reflected. Lee further argues absorption (for example, by pair production from emitted gamma rays) may also be infeasible: A titanium \"Dyson cap\", optimized at 1 cm thickness and a radius around 33 km (to avoid melting), would absorb almost half the incident energy, but the maximum spaceship velocity over the black hole lifetime would be less than 0.0001c (about 30 km/s), according to Lee's calculations.[8]\n\nGovind Menon of Troy University suggests exploring the use of a rotating (Kerr–Newmann) black hole instead: \"With non-rotating black holes, this is a very difficult thing...we typically look for energy almost exclusively from rotating black holes. Schwarzschild black holes do not radiate in an astrophysical, gamma ray burst point of view. It is not clear if Hawking radiation alone can power starships.\"[5]\n\n"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Project_Valkyrie",
+    "title": "Project Valkyrie",
+    "table_of_contents": [
+        "1 Design",
+        "2 Engines",
+        "3 Criticism",
+        "4 Trivia",
+        "5 See also",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Valkyrie is a theoretical spacecraft designed by Charles Pellegrino and Jim Powell (a physicist at Brookhaven National Laboratory). The Valkyrie is theoretically able to accelerate to 92% the speed of light and decelerate afterward, carrying a small human crew to another star system.[1]\n\n"
+        },
+        {
+            "title": "Design",
+            "text": "The Valkyrie's high performance is attributable to its innovative design. Instead of a solid spacecraft with a rocket at the back, Valkyrie is built more like a cable car train, with the crew quarters, fuel tanks, radiation shielding, and other vital components being pulled between front and aft engines on long tethers. This greatly reduces the mass of the ship, because it no longer requires heavy structural members and radiation shielding. This is a considerable advantage because in a rocket every extra kilogram of payload (dry mass) will require a corresponding extra amount of propellant or fuel.\n\nThe Valkyrie would have a crew module trailing 10 kilometers behind the engine. A small 20-cm-thick tungsten shield would hang 100 meters behind the engine, to help protect the trailing crew module from its harmful radiation.[2] The fuel tank might be placed between the crew module and the engine, to further protect it. At the trailing end of the ship would be a second engine, which the ship would use to decelerate. The forward engine and the tank holding its fuel supply might be jettisoned before deceleration, to reduce fuel consumption.[1] The tether system requires that the elements of the ship must be moved \"up\" or \"down\" the tethers depending on flight direction.\n\n"
+        },
+        {
+            "title": "Engines",
+            "text": "Initially the Valkyrie's engine would work by using small quantities of antimatter to initiate an extremely energetic fusion reaction. A magnetic coil captures the exhaust products of this reaction, expelling them with an exhaust velocity of 12-20% the speed of light (35,000-60,000 km/s). As the spacecraft approaches 20% the speed of light, more antimatter is fed into the engines until it switches over to pure matter-antimatter annihilation.[2] It will use this mode to accelerate the remainder of the way to .92 c. Pellegrino estimates that the ship would require 100 tons of matter and antimatter to reach 0.1-0.2c, with an undetermined excess of matter to ensure the antimatter is efficiently utilized. To reach a speed of .92 c and decelerate afterward, Valkyrie would require a mass ratio of 22 (or 2200 tons of fuel for a 100-ton spacecraft).[1]\n\nAt such high speeds, incident debris would be a major hazard. While accelerating, Valkyrie uses a device that combines the functions of a particle shield and a liquid droplet radiator. Waste heat is dumped into liquid droplets that are cast out in front of the ship. As the ship accelerates the droplets (now cool) effectively fall back into the ship, so the system is self-recycling. During deceleration the ship will be protected by ultra-thin umbrella shields, augmented by a dust shield, possibly made by grinding up pieces of the discarded first stage.[1]\n\n"
+        },
+        {
+            "title": "Criticism",
+            "text": "The chief feasibility issue of Valkyrie[citation needed] (or for any antimatter-beam drive) lies in its requirement of quantities of antimatter fuel measured in tons. Antimatter cannot be produced at an efficiency of more than 50% (that is to say, to produce one gram of antimatter requires twice as much energy as you would get from annihilating that gram with a gram of matter). Since half a kilogram of antimatter would yield 9×1016 J if annihilated with an equal amount of matter,[3] this quickly adds up to enormous energy requirements for its production. To produce the 50 tons of antimatter Valkyrie would require 1.8×1022 J. This is the same amount of energy that the entire human race currently uses in about forty years.\n\nThis may be solved by creating a truly enormous power plant for the antimatter factory, probably in the form of a vast array of solar panels with a combined area of millions of square kilometers or many fusion reactors. Alternately the antimatter-fusion hybrid drive the Valkyrie uses to accelerate up to 0.2 c would require much less antimatter and, with an exhaust velocity of 30–60,000 km·s−1, still compares quite favorably with competing engines such as the inertial confinement pulse drive used by Project Daedalus or Project Orion. The Valkyrie's lightweight construction could also be applied to a wide variety of space vehicle.\n\nBy using tethers there is no rigidity between ship elements and engines. Without active acceleration or thrust to pull and straighten the tethers the slightest imbalance, excess force, or the moving of the ship elements into different flight configurations pose a danger for collisions between ship elements and engines. As long term space flight at interstellar velocities causes erosion due to collision with particles, gas, dust and micrometeorites the tethers are literally lifelines.[4][5] Changing course or turning the ship requires re-positioning or aligning every ship element and presumably consumes more fuel in doing so.\n\nAs the liquid droplet radiators (LDR) are deployed on the other side of propulsion and the main body, the droplets and the collectors are exposed to the other half of heat energy from the gamma radiation from the antimatter annihilation. If the total area of the collectors are larger than the radiation shield the LDR would serve to cool itself rather than the shield for the ship's main components.[6]\n\n"
+        },
+        {
+            "title": "Trivia",
+            "text": "A superficially-similar starship is featured in the movie Avatar.[7]\n\n"
+        }
+    ]
+}

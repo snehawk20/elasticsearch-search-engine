@@ -1,0 +1,20 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Trompe",
+    "title": "Trompe",
+    "table_of_contents": [
+        "1 Operation",
+        "2 See also",
+        "3 References",
+        "4 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A trompe  is a water-powered air compressor, commonly used before the advent of the electric-powered compressor.  A trompe is somewhat like an airlift pump working in reverse.\n\nTrompes were used to provide compressed air for bloomery furnaces in Catalonia[1] and the USA.[2] The presence of a trompe is a signature attribute of a Catalan forge, a type of bloomery furnace.\n\nTrompes can be enormous.  At Canadian Hydro Developers' Ragged Chute facility in New Liskeard, Ontario, water falls down a shaft 351 feet (107 m) deep and 9 ft (2.7 m) across to generate compressed air for mining equipment and ventilation.[3]\n\n"
+        },
+        {
+            "title": "Operation",
+            "text": "Trompes are very simple devices. They consist of four main parts: water-supply pipe or shaft with an air-inlet inside it, water outflow pipe, separation chamber and takeoff air-pipe. The vertical pipe or shaft goes down from higher point to a separation chamber; a pipe, that is typically narrower than previous one, coming away from that chamber, allows the water to exit at a lower level, and another pipe (air-pipe) coming from the chamber allows the compressed air to exit as needed.\n\nWater rushing down the vertical pipe falls through a constriction.\nThe constriction produces a lower pressure because of the venturi effect, and an external port allows air to be sucked in thus creating a constant air supply.  \nThe air forms bubbles in the pipe.\nAs the bubbles go down the pipe they are pressurized proportionally to the hydraulic head, which is the height of the column of water in the pipe. \nThe compressed air rises to the top of the separation chamber (wind box).\nThe separation chamber has a compressed-air takeoff pipe, and the compressed air can be used as a power source.\n\nThe energy of the falling water creates a partial vacuum inside the pipe that is compensated by the air from the outside atmosphere provided through inlet. The air is compressed by surrounding water pressure (which increases under a column due to the discharge to atmospheric pressure). The pressure of the air delivered cannot exceed the hydraulic head of the discharge pipe of the separation chamber.[4]\n\nLarge trompes were often situated at high waterfalls so that ample head was available.\n(However, trompes can raise the water, via siphon-effect, nearly to 70% of its initial elevation.) The Ragged Chute plant on the Montreal River near the town of Cobalt, Ontario, is a trompe and tourist attraction. It is now owned by TransAlta (formerly by Canadian Hydro Developers) and exists beside a modern hydroelectric plant.[3]\n\nCompressed air from a trompe is at the temperature of the water, and its partial pressure of water vapor is that of the dewpoint of the water's temperature. If the water is cool, the compressed air can be made very dry by passing it through pipes that are warmer than the water. Often, ordinary outside air can warm the pipes enough to produce dry, cool compressed air.\n\nToday, trompes constructed of plastic pipe are being used to provide aeration for mine drainage treatment. In this application, mine water is used to drive the trompe and the compressed air that is generated is used to oxygenate the mine water and to drive off excess dissolved carbon dioxide that may be present thus raising the pH of the water being treated.[5]\n\nThe trompe is closely related to the Sprengel vacuum pump which uses mercury falling through a tube to create a vacuum instead of pressure.\n\n"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Habitability_of_binary_star_systems",
+    "title": "Habitability of binary star systems",
+    "table_of_contents": [
+        "1 Non-circumbinary planet (S-Type)",
+        "2 Circumbinary planet (P-Type)",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Planets in binary star systems may be candidates for supporting extraterrestrial life.[1] Habitability of binary star systems is determined by many factors from a variety of sources.[2] Typical estimates often suggest that 50% or more of all star systems are binary systems. This may be partly due to sample bias, as massive and bright stars tend to be in binaries and these are most easily observed and catalogued; a more precise analysis has suggested that the more common fainter stars are usually singular, and that up to two thirds of all stellar systems are therefore solitary.[3]\n\nThe separation between stars in a binary may range from less than one astronomical unit (au, the \"average\" Earth-to-Sun distance) to several hundred au. In latter instances, the gravitational effects will be negligible on a planet orbiting an otherwise suitable star, and habitability potential will not be disrupted unless the orbit is highly eccentric (see Nemesis, for example). In reality, some orbital ranges are impossible for dynamical reasons (the planet would be expelled from its orbit relatively quickly, being either ejected from the system altogether or transferred to a more inner or outer orbital range), whilst other orbits present serious challenges for eventual biospheres because of likely extreme variations in surface temperature during different parts of the orbit. If the separation is significantly close to the planet's distance, a stable orbit may be impossible.\n\nPlanets that orbit just one star in a binary pair are said to have \"S-type\" orbits, whereas those that orbit around both stars have \"P-type\" or \"circumbinary\" orbits. It is estimated that 50–60% of binary stars are capable of supporting habitable terrestrial planets within stable orbital ranges.[4]\n\n"
+        },
+        {
+            "title": "",
+            "text": "In non-circumbinary planets, if a planet's distance to its primary exceeds about one fifth of the closest approach of the other star, orbital stability is not guaranteed.[5] Whether planets might form in binaries at all had long been unclear, given that gravitational forces might interfere with planet formation. Theoretical work by Alan Boss at the Carnegie Institution has shown that gas giants can form around stars in binary systems much as they do around solitary stars.[6]\n\nStudies of Alpha Centauri, the nearest star system to the Sun, suggested that binaries need not be discounted in the search for habitable planets. Centauri A and B have an 11 au distance at closest approach (23 au mean), and both have stable habitable zones.[2][7] A study of long-term orbital stability for simulated planets within the system shows that planets within approximately three au of either star may remain stable (i.e. the semi-major axis deviating by less than 5%). The habitable zone for Alpha Centauri A extends, conservatively estimated, from 1.37 to 1.76 au[2] and that of Alpha Centauri B from 0.77 to 1.14 au[2]—well within the stable region in both cases.[8]\n\n"
+        },
+        {
+            "title": "",
+            "text": "For a circumbinary planet, orbital stability is guaranteed only if the planet's distance from the stars is significantly greater than star-to-star distance.\n\nThe minimum stable star-to-circumbinary-planet separation is about 2–4 times the binary star separation, or orbital period about 3–8 times the binary period. The innermost planets in all the Kepler circumbinary systems have been found orbiting close to this radius. The planets have semi-major axes that lie between 1.09 and 1.46 times this critical radius. The reason could be that migration might become inefficient near the critical radius, leaving planets just outside this radius.[9]\n\nFor example, Kepler-47c is a gas giant in the circumbinary habitable zone of the Kepler-47 system.\n\nIf Earth-like planets form in or migrate into the circumbinary habitable zone, they would be capable of sustaining liquid water on their surface in spite of the dynamical and radiative interaction with the binary stars.[10]\n\nThe limits of stability for S-type and P-type orbits within binary as well as trinary stellar systems have been established as a function of the orbital characteristics of the stars, for both prograde and retrograde motions of stars and planets.[11]\n\n"
+        }
+    ]
+}

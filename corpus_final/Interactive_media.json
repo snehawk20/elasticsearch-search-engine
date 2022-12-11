@@ -1,0 +1,67 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Interactive_media",
+    "title": "Interactive media",
+    "table_of_contents": [
+        "1 Definition",
+        "2 Development",
+        "3 Terminology",
+        "4 Advantages",
+        "4.1 Effects on learning",
+        "4.2 Intuitive understanding",
+        "4.3 Relationships",
+        "5 Disadvantages",
+        "5.1 Public safety and distraction",
+        "6 Influence on families",
+        "7 Types",
+        "7.1 Distributed interactive media",
+        "7.2 Commercial interactive media",
+        "7.3 Informational interactive media",
+        "8 Examples",
+        "9 Technologies and implementation",
+        "10 See also",
+        "11 References",
+        "12 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Interactive media normally refers to products and services on digital computer-based systems which respond to the user's actions by presenting content such as text, moving image, animation, video and audio. Since its early conception, various forms of interactive media have emerged with impacts on educational and commercial markets. With the rise of decision-driven media, concerns surround the impacts of cybersecurity and societal distraction.\n\n"
+        },
+        {
+            "title": "Definition",
+            "text": "Interactive media is a method of communication in which the output from the media comes from the input of the users.[1][2]\nInteractive media works with the user's participation. The media still has the same purpose but the user's input adds interaction and brings interesting features to the system for better enjoyment.\n\n"
+        },
+        {
+            "title": "Development",
+            "text": "The analogue videodisc developed by NV Philips was the pioneering technology for interactive media. Additionally, there are several elements that encouraged the development of interactive media including the following: \n\nAll of the prior elements contributed in the development of the main hardware and software systems used in interactive media.\n\n"
+        },
+        {
+            "title": "Terminology",
+            "text": "Though the word media is plural, the term  is often used as a singular noun.\n\nInteractive media is related to the concepts interaction design, new media, interactivity, human computer interaction, cyberculture, digital culture, interactive design, and can include augmented reality and virtual reality.\n\nAn essential feature of interactivity is that it is mutual: user and machine each take an active role (see interaction). Most interactive computing systems are for some human purpose and interact with humans in human contexts.[4]\n\nInteractive media are an instance of a computational method influenced by the sciences of cybernetics, autopoiesis and system theories, and challenging notions of reason and cognition, perception and memory, emotions and affection.\n\nAny form of interface between the end user/audience and the medium may be considered interactive. Interactive media is not limited to electronic media or digital media. Board games, pop-up books, flip books and constellation wheels are all examples of printer interactive media. Books with a simple table of contents or index may be considered interactive due to the non-linear control mechanism in the medium, but are usually considered non-interactive since the majority of the user experience is non-interactive reading.[5]\n\n"
+        },
+        {
+            "title": "Advantages",
+            "text": "Interactive media is helpful in the four development dimensions in which young children learn: social and emotional, language development, cognitive and general knowledge, and approaches toward learning. Using computers and educational computer software in a learning environment helps children increase communication skills and their attitudes about learning. Children who use educational computer software are often found using more complex speech patterns and higher levels of verbal communication. A study found that basic interactive books that simply read a story aloud and highlighted words and phrases as they were spoken were beneficial for children with lower reading abilities. Children have different styles of learning, and interactive media helps children with visual, verbal, auditory, and tactile learning styles.[6]\n\nFurthermore, studies conducted using interactive, immersive media (such as virtual reality) has proven effects on the educational impacts of students diagnosed with autism spectrum disorder.[7][8] Through the use of additional sensors and specialized equipment, immersive medias have been questioned on their effectiveness to include students who may be considered neurodivergent. Interactive media can often be considered as highly stimulating, which raised concerns for overstimulation and potential triggers of reaction for particular students.[9]\n\nInteractive media has also been used under multiple professions to provide training opportunities, such as its use in medical training and education.[10]\n\nInteractive media makes technology more intuitive to use. Interactive products such as smartphones, iPad's/iPod's, interactive whiteboards and websites are all easy to use. The easy usage of these products encourages consumers to experiment with their products rather than reading instruction manuals.[11]\n\nInteractive media promotes dialogic communication. This form of communication allows senders and receivers to build long term trust and cooperation. This plays a critical role in building relationships. Organizations also use interactive media to go further than basic marketing and develop more positive behavioral relationships.[12] The use of interactive media, alongside immersive media, also has the additional benefit to providing further realism to creating relational bonds in virtual settings. Through the use of this technology, new types of relationships can be formed as well as strengthening preexisting ones.[13]\n\n"
+        },
+        {
+            "title": "Disadvantages",
+            "text": "Interactive media has given way to new distractions which can lead to public safety issues. Digital distractions are heightened by the necessity for user input and response to media requests.[14]\n\n"
+        },
+        {
+            "title": "Influence on families",
+            "text": "The introduction of interactive media has greatly affected the lives and inner workings of families, with many family activities having integrated with technology quite seamlessly, allowing both children and parents to adapt to it as they see fit. However, parents have also become increasingly worried about the impact that it will have on their family lives. This is not necessarily because they are opposed to technology, but because they fear that it will lessen the time that they get to spend with their children. Studies have shown that although interactive media is able to connect families together when they are unable to physically, the dependence on this media also continues to persist even when there are opportunities for family time, which often leads the adults to believe that it distracts children more than it benefits them.[15]\n\n"
+        },
+        {
+            "title": "Types",
+            "text": "The media which allows several geographically remote users to interact synchronously with the media application/system is known as Distributed Interactive Media. Some common examples of this type of Media include Online Gaming, Distributed Virtual Environment, Whiteboards which are used for interactive conferences and many more.[16]\n\nInteractive medias assist in commercial ventures, such as those incorporating media using virtual and augmented technologies. Virtual tours is one demonstrated way in which interactive media is able to meet commercial needs and provide alternative revenue for business.[17] Studies show that through the use of immersive, interactive media business are expected greater marketing impacts.[18]\n\nMedia in which information is provided in interactive means. An example would be Geographic Information Systems, like those built upon the ArcGIS framework which provides users with the means to interact with locational data in various ways such as collecting, storing and manipulating.[19]\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "A couple of basic examples of interactive media are websites and mobile applications. Websites, especially social networking websites provide the interactive use of text and graphics to its users, who interact with each other in various ways such as chatting, posting a thought or picture and so forth.[20] The ImmersiveMe convention brings together those in the industry, displaying mass examples of interactive medias and their impacts such as those in the Digital Humanities space where interactive media was able to be used for research purposes.[21]\n\n"
+        },
+        {
+            "title": "Technologies and implementation",
+            "text": "Interactive media can be implemented using a variety of platforms and applications that use technology. Some examples include mobile platforms such as touch screen smartphones and tablets, as well as other interactive mediums that are created exclusively to solve a unique problem or set of problems. Interactive media is not limited to a professional environment, it can be used for any technology that responds to user actions. This can include the use of JavaScript and AJAX in web pages, but can also be used in programming languages or technology that has similar functionality.\n\nOne of the most recent innovations to use interactivity that solves a problem that individuals have on a daily basis is Delta Airlines's \"Photon Shower\".[22] This device was developed as a collaboration between Delta Airlines and Professor Russell Foster of Cambridge University. The device is designed to reduce the effect of jet lag on customers that often take long flights across time zones. The interactivity is evident because of how it solves this problem. By observing what time zones a person has crossed and matching those to the basic known sleep cycles of the individual, the machine is able to predict when a person's body is expecting light, and when it is expecting darkness. It then stimulates the individual with the appropriate light source variations for the time, as well as an instructional card to inform them of what times their body expects light and what times it expects darkness. Growth of interactive media continues to advance today, with the advent of more and more powerful machines the limit to what can be input and manipulated on a display in real time is become virtually non-existent.[23][24][25]\n\n"
+        }
+    ]
+}

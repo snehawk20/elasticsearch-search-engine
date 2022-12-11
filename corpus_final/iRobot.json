@@ -1,0 +1,68 @@
+{
+    "url": "https://en.wikipedia.org/wiki/IRobot",
+    "title": "iRobot",
+    "table_of_contents": [
+        "1 History",
+        "2 Current home robots",
+        "2.1 Roomba",
+        "2.2 Braava",
+        "2.3 Create",
+        "2.4 Root",
+        "3 In development",
+        "3.1 Terra",
+        "4 Discontinued products",
+        "4.1 Scooba",
+        "4.2 Dirt Dog (char)",
+        "4.3 My Real Baby",
+        "4.4 ConnectR",
+        "4.5 Verro",
+        "4.6 Looj",
+        "4.7 Mirra",
+        "5 Military and policing robots",
+        "5.1 First Generation Robots",
+        "5.2 PackBot",
+        "5.3 SUGV",
+        "5.4 Warrior",
+        "5.5 R-Gator",
+        "5.6 Negotiator",
+        "5.7 Transphibian",
+        "5.8 Chembot",
+        "5.9 Ember",
+        "5.10 AIRarm",
+        "5.11 FirstLook",
+        "6 Medical robots",
+        "6.1 RP-VITA",
+        "7 Research and dual-role robots",
+        "7.1 Ranger",
+        "7.2 Seaglider",
+        "8 See also",
+        "9 References",
+        "10 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "iRobot Corporation is an American technology company that designs and builds consumer robots. It was founded in 1990 by three members of MIT's Artificial Intelligence Lab, who designed robots for space exploration and military defense.[2] The company's products include a range of autonomous home vacuum cleaners (Roomba), floor moppers (Braava), and other autonomous cleaning devices.[3]\n\nOn August 5, 2022, Amazon announced that it plans to acquire iRobot in a deal worth US$1.7 billion. The deal is currently subject to federal approval from the FTC.[4] This was not immediately forthcoming; in September 2022, the FTC requested more data from both companies, amid concerns about Amazon's market power and the privacy implications of it gaining information about consumer floorplans.[5]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "iRobot was founded in 1990 by Rodney Brooks, Colin Angle, and Helen Greiner after working in MIT's Artificial Intelligence Lab.\n\niRobot has sold more than 30 million home robots, and has deployed more than 5,000 defense & security robots, as of 2020.[10]\n\nIn addition to deployment as bomb-disposal units with the US military in Iraq and Afghanistan, PackBots have been used to gather data in dangerous conditions at the Fukushima Daiichi nuclear disaster site,[11] and an iRobot Seaglider detected underwater pools of oil after the Deepwater Horizon oil spill.[12]\n\niRobot has been criticized for attempting unregulated use of 6240-6740 MHz band, and asking for an FCC exemption to do so. This band is for use for the lawn mowing robot without needing to use an electronic fence as a boundary marker, instead by using radio beacons. The band falls into a band reserved for radio astronomy use, thus interfering with radio telescope observations of methanol's 6.66852 GHz emissions.[13]\n\nIn February 2016, iRobot announced that it would sell its military robotics business to Arlington Capital Partners, in order to focus more on the consumer market.[14]\n\nIn November 2021, iRobot announced that it had acquired Aeris Cleantec AG, a Swiss air purifier manufacturer. iRobot began selling Aeris-designed air purifiers through its own brand in 2022.[15]\n\nIn August 2022, Amazon agreed to buy iRobot in an all-cash deal worth $1.7 billion.[16][17] The deal is expected to draw antitrust scrutiny from the FTC.[18]\n\n"
+        },
+        {
+            "title": "Current home robots",
+            "text": "Roomba is an automated vacuum cleaning robot first released in 2002. Roomba is powered by a rechargeable battery, and many models are available with a docking station to which the Roomba should return to recharge at the end of its cleaning cycle. They work in conjunction with accessories that use both IR and RF.\n\nThe company intentionally allows customers to hack the robot because they want people to experiment and improve the product.  The API for the serial has been published and the serial port made easily accessible to make modifications easy to perform.[19]\n\nIn 2015, iRobot released an updated Roomba called the Roomba 980, with a camera that maps out a room of its objects. The camera uses VSlam technology to map out a room and the objects in the room to clean the entire floor of a home. The Roomba 980 also includes Carpet boost where the suction is turned up when the Roomba sensor detects itself on carpets or rugs. This was also one of the first Roombas to include Wi-FI connectivity with app control.[20]\n\nIn May 2022, iRobot announced the new operating system and software platform for its Roomba vacuum cleaners, iRobot OS. The company stated the move from iRobot genius to iRobot OS will aid in giving their products a deeper understanding of the user’s households and the users habits, in addition to voice commands and greater objected identification.[21]\n\nIn October 2022, iRobot released the Roomba Combo, a Roomba j7+ that includes mopping capabilities. The robot is able to differentiate between hardwood floor and carpet; when it moves to carpet it lifts its mop to the top of the robot.[22]\n\nBraava is iRobot's Floor Mopping Robot, designed to work on all hard-surface floors. Braava uses disposable or microfiber cleaning cloths for damp and/or dry cleaning. The 380t model comes with a Channel 4 NorthStar Navigation Cube, which is set on a high surface and directs the robot around the area it cleans.\n\nThe design was known as the Mint until 2013. It was developed by Evolution Robotics, which was acquired by iRobot in 2012.[23]\n\nCreate is a hobby robot, released in 2007. Create offers users the possibility of changing or adapting the robot's functions through experimentation with the basic elements of robotics as well as by adding sensors, grippers, wireless connections, computers, or other hardware.\n\nRoot is a robot that can help kids learn how to code. It is programmed through a tablet or smartphone.[24] iRobot acquired Root Robotics in 2019.[25]\n\n"
+        },
+        {
+            "title": "In development",
+            "text": "In recent developments, iRobot received FCC approval to move forward with their plans to commercialize a robotic lawn mower capable of using wireless localization technology.[26] In early 2019 iRobot announced the robot is to be branded \"Terra\". Terra uses mapping (similar to the Roomba i7) to navigate and mow the lawn in a straight-line pattern. It uses smart beacon stakes to localize itself in the yard, and is taught a boundary by the user (where the robot should avoid going, such as a garden). Terra includes Wi-Fi capabilities and a docking station for recharging. Terra was available as a beta program in 2019 in Germany and the United States.[27] The program was indefinitely postponed in March 2020.\n\n"
+        },
+        {
+            "title": "Discontinued products",
+            "text": "Scooba was iRobot's floor-washing robot. The product became commercially available in limited quantities in late 2005 before a full product release in 2006. Early models required either a special non-bleach cleaning solution or white vinegar to wash hard floors. Newer units could use plain water. Several versions were marketed. iRobot phased out the Scooba line of products in favor of the Braava line of floor moppers in 2016.[28]\n\nDirt Dog was designed for workshop use and was released in 2006. This product picks up small objects such as nuts, bolts, dirt, and debris from a workshop or similar floor. The unit  was able to be used on hard floors, shop carpets and industrial floor surfaces. The Dirt Dog was discontinued in late 2010.\n\nMy Real Baby was a robotic toy marketed by iRobot from 2000 and produced in partnership with the toy manufacturer Hasbro. It is no longer in production. This product, which was meant to look like a human infant, employed animatronic facial expressions and was developed from an emotionally expressive and responsive robot developed by iRobot corporation called \"IT.\"\n\nConnect R was made in 2010; unfortunately it did not pass pilot test, and therefore was never introduced to the public.\n\nVerro was a swimming-pool cleaning robot released in April 2007.[29]\n\nLooj was a gutter-cleaning robot released in September 2007, and based on an autonomous version created for a science fair project created by Lucas Garrow in 2004 (Garrow was a finalist in the 2004 The Discovery Channel Young Scientist Challenge (DCYSC)). Looj is not an autonomous robot, but rather a remote-controlled robot patterned after a toy tank with an auger mounted on the front. The robot fits inside most gutters to clean out debris stuck inside them, such as leaves and pine needles. It has long treads on its side which allow it to move inside the gutter. The auger dislodges and removes almost all of the debris inside the gutter by flinging it sideways into the air. Looj also has a detachable handle/remote that is used to carry and operate the robot. It was discontinued in 2017, but as of 2020 parts, supplies, and entire robot kits are still available on the aftermarket on sites like eBay.\n\nMirra was a swimming-pool cleaning robot, the successor of Verro. Mirra cleaned a pool's floor and walls of large and small debris. It was discontinued in 2014.\n\n"
+        },
+        {
+            "title": "Military and policing robots",
+            "text": "In April 2016, iRobot sold off its Defense & Security unit, with a new company being formed called Endeavor Robotics.[30] This unit became part of Teledyne FLIR in 2019.[31][32]\n\nAIRarm is an inflatable arm robot developed by iRobot. The inflatable arm uses pumps to inflate the arm. Since the arm uses strings and actuators, no motors were used at the joints.[41]\n\nFirstLook is a small reconnaissance robot weighing 5.2 lb (2.4 kg) with a top speed of 3.8 mph (6.1 km/h) and line-of-sight control range of 200 m (219 yd).  It has visible and thermal cameras and infrared sensors to gather and transmit images of buildings, caves, or other locations.  It can participate in explosive ordnance disposal by carrying 2.5 lb (1.1 kg) of C4 explosive to an IED.  The robot has the ability to mesh together a network of feeds from other robots to extend the range of its sensors.  The FirstLook has CBRN detectors and is semi-autonomous, meaning it can perform tasks like course correction and flipping itself over without direct intervention.  100 were bought by JIEDDO in March 2012 and the Pentagon has ordered hundreds more.[42]\n\n"
+        }
+    ]
+}

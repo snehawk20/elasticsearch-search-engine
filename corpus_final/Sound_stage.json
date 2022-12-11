@@ -1,0 +1,47 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sound_stage",
+    "title": "Sound stage",
+    "table_of_contents": [
+        "1 Early history",
+        "2 Contemporary building requirements",
+        "2.1 Extensive soundproofing",
+        "2.2 Enclosed stage",
+        "2.3 Catwalks and ceiling lights",
+        "3 Cameras, rentals, and special techniques",
+        "4 \"Soundstage\" of an acoustic recording",
+        "5 Special effects before post-production",
+        "6 Virtual production volumes",
+        "7 See also",
+        "8 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A sound stage (also written soundstage) is a soundproof, large structure, building, or room with large doors and high ceilings, used for the production of theatrical film-making and television productions, usually located on a secured movie or television studio property. \n\nCompared to a silent stage, a sound stage is sound-proofed so that sound can be recorded along with the images. The recordings are known as production sound.  A silent stage is not soundproofed and is susceptible to outside noise interference; therefore, sound is not generally recorded. Because most sound in movies, other than dialogue, is added in post-production, this generally means that the main difference between the two is that sound stages are used for dialogue scenes, but silent stages are not.  An alternative to production sound is to record additional dialogue during post-production (known as dubbing).\n\n"
+        },
+        {
+            "title": "Early history",
+            "text": "Structures of this type were in use in the motion picture industry before the advent of sound recording. Early stages for silent movies were built, either as a three-wall open-roof set, or with large skylights, until electric lighting became powerful enough to expose film adequately.\n\n"
+        },
+        {
+            "title": "Contemporary building requirements",
+            "text": "With the advent of electric lights, enclosed stages were built in Hollywood and rapidly converted to sound stages with many mattresses placed on the walls. With the coming of the talkies in the late 1920s, it became necessary to enclose and fully soundproof these stages to eliminate noise and distractions from outside, including limiting access. \n\nThe ceilings and walls of the building containing the sound stage must be heavily soundproofed, so the structure must be sturdy and capable of accepting such additional features and loads, or a new building specifically designed with the features and to bear the loads is required, which often is the less expensive alternative to retrofitting an existing structure because of engineering issues. \n\nBuildings without soundproofing still are referred to as silent stages and may be used where the dialog and other sounds are recorded as a separate operation. This separate operation usually involves the principal actors doing synchronized dialogue replacement voice recordings over a working cut of the film, specialized language actors doing a secondary language dubbing or for the filming of special effects.\n\nA sound stage, unlike a silent stage, requires caution to avoid making noise anywhere within range of the audio recording equipment.\n\nAn enclosed stage makes it easier for the crew of a production to design and build the sets to exact specifications, precise scale, and detail. The art director of a production makes an architectural plan and carpenters build it. On a film the head electrician is credited as the gaffer and the assistant as the best boy, regardless of gender. After a set is painted, the set dresser furnishes it with everything that the set designer, under the direction of the art director, has selected for the interior.\n\nOn a sound stage, the camera may be placed exactly where the director wants it. Achieving the desired lighting is easier because each stage has a metal framework with catwalks and lights suspended from the ceiling. This makes it easier for the cinematographer to have the grips position each flag or bounce and the lighting technicians to position each light to get exactly the correct lighting for every shot.\n\n"
+        },
+        {
+            "title": "",
+            "text": "Television production generally uses multiple cameras and cinema production generally uses a single camera. This is not universally true because the choice varies, very much on what the director is trying to achieve.\n\nRental of a sound stage entails an expensive process, but working on a sound stage saves time when setting up for production as long as access to all of the necessary technical equipment, personnel, and supplies is readily available. As all the scenes can be filmed on the sets inside the sound stage, using it also eliminates having to move the production from location to location.  \n\nWith the use of blue screen or greenscreen techniques (whereby backgrounds are inserted electronically behind the actors in the finished film) and a sound stage, extensive control of the production process is achieved.\n\n"
+        },
+        {
+            "title": "",
+            "text": "The term soundstage refers to the depth and richness of an audio recording and usually relates to the playback process. According to audiophiles, the quality of the playback is very much dependent upon how one is able to pick out different instruments, voices, vocal parts, and such exactly where they are located on an imaginary 2-dimensional or 3-dimensional field. The quality of this soundstage can enhance not only the listener's involvement in the recording, but also their overall perception of the stage.[1]\n\n"
+        },
+        {
+            "title": "Special effects before post-production",
+            "text": "The latest technology and software can render basic previsualisation effects into scenes in real time while recording, before post-production, with the use of sensors detecting the position of actors and elements, in the staging of the frame. The director during filming can view what the composition of the picture is with basic digital objects and surfaces included and how it appears, assisting the creative process.[2]\n\n"
+        },
+        {
+            "title": "Virtual production volumes",
+            "text": "A newer form of set being used in both the production of films and television shows is the virtual production \"volume\". Different from the volume of a conventional motion capture stage (where often no physical image is being recorded for the final product), a virtual production volume is a stage that is surrounded (in varying degrees) by screens that extend the set. These screens, most commonly large arrays of LEDs, show a version of the set that was constructed in 3D (using software such as Unreal Engine) that tracks its motion in real time with camera movement. A static display can function similarly for a still camera, given there is no parallax. However these volumes allow the scenery to adaptively move and distort according to how the camera ought to see it if it were moving in a real environment.\n\nBenefits of such a setup include total control of a scene; dusk and dawn can last all day. Not only can time of day or number of light sources be manipulated at will, but portions of the volume off-screen can be turned completely white to add fill lighting from a given direction, or they can be turned off to darken that area. They can also function as a typical green/blue screen for chroma keying by displaying the solid color behind the performers. Having a physical space where actors can see their environment and inform their performances accordingly is something that most greenscreen sets lack. \n\nThe controlled visual environment also allows directors and cinematographers the ability to better create mise-en-scène, with greater control over the set, and the ability to see the final image as they are creating it. Where these volumes are especially beneficial is in having light behave perfectly realistically on transparent, translucent, and very reflective materials. These types of objects, such as eyeglasses, glassware, and shiny armor, are often very difficult to deal with in a conventional chroma key work flow. This technique also minimizes the amount of tedious rotoscoping work required in post-production to cut out what was not picked up by chroma keying.\n\nThe downside to this setup is that unlike with greenscreen, whatever was filmed is final in terms of visual environment (as is the case with filming on any normal set or location). By contrast, a greenscreen film segment can essentially be swapped to anything at any point in post-production.[3]\n\n"
+        }
+    ]
+}

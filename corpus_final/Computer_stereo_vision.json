@@ -1,0 +1,52 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Computer_stereo_vision",
+    "title": "Computer stereo vision",
+    "table_of_contents": [
+        "1 Outline",
+        "2 Active stereo vision",
+        "2.1 Conventional structured-light vision (SLV)",
+        "2.2 Conventional active stereo vision (ASV)",
+        "2.3 Structured-light stereo (SLS)",
+        "3 Applications",
+        "4 Detailed definition",
+        "4.1 Image rectification",
+        "4.2 Smoothness",
+        "5 Information measure",
+        "5.1 Least squares information measure",
+        "5.2 Information measure for stereoscopic images",
+        "6 Methods of implementation",
+        "7 See also",
+        "8 References",
+        "9 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Computer stereo vision is the extraction of 3D information from digital images, such as those obtained by a CCD camera. By comparing information about a scene from two vantage points, 3D information can be extracted by examining the relative positions of objects in the two panels. This is similar to the biological process of stereopsis.\n\n"
+        },
+        {
+            "title": "Outline",
+            "text": "In traditional stereo vision, two cameras, displaced horizontally from one another, are used to obtain two differing views on a scene, in a manner similar to human binocular vision.  By comparing these two images, the relative depth information can be obtained in the form of a disparity map, which encodes the difference in horizontal coordinates of corresponding image points. The values in this disparity map are inversely proportional to the scene depth at the corresponding pixel location.\n\nFor a human to compare the two images, they must be superimposed in a stereoscopic device, with the image from the right camera being shown to the observer's right eye and from the left one to the left eye.\n\nIn a computer vision system, several pre-processing steps are required.[1]\n\n"
+        },
+        {
+            "title": "Active stereo vision",
+            "text": "The active stereo vision is a form of stereo vision which actively employs a light such as a laser or a structured light to simplify the stereo matching problem. The opposed term is passive stereo vision.\n\nThe conventional structured-light vision (SLV) employs a structured light or laser, and finds projector-camera correspondences.[2][3]\n\nThe conventional active stereo vision (ASV) employs a structured light or laser, however, the stereo matching is performed only for camera-camera correspondences, in the same way as the passive stereo vision.\n\nThere is a hybrid technique, which utilizes both camera-camera and projector-camera correspondences.[4]\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "3D stereo displays find many applications in entertainment, information transfer and automated systems. Stereo vision is highly important in fields such as robotics to extract information about the relative position of 3D objects in the vicinity of autonomous systems. Other applications for robotics include object recognition,[5] where depth information allows for the system to separate occluding image components, such as one chair in front of another, which the robot may otherwise not be able to distinguish as a separate object by any other criteria.\n\nScientific applications for digital stereo vision include the extraction of information from aerial surveys, for calculation of contour maps or even geometry extraction for 3D building mapping, photogrammetric satellite mapping,[6] or calculation of 3D heliographical information such as obtained by the NASA STEREO project.\n\n"
+        },
+        {
+            "title": "Detailed definition",
+            "text": "A pixel records color at a position.  The position is identified by position in the grid of pixels (x, y) and depth to the pixel z.\n\nStereoscopic vision gives two images of the same scene, from different positions.  In the adjacent diagram light from the point A is transmitted through the entry points of pinhole cameras at B and D, onto image screens at E and H.\n\nIn the attached diagram the distance between the centers of the two camera lens is BD = BC + CD.  The triangles are similar,\n\n\n\n\n\n\n\n\n\n\nTherefore displacement \n\nd\n\n\n\n=\nE\nF\n+\nG\nH\n\n\n\n\n\n\n=\nB\nF\n(\n\n\n\nE\nF\n\n\nB\nF\n\n\n\n+\n\n\n\nG\nH\n\n\nB\nF\n\n\n\n)\n\n\n\n\n\n\n=\nB\nF\n(\n\n\n\nE\nF\n\n\nB\nF\n\n\n\n+\n\n\n\nG\nH\n\n\nD\nG\n\n\n\n)\n\n\n\n\n\n\n=\nB\nF\n(\n\n\n\nB\nC\n+\nC\nD\n\n\nA\nC\n\n\n\n)\n\n\n\n\n\n\n=\nB\nF\n\n\n\nB\nD\n\n\nA\nC\n\n\n\n\n\n\n\n\n\n=\n\n\nk\nz\n\n\n\n, where\n\n\n\n\n\n\n\n{\\displaystyle {\\begin{aligned}{\\text{Therefore displacement }}d&=EF+GH\\\\&=BF({\\frac {EF}{BF}}+{\\frac {GH}{BF}})\\\\&=BF({\\frac {EF}{BF}}+{\\frac {GH}{DG}})\\\\&=BF({\\frac {BC+CD}{AC}})\\\\&=BF{\\frac {BD}{AC}}\\\\&={\\frac {k}{z}}{\\text{, where}}\\\\\\end{aligned}}}\n\n\n\nSo assuming the cameras are level, and image planes are flat on the same plane, the displacement in the y axis between the same pixel in the two images is,\n\nWhere k is the distance between the two cameras times the distance from the lens to the image.\n\nThe depth component in the two images are \n\n\n\n\nz\n\n1\n\n\n\n\n{\\displaystyle z_{1}}\n\n and \n\n\n\n\nz\n\n2\n\n\n\n\n{\\displaystyle z_{2}}\n\n, given by,\n\nThese formulas allow for the occlusion of voxels, seen in one image on the surface of the object, by closer voxels seen in the other image, on the surface of the object.\n\nWhere the image planes are not co-planar, image rectification is required to adjust the images as if they were co-planar.  This may be achieved by a linear transformation.\n\nThe images may also need rectification to make each image equivalent to the image taken from a pinhole camera projecting to a flat plane.\n\nSmoothness is a measure of the similarity of colors. Given the assumption that a distinct object has a small number of colors, similarly-colored pixels are more likely to belong to a single object than to multiple objects.\n\nThe method described above for evaluating smoothness is based on information theory, and an assumption that the influence of the color of a voxel influences the color of nearby voxels according to the normal distribution on the distance between points.  The model is based on approximate assumptions about the world.\n\nAnother method based on prior assumptions of smoothness is auto-correlation.\n\nSmoothness is a property of the world rather than an intrinsic property of an image. An image comprising random dots would have no smoothness, and inferences about neighboring points would be useless.\n\nIn principle, smoothness, as with other properties of the world, should be learned.  This appears to be what the human vision system does.[citation needed]\n\n"
+        },
+        {
+            "title": "Information measure",
+            "text": "The normal distribution is\n\nProbability is related to information content described by message length L,\n\nso,\n\nFor the purposes of comparing stereoscopic images, only the relative message length matters.  Based on this, the information measure I, called the Sum of Squares of Differences (SSD) is,\n\nwhere,\n\nBecause of the cost in processing time of squaring numbers in SSD, many implementations use Sum of Absolute Difference (SAD) as the basis for computing the information measure.  Other methods use normalized cross correlation (NCC).\n\nThe least squares measure may be used to measure the information content of the stereoscopic images,[7] given depths at each point \n\n\n\nz\n(\nx\n,\ny\n)\n\n\n{\\displaystyle z(x,y)}\n\n.  Firstly the information needed to express one image in terms of the other is derived.  This is called \n\n\n\n\nI\n\nm\n\n\n\n\n{\\displaystyle I_{m}}\n\n.\n\nA color difference function should be used to fairly measure the difference between colors.  The color difference function is written cd in the following.  The measure of the information needed to record the color matching between the two images is,\n\nAn assumption is made about the smoothness of the image.  Assume that two pixels are more likely to be the same color, the closer the voxels they represent are.  This measure is intended to favor colors that are similar being grouped at the same depth.  For example, if an object in front occludes an area of sky behind, the measure of smoothness favors the blue pixels all being grouped together at the same depth.\n\nThe total measure of smoothness uses the distance between voxels as an estimate of the expected standard deviation of the color difference, \n\nThe total information content is then the sum,\n\nThe z component of each pixel must be chosen to give the minimum value for the information content.  This will give the most likely depths at each pixel.  The minimum total information measure is,\n\nThe depth functions for the left and right images are the pair,\n\n"
+        },
+        {
+            "title": "Methods of implementation",
+            "text": "The minimization problem is NP-complete.  This means a general solution to this problem will take a long time to reach.  However methods exist for computers based on heuristics that approximate the result in a reasonable amount of time.  Also methods exist based on neural networks.[8]  Efficient implementation of stereoscopic vision is an area of active research.\n\n"
+        }
+    ]
+}

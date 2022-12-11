@@ -1,0 +1,37 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Suda",
+    "title": "Suda",
+    "table_of_contents": [
+        "1 Title",
+        "2 Content and sources",
+        "2.1 Biographical notices",
+        "2.2 Lost scholia",
+        "3 Organization",
+        "4 Background",
+        "5 Editions",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Suda or Souda (/ˈsuːdə/; Medieval Greek: Σοῦδα, romanized: Soûda; Latin: Suidae Lexicon)[1] is a large 10th-century Byzantine encyclopedia of the ancient Mediterranean world, formerly attributed to an author called Soudas (Σούδας) or Souidas (Σουίδας). It is an encyclopedic lexicon, written in Greek, with 30,000 entries, many drawing from ancient sources that have since been lost, and often derived from medieval Christian compilers.\n\n"
+        },
+        {
+            "title": "Title",
+            "text": "The derivation is probably[2] from the Byzantine Greek word souda, meaning \"fortress\" or \"stronghold\", with the alternate name, Suidas, stemming from an error made by Eustathius, who mistook the title for the author's name.[3] Paul Maas once ironized by suggesting that the title may be connected to the Latin verb suda, the second-person singular imperative of sudāre, meaning \"to sweat\",[4] but Franz Dölger traced its origins back to Byzantine military lexicon (σοῦδα, \"ditch, trench\", then \"fortress\").[5][6] Silvio Giuseppe Mercati, on the other hand, suggested a link with the Neo-Latin substantive guida (\"guide\"), transliterated in Greek as γουίδα.[7]\n\nA more recent theory by Carlo Maria Mazzucchi (Catholic University of the Sacred Heart, Milan) sees the composition of the encyclopedia as a collective work, probably in a school. During the process, the entries (from more than 40 sources) were written down on file cards collected in a fitting receptacle before they were transcribed on quires. That happened before 970, and further entries were then added in the margins. Mazzucchi explains the name Σοῦδα (meaning \"ditch\")[8] as both an acrostic of Συναγωγὴ ὁνομάτων ὑπὸ διαφὸρων ἁρμοσθεῖσα (\"Collection of nouns assembled from different [sources]\") and a memory of the receptacle that used to contain the file cards.[9] Most likely, the name is the acronym ΣΟΥΙΔΑ = ΣΥΝΤΑΞΙΣ ΟΝΟΜΑΣΤΙΚΗΣ ΥΛΗΣ ΙΔΙΑ ΑΛΦΑΒΗΤΙΚΗΣ (ΣΕΙΡΑΣ): Composition of Named Subjects in (by) Alphabetical (Order). It is clearly stated upfront: ΤΟ ΜΕΝ ΠΑΡΟΝ ΒΙΒΛΙΟΝ, ΣΟYΙΔΑ. ΟΙ ΔΕ ΣΥΝΤΑΞΑΜΕΝΟΙ ΤΟΥΤΟ ΑΝΔΡΕΣ ΣΟΦΟΙ. (THE PRESENT BOOK, SOYΙDA. THOSE THAT COMPOSED IT WISE MEN). There are eleven wise men listed, along with details of their specific contributions.\n\n"
+        },
+        {
+            "title": "Content and sources",
+            "text": "The Suda is somewhere between a grammatical dictionary and an encyclopedia in the modern sense. It explains the source, derivation, and meaning of words according to the philology of its period, using such earlier authorities as Harpocration and Helladios.[10][11] It is a rich source of ancient and Byzantine history and life, although not every article is of equal quality, and it is an \"uncritical\" compilation.[10]\n\nMuch of the work is probably interpolated,[10] and passages that refer to Michael Psellos (c. 1017–1078) are deemed interpolations which were added in later copies.[10]\n\nThis lexicon contains numerous biographical notices on political, ecclesiastical, and literary figures of the Byzantine Empire to the tenth century, those biographical entries being condensations from the works of Hesychius of Miletus, as the author himself avers. Other sources were the encyclopedia of Constantine VII Porphyrogenitus (reigned 912–959) for the figures in ancient history, excerpts of John of Antioch (seventh century) for Roman history, the chronicle of Hamartolus (Georgios Monachos, 9th century) for the Byzantine age.[11][10][13] The biographies of Diogenes Laërtius, and the works of Athenaeus and Philostratus. Other principal sources include a lexicon by \"Eudemus,\" perhaps derived from the work On Rhetorical Language by Eudemus of Argos.[14]\n\nThe lexicon copiously draws from scholia to the classics (Homer, Aristophanes, Thucydides, Sophocles, etc.), and for later writers, Polybius, Josephus, the Chronicon Paschale, George Syncellus, George Hamartolus, and so on.[10][11] The Suda quotes or paraphrases these sources at length. Since many of the originals are lost, the Suda serves as an invaluable repository of literary history, and this preservation of the \"literary history\" is more vital than the lexicographical compilation itself, by some estimation.[11]\n\n"
+        },
+        {
+            "title": "Organization",
+            "text": "The lexicon is arranged alphabetically with some slight deviations from common vowel order and place in the Greek alphabet[10] (including at each case the homophonous digraphs, e.g. αι, ει, οι, that had been previously, earlier in the history of Greek, distinct diphthongs or vowels) according to a system (formerly common in many languages) called antistoichia (ἀντιστοιχία); namely the letters follow phonetically in order of sound, in the pronunciation of the tenth century which is similar to that of Modern Greek. The order is:\n\nIn addition, double letters are treated as single for the purposes of collation (as gemination had ceased to be distinctive). The system is not difficult to learn and remember, but some editors—for example, Immanuel Bekker – rearranged the Suda alphabetically.\n\n"
+        },
+        {
+            "title": "Background",
+            "text": "Little is known about the compiler of the Suda. He probably lived in the second half of the 10th century, because the death of emperor John I Tzimiskes and his succession by Basil II and Constantine VIII are mentioned in the entry under \"Adam\" which is appended with a brief chronology of the world.[10] At any rate, the work must have appeared by the 12th century, since it is frequently quoted from and alluded to by Eustathius who lived from about 1115 AD to about 1195 or 1196.[10] It has also been stated that the work was a collective work, thus not having had a single author, and that the name which it is known under does not refer to a specific person.[16]\n\nThe work deals with biblical as well as pagan subjects, from which it is inferred that the writer was a Christian.[10] In any case, it lacks definite guidelines besides some minor interest in religious matters.[16]\n\nThe standard printed edition was compiled by Danish classical scholar Ada Adler in the first half of the twentieth century. A modern collaborative English translation, the Suda On Line, was completed on 21 July 2014.[17]\n\nThe Suda has a near-contemporaneous Islamic parallel, the Kitab al-Fehrest of Ibn al-Nadim. Compare also the Latin Speculum Maius, authored in the 13th century by Vincent of Beauvais.\n\n"
+        }
+    ]
+}

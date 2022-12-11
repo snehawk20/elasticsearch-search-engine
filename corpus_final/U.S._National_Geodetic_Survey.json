@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/National_Geodetic_Survey",
+    "title": "U.S. National Geodetic Survey",
+    "table_of_contents": [
+        "1 History",
+        "2 Purpose and function",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nThe National Geodetic Survey (NGS) is a United States federal agency that defines and manages a national coordinate system, providing the foundation for transportation and communication; mapping and charting; and a large number of applications of science and engineering. Since its foundation in its present form in 1970, it has been part of the National Oceanic and Atmospheric Administration (NOAA), of the United States Department of Commerce.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The National Geodetic Survey's history and heritage are intertwined with those of other NOAA offices. It traces its history to the Survey of the Coast, which was formed in 1807 as the first scientific agency of the United States Government. It became the United States Coast Survey in 1836 and the United States Coast and Geodetic Survey in 1878, the latter name change reflecting the increasing role of geodesy in its work. Upon the creation of NOAA in 1970, the Coast and Geodetic Survey was abolished and its responsibilities were split among various agencies and offices of NOAA. The Coast and Geodetic Survey′s former geodetic responsibilities were placed under the new National Geodetic Survey in NOAA's National Ocean Survey (later renamed the National Ocean Service).\n\nIn 2009, former National Oceanic and Atmospheric Administration Commissioned Officer Corps officer Juliana P. Blackwell was named Director of the National Geodetic Survey, becoming the first woman to head either NGS or any of its ancestor organizations.\n\n"
+        },
+        {
+            "title": "Purpose and function",
+            "text": "The National Geodetic Survey is an office of NOAA's National Ocean Service. Its core function is to maintain the National Spatial Reference System (NSRS), \"a consistent coordinate system that defines latitude, longitude, height, scale, gravity, and orientation throughout the United States\".[1] NGS is responsible for defining the NSRS and its relationship with the International Terrestrial Reference Frame (ITRF). The NSRS enables precise and accessible knowledge of where things are in the United States and its territories.\n\nThe NSRS may be divided into its geometric and physical components. The official geodetic datum of the United States, NAD83 defines the geometric relationship between points within the United States in three-dimensional space. The datum may be accessed via NGS's network of survey marks or through the Continuously Operating Reference Station (CORS) network of GPS reference antennas. NGS is responsible for computing the relationship between NAD83 and the ITRF. The physical components of the NSRS are reflected in its height system, defined by the vertical datum NAVD88. This datum is a network of orthometric heights obtained through spirit leveling. Because of the close relationship between height and Earth's gravity field, NGS also collects and curates terrestrial gravity measurements and develops regional models of the geoid (the level surface that best approximates sea level) and its slope, the deflection of the vertical. NGS is responsible for ensuring the accuracy of the NSRS over time, even as the North American plate rotates and deforms over time due to crustal strain, post-glacial rebound, subsidence, elastic deformation of the crust, and other geophysical phenomena.\n\nNGS will release new datums in 2022.[2] The North American Terrestrial Reference Frame of 2022 (NATRF2022) will supersede NAD83 in defining the geometric relationship between the North American plate and the ITRF.[3] United States territories on the Pacific, Caribbean, and Mariana plates will have their own respective geodetic datums. The North American-Pacific Geopotential Datum of 2022 (NAPGD2022) will separately define the height system of the United States and its territories, replacing NAVD88.[3] It will use a geoid model accurate to 1 centimeter (0.4\") to relate orthometric height to ellipsoidal height measured by GPS, eliminating the need for future leveling projects. This geoid model will be based on airborne and terrestrial gravity measurements collected by NGS's GRAV-D program as well as satellite-based gravity models derived from observations collected by GRACE, GOCE, and satellite altimetry missions.[4]\n\nNGS provides a number of other public services.[5] It maps changing shorelines in the United States and provides aerial imagery of regions affected by natural disasters, enabling rapid damage assessment by emergency managers and members of the public. The Online Positioning and User Service (OPUS) processes user-input GPS data and outputs position solutions within the NSRS. The agency offers other tools for conversion between datums.\n\n"
+        }
+    ]
+}

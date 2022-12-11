@@ -1,0 +1,29 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Poole_versus_HAL_9000",
+    "title": "Poole versus HAL 9000",
+    "table_of_contents": [
+        "1 The game",
+        "2 Interpretation",
+        "3 Kotelnikov vs. Geller, 1979",
+        "4 See also",
+        "5 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Poole vs. HAL 9000 is a chess game depicted in the 1968 science fiction film 2001: A Space Odyssey.  Astronaut Frank Poole (White) plays the supercomputer HAL 9000 (Black) using a video screen as a chessboard.  Each player takes turns during a game in progress, making their moves orally using descriptive notation and natural language.  Poole resigns the game once HAL indicates a certain path to checkmate; however, the move which HAL suggests Frank might make is not forced.  Stanley Kubrick, director of 2001, was an avid chess player.\n\nThe game is shown continuously and legibly for several seconds in a single shot.  The board positions and moves made are identical with the conclusion of a real game: Roesch vs. Willi Schlage, Hamburg 1910, which was reported in a 1955 collection of short games by Irving Chernev.[1]  Chess writers have therefore attributed the fictional game fragment to the real one, equating the two and suggesting that the former derived from the latter.\n\nThe fictional game played between Poole and HAL has been noted as a prescient illustration of artificial intelligence and computer chess, fields which developed more rapidly following the release of 2001.  Chess writers have also speculated HAL's misuse of descriptive notation during the game as foreshadowing of his later malfunctioning.\n\n"
+        },
+        {
+            "title": "The game",
+            "text": "According to chess writers, the game depicted in the film is based on a tournament game played between Roesch and Willi Schlage in Hamburg, 1910.[2][3]\n\nWhite: A. Roesch   Black: W. Schlage   Opening: Ruy Lopez, Morphy Defence, Wormald Attack (ECO C77)[4][5]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 0-0 8. 0-0 d5\n\n9. exd5 Nxd5 10. Nxe5 Nf4 11. Qe4 Nxe5 12. Qxa8?\n\n12... Qd3! 13. Bd1 Bh3! (diagram)\n\n14. Qxa6?\n\n14... Bxg2 15. Re1 Qf3\n\n0–1\n\nArthur C. Clarke's novelization of 2001 also indicated that the astronauts could pass the time by playing various board games with HAL, though no specific game (whether chess or otherwise) was depicted.  Unlike the film, Clarke's treatment stated that HAL won only half of games played.\n\nUnlike Kubrick, Clarke had no particular interest in chess and said that if he did, 2001 would not have been made as the two \"would have just played chess\".[10]  Consonant with Clarke's passing mention of polyominoes, a game involving pentominoes was shot and considered for use in the film, but ultimately passed over[11] in favor of the chess game, which Kubrick felt would be more familiar to audiences.[12] Parker Brothers had planned a corresponding board game as a tie-in to the film, which was released as Universe in 1967; the cover art on the box included a still from the unused cut.[13]\n\n"
+        },
+        {
+            "title": "Interpretation",
+            "text": "Murray Campbell, a member of the team that developed the chess computer Deep Blue, contributed an article to a book exploring the scientific and cultural implications of the HAL character.[6]  Campbell argued that HAL's style of play was more \"human\" than that of Deep Blue's, in the sense that HAL (Schlage) chose a \"nonoptimal\" move at 9... Nxd5, which nevertheless stymied his human opponent.  In contrast, the real computer Deep Blue used \"inhuman\" brute-force searching and minimax optimization to always seek the best available move.  The book's publication was concurrent with Deep Blue's two matches against the Russian grandmaster (GM) Garry Kasparov in 1996 and 1997; the human player won the first match, while the computer won the latter.\n\nTim Krabbé criticized the choice of Roesch–Schlage by way of its aesthetics, calling it \"a plain game\"; he likewise suggested that the choice of the game implicated Kubrick's own acumen as a player, as well as that of its fictional characters.  According to Krabbé, the aesthetic consideration and the simple endgame variation announced by HAL (but not actually played) might explain the character's misuse of descriptive notation when announcing the queen's movement: \"A player who would be impressed by that Queen's sacrifice, might be weak enough to make a mistake in its descriptive notation.\"[14]\n\n"
+        },
+        {
+            "title": "",
+            "text": "During the Soviet Union's 1979 Spartakiad, a game very similar to Roesch–Schlage was played between Evgeny Kotelnikov and the Soviet GM Yefim Geller.[15][16]  In both cases a noted player (Black) forced the resignation of an otherwise-unknown (White) in a short game, prior to checkmate; however, none of the board positions shown in 2001 occurred in the later game.  American GM Andrew Soltis reproduced Kotelnikov–Geller alongside Roesch–Schlage in one of his books, to illustrate a variation on the Roesch–Schlage game.[2]\n\nWhite: E. Kotelnikov   Black: Y. Geller   Opening: Ruy Lopez, Worrall Attack, Sharp Line (ECO C86)[17]\n\n1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6\n\n5. 0-0 Be7 6. Qe2 b5 7. Bb3 0-0 8. c3\n\n8... d5 9. exd5 Nxd5 10. Nxe5 Nf4! 11. Qe4 Nxe5 12. Qxa8?\n\n12... Ne2+ 13. Kh1 Qd3 14. Re1 Ng4 15. Qf3 Qd6 16. g3 Nxf2+ 17. Kg2 Bg4! \n\n"
+        }
+    ]
+}

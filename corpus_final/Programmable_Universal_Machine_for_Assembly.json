@@ -1,0 +1,23 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Programmable_Universal_Machine_for_Assembly",
+    "title": "Programmable Universal Machine for Assembly",
+    "table_of_contents": [
+        "1 Model 260",
+        "2 Model 560 C",
+        "3 Model 761 and 762",
+        "4 Control system",
+        "5 References",
+        "6 Books that Reference the PUMA design",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The PUMA (Programmable Universal Machine for Assembly, or Programmable Universal Manipulation Arm) is an industrial robotic arm developed by Victor Scheinman at pioneering robot company Unimation. Initially developed for General Motors, the PUMA was based on earlier designs Scheinman invented while at Stanford University.\n\nUnimation produced PUMAs for years until being purchased by Westinghouse (ca. 1980), and later by Swiss company Stäubli (1988). Nokia Robotics manufactured about 1500 PUMA robots during the 1980s, the Puma-650 being their most popular model with customers. Some own Nokia Robotics products were also designed, like Nokia NS-16 Industrial Robot or NRS-15[1] \n. Nokia sold their Robotics division in 1990.\n\nIn 2002, General Motors Controls, Robotics and Welding (CRW) organization donated the original prototype PUMA robot to the Smithsonian Institution's National Museum of American History.  It joins a collection of historically important robots that includes an early Unimate and the Odetics Odex 1.[2]\n\nThe essence of the design is represented in three categories; 200, 500, and 700 series.\nThe 200 series is a smaller desktop unit. Notably, this model was used for the first robotic stereotactic brain biopsy in 1985.\nThe 500 Series and can reach almost 2 meters up.  This model is the more popular design and is the most recognizable configuration.\nThe 700 series is the largest of the group and was intended for assembly line, paint, and welding work.\n\nAll designs consist of two main components: the mechanical arm and the control system.  These are typically interconnected by one or two large multi-conductor cables. When two cables are used, one carries power to the servo motors and brakes while the second carries the position feedback for each joint back to the control system.\n\nThe control computer is based on the LSI-11 architecture which is very similar to PDP11 computers. The system has a boot program and basic debug tool loaded on ROM chips. The operating system is loaded from external storage through a serial port, usually from a floppy disk.\n\nThe control unit also contains the servo power supply, analog and digital feedback processing boards, and servo drive system.\n\nThe arm appears in the film Innerspace. An arm was displayed in the \"Bird And The Robot\" attraction at the World of Motion pavilion of EPCOT.\n\n"
+        },
+        {
+            "title": "Control system",
+            "text": "Variable Assembly Language\n\n"
+        }
+    ]
+}

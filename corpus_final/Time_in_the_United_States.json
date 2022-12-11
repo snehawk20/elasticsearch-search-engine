@@ -1,0 +1,45 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Time_in_the_United_States",
+    "title": "Time in the United States",
+    "table_of_contents": [
+        "1 History",
+        "1.1 From GMT to UTC",
+        "2 United States and regional time zones",
+        "2.1 Zones used in the contiguous U.S.",
+        "2.2 Zones used in states beyond the contiguous U.S.",
+        "2.3 Zones used in U.S. territories",
+        "2.4 Minor Outlying Islands",
+        "2.5 Antarctic research stations",
+        "3 Boundaries between the zones",
+        "3.1 Eastern–Central boundary",
+        "3.2 Central–Mountain boundary",
+        "3.3 Mountain–Pacific boundary",
+        "4 Daylight saving time (DST)",
+        "5 See also",
+        "6 Explanatory notes",
+        "7 References",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nTime in the United States, by law, is divided into nine standard time zones covering the states, territories and other US possessions, with most of the United States observing daylight saving time (DST) for approximately the spring, summer, and fall months. The time zone boundaries and DST observance are regulated by the Department of Transportation, but no single map of those existed until the agency announced intentions to make one in September 2022.[1] Official and highly precise timekeeping services (clocks) are provided by two federal agencies: the National Institute of Standards and Technology (NIST) (an agency of the Department of Commerce); and the United States Naval Observatory (USNO). The clocks run by these services are kept synchronized with each other as well as with those of other international timekeeping organizations.\n\nIt is the combination of the time zone and daylight saving rules, along with the timekeeping services, which determines the legal civil time for any U.S. location at any moment.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Before the adoption of four standard time zones for the continental United States, many towns and cities set their clocks to noon when the sun passed their local meridian, pre-corrected for the equation of time on the date of observation, to form local mean solar time. Noon occurred at different times but time differences between distant locations were barely noticeable prior to the 19th century because of long travel times and the lack of long-distance instant communications prior to the development of the telegraph.\n\nThe use of local solar time became increasingly awkward as railways and telecommunications improved.[2] American railroads maintained many different time zones during the late 1800s. Each train station set its own clock making it difficult to coordinate train schedules and confusing passengers. Time calculation became a serious problem for people traveling by train (sometimes hundreds of miles in a day), according to the Library of Congress. Train drivers must recalculate their own clocks in order to know departure time. Every city in the United States used a different time standard so there were more than 300 local sun times to choose from. Time zones were therefore a compromise, relaxing the complex geographic dependence while still allowing local time to be approximate with mean solar time.  Railroad managers tried to address the problem by establishing 100 railroad time zones, but this was only a partial solution to the problem.[2]\n\nWeather service chief Cleveland Abbe introduced four standard time zones for his weather stations, an idea which he offered to the railroads.[3] Operators of the new railroad lines needed a new time plan that would offer a uniform train schedule for departures and arrivals. Four standard time zones for the continental United States were introduced at noon on November 18, 1883, in Chicago, IL, when the telegraph lines transmitted time signals to all major cities.[4][5]\n\nIn October 1884, the International Meridian Conference at Washington, D.C., decided that the prime meridian for longitude and timekeeping should be one that passes through the center of the transit instrument at the Greenwich Observatory in the United Kingdom. The conference therefore established the Greenwich Meridian as the prime meridian and Greenwich Mean Time (GMT) as the world's time standard.  The U.S. time-zone system grew from this, in which all zones referred back to GMT on the prime meridian.[2]\n\nIn 1960, the International Radio Consultative Committee formalized the concept of Coordinated Universal Time (UTC), which became the new international civil time standard.  UTC is, within about 1 second, mean solar time at 0°.[6] UTC does not observe daylight saving time.\n\nFor most purposes, UTC is considered interchangeable with GMT, but GMT is no longer precisely defined by the scientific community. UTC is one of several closely related successors to GMT.\n\n"
+        },
+        {
+            "title": "United States and regional time zones",
+            "text": "Standard time zones in the United States and other regions are currently defined at the federal level by law 15 USC §260.[7] The federal law also establishes the transition dates and times at which daylight saving time occurs, if observed. It is ultimately the authority of the secretary of transportation, in coordination with the states, to determine which regions will observe which of the standard time zones and if they will observe daylight saving time.[8] As of August 9, 2007, the standard time zones are defined in terms of hourly offsets from UTC.[9] Prior to this they were based upon the mean solar time at several meridians 15° apart west of Greenwich (GMT).\n\nOnly the full-time zone names listed below are official; abbreviations are by common use conventions, and duplicated elsewhere in the world for different time zones.\n\nFrom east to west, the four time zones of the contiguous United States are:\n\nSome United States Minor Outlying Islands are outside the time zones defined by 15 U.S.C. §260 and exist in waters defined by nautical time. In practice, military crews may simply use Zulu time (UTC±00:00) when on these islands. Baker Island and Howland Island are in UTC−12:00, while Wake Island is in UTC+12:00. Because they exist on opposite sides of the International Date Line, it can, for example, be noon Thursday on Baker and Howland islands while simultaneously being noon Friday on Wake Island. Other outlying islands include Jarvis Island, Midway Atoll, Palmyra Atoll, and Kingman Reef (UTC−11:00); Johnston Atoll (UTC−10:00); and Navassa Island, Bajo Nuevo Bank, and Serranilla Bank (UTC−05:00).\n\nIn Antarctica, the U.S. research facility Palmer Station is in UTC−03:00, while McMurdo Station and Amundsen–Scott South Pole Station use UTC+12:00 in order to coordinate with their main supply base in New Zealand.\n\n"
+        },
+        {
+            "title": "Boundaries between the zones",
+            "text": "(Described from north to south along each boundary.)\n\n"
+        },
+        {
+            "title": "",
+            "text": "Daylight saving time (DST) begins on the second Sunday of March and ends on the first Sunday of November.\n\nClocks are set ahead one hour at 2:00 a.m. on the following start dates and set back one hour at 2:00 a.m. on the corresponding end dates:\n\nIn response to the Uniform Time Act of 1966, each state has officially chosen to apply one of two rules over its entire territory:\n\nThe Energy Policy Act of 2005 extended daylight saving time (DST) for an additional month beginning in 2007.\n\nThe Sunshine Protection Act of 2021 passed the United States Senate in March of 2022. The bill would make Daylight Time the time year-round in the entire United States. The bill is yet to be voted on by the House of Representatives.[11]\n\n"
+        }
+    ]
+}

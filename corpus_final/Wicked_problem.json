@@ -1,0 +1,53 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Wicked_problem",
+    "title": "Wicked problem",
+    "table_of_contents": [
+        "1 Characteristics",
+        "2 Examples",
+        "3 Background",
+        "4 Strategies to tackle wicked problems",
+        "5 Communication of wicked problems",
+        "5.1 Problem structuring methods",
+        "6 Related concepts",
+        "6.1 Messes and social messes",
+        "6.2 Divergent and convergent problems",
+        "6.3 Wicked problems in software development",
+        "6.4 Super wicked problems",
+        "7 See also",
+        "8 References",
+        "8.1 Notes",
+        "8.2 Bibliography",
+        "8.3 Further reading",
+        "9 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In planning and policy, a wicked problem is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to an idea or problem that cannot be fixed, where there is no single solution to the problem; and \"wicked\" denotes resistance to resolution, rather than evil.[1] Another definition is \"a problem whose social complexity means that it has no determinable stopping point\".[2] Moreover, because of complex interdependencies, the effort to solve one aspect of a wicked problem may reveal or create other problems. Due to their complexity, wicked problems are often characterized by organized irresponsibility.\n\nThe phrase was originally used in social planning. Its modern sense was introduced in 1967 by C. West Churchman in a guest editorial Churchman wrote in the journal Management Science,[3] either repeating his own coinage or responding to a previous use of the term by Horst Rittel—the origin is uncertain.[4] Churchman discussed the moral responsibility of operations research \"to inform the manager in what respect our 'solutions' have failed to tame his wicked problems.\" Rittel and Melvin M. Webber formally described the concept of wicked problems in a 1973 treatise, contrasting \"wicked\" problems with relatively \"tame\", soluble problems in mathematics, chess, or puzzle solving.[5]\n\n"
+        },
+        {
+            "title": "Characteristics",
+            "text": "Rittel and Webber's 1973 formulation of wicked problems in social policy planning specified ten characteristics:[5][6]\n\nConklin later generalized the concept of problem wickedness to areas other than planning and policy; Conklin's defining characteristics are:[7]\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "Classic examples of wicked problems include economic, environmental, and political issues. A problem whose solution requires a great number of people to change their mindsets and behavior is likely to be a wicked problem. Therefore, many standard examples of wicked problems come from the areas of public planning and policy. These include global climate change,[8] natural hazards, healthcare, the AIDS epidemic, pandemic influenza, international drug trafficking, nuclear weapons, homelessness, and social injustice.\n\nIn recent years, problems in many areas have been identified as exhibiting elements of wickedness; examples range from aspects of design decision making and knowledge management[9] to business strategy[10] to space debris.[11]\n\n"
+        },
+        {
+            "title": "Background",
+            "text": "\nRittel and Webber coined the term in the context of problems of social policy, an arena in which a purely scientific-engineering approach cannot be applied because of the lack of a clear problem definition and differing perspectives of stakeholders. In their words, \nThus wicked problems are also characterised by the following:[citation needed]\n\nAlthough Rittel and Webber framed the concept in terms of social policy and planning, wicked problems occur in any domain involving stakeholders with differing perspectives.[7] Recognising this, Rittel and Kunz developed a technique called Issue-Based Information System (IBIS), which facilitates documentation of the rationale behind a group decision in an objective manner.[12]\n\nA recurring theme in research and industry literature is the connection between wicked problems and design.[13][14] Design problems are typically wicked because they are often ill-defined (no prescribed way forward), involve stakeholders with different perspectives, and have no \"right\" or \"optimal\" solution.[15] Thus wicked problems cannot be solved by the application of standard (or known) methods; they demand creative solutions.[16][17]\n\n"
+        },
+        {
+            "title": "Strategies to tackle wicked problems",
+            "text": "Wicked problems cannot be tackled by the traditional approach in which problems are defined, analysed and solved in sequential steps. The main reason for this is that there is no clear problem definition of wicked problems. In a paper published in 2000, Nancy Roberts identified the following strategies to cope with wicked problems:[18]\n\nIn his 1972 paper,[19] Rittel hints at a collaborative approach; one which attempts \"to make those people who are being affected into participants of the planning process. They are not merely asked but actively involved in the planning process.\" A disadvantage of this approach is that achieving a shared understanding and commitment to solving a wicked problem is a time-consuming process. Another difficulty is that, in some matters, at least one group of people may hold an absolute belief that necessarily contradicts other absolute beliefs held by other groups. Collaboration then becomes impossible until one set of beliefs is relativized or abandoned entirely.\n\nResearch over the last two decades has shown the value of computer-assisted argumentation techniques in improving the effectiveness of cross-stakeholder communication.[20] The technique of dialogue mapping has been used in tackling wicked problems in organizations using a collaborative approach.[21] More recently, in a four-year study of interorganizational collaboration across public, private, and voluntary sectors, steering by government was found to perversely undermine a successful collaboration, producing an organizational crisis which led to the collapse of a national initiative.[22][23]\n\n\nIn \"Wholesome Design for Wicked Problems\", Robert Knapp stated that there are ways forward in dealing with wicked problems: \nExamining networks designed to tackle wicked problems in health care, such as caring for older people or reducing sexually transmitted infections, Ferlie and colleagues suggest that managed networks may be the \"least bad\" way of \"making wicked problems governable\".[25][26][27]\n\n"
+        },
+        {
+            "title": "Communication of wicked problems",
+            "text": "A range of approaches called problem structuring methods (PSMs) have been developed in operations research since the 1970s to address problems involving complexity, uncertainty and conflict. PSMs are usually used by a group of people in collaboration (rather than by a solitary individual) to create a consensus about, or at least to facilitate negotiations about, what needs to change. Some widely adopted PSMs include soft systems methodology, the strategic choice approach, and strategic options development and analysis (SODA).[28]\n\n"
+        },
+        {
+            "title": "Related concepts",
+            "text": "Russell L. Ackoff wrote about complex problems as messes: \"Every problem interacts with other problems and is therefore part of a set of interrelated problems, a system of problems.... I choose to call such a system a mess.\"[29]\n\nExtending Ackoff, Robert Horn says that \"a Social Mess is a set of interrelated problems and other messes. Complexity—systems of systems—is among the factors that makes Social Messes so resistant to analysis and, more importantly, to resolution.\"\n\nAccording to Horn, the defining characteristics of a social mess are:[30]\n\nE. F. Schumacher distinguishes between divergent and convergent problems in his book A Guide for the Perplexed. Convergent problems are those for which attempted solutions gradually converge on one solution or answer. Divergent problems are those for which different answers appear to increasingly contradict each other all the more they are elaborated, requiring a different approach involving faculties of a higher order like love and empathy.\n\nIn 1990, DeGrace and Stahl introduced the concept of wicked problems to software development.[31] In the last decade[when?], other computer scientists[32][33] have pointed out that software development shares many properties with other design practices (particularly that people-, process-, and technology-problems have to be considered equally), and have incorporated Rittel's concepts into their software design methodologies. The design and integration of complex software-defined services that use the Web (web services) can be construed as an evolution from previous models of software design, and therefore becomes a wicked problem also.\n\nKelly Levin, Benjamin Cashore, Graeme Auld and Steven Bernstein introduced the distinction between \"wicked problems\" and \"super wicked problems\" in a 2007 conference paper, which was followed by a 2012 journal article in Policy Sciences. In their discussion of global climate change, they define super wicked problems as having the following additional characteristics:[34]\n\nWhile the items that define a wicked problem relate to the problem itself, the items that define a super wicked problem relate to the agent trying to solve it. Global warming as a super wicked problem, and the need to intervene to tend to our longer term interests has also been taken up by others, including Richard Lazarus.[35]\n\n"
+        }
+    ]
+}

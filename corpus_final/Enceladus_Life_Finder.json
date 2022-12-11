@@ -1,0 +1,26 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Enceladus_Life_Finder",
+    "title": "Enceladus Life Finder",
+    "table_of_contents": [
+        "1 Overview",
+        "1.1 Mission concept",
+        "1.2 Objectives",
+        "2 Proposed scientific payload",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nEnceladus Life Finder (ELF) is a proposed astrobiology mission concept for a NASA spacecraft intended to assess the habitability of the internal aquatic ocean of Enceladus, which is Saturn's sixth-largest moon[1][2] and seemingly similar in chemical makeup to comets.[3] The spaceprobe would orbit Saturn and fly through Enceladus's geyser-like plumes multiple times. It would be powered by energy supplied from solar panels on the spacecraft.\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "The Enceladus Life Finder mission was first proposed in 2015 for Discovery Mission 13 funding,[2] and then it was proposed in May 2017 to NASA's New Frontiers program Mission 4,[4][5][6] but it was not selected.[7]\n\nIf selected at another future opportunity, the ELF mission would search for biosignature and biomolecules in the geysers of Enceladus. The south polar jets loft water, salts and organic molecules dozens of miles over the moon's surface from an underground regional ocean. The hypothesis is that the water is warmed by thermal vents similar to features found deep in Earth's oceans. ELF's instruments would measure amino acids — the building blocks of proteins — analyze fatty acids, and determine whether methane (CH4) found in the plumes could have been produced by living organisms.[2]\n\nIn 2008, the Cassini orbiter was flown through a plume and analyzed the material with its neutral mass spectrometer. The  orbiter detected simple organics, including methane (CH4), carbon monoxide (CO), carbon dioxide (CO2) nitrogen, and complex organic compounds.[8] Cassini also detected sodium and potassium at a concentration implying a salty liquid ocean.[8] However, Cassini did not have the equipment with the sensitivity required for direct analyses.[1][8]\n\nThe Enceladus Life Finder (ELF) mission would pursue the implications of Cassini orbiter's 2005 discoveries of active jetting from, and existence of an ocean within, Enceladus. The mission concept would have the ELF orbiter fly 8 to 10 times over a period of 3 years through plumes of water launched above the south pole of Enceladus.[2] The geysers could provide easy access for sampling the moon's subsurface ocean, and if there is microbial life in it, ice particles from the sea could contain the evidence astrobiologists need to identify them.[9]  The Principal Investigator is Jonathan Lunine of Cornell University in Ithaca, New York.\n\nThe goals of the mission are derived directly from the most recent decadal survey: first, to determine primordial sources of organics and the sites of organic synthesis today; and second, to determine if there are current habitats in Enceladus where the conditions for life could exist today, and if life exists there now.[1] To achieve these goals, the ELF mission has three objectives:[1]\n\n"
+        },
+        {
+            "title": "Proposed scientific payload",
+            "text": "The ELF spacecraft would use two mass spectrometers to assess habitability of the interior oceanic environment. The payload consists of\nthe MASPEX and the ENIJA, optimized to analyze respectively the gas and grains:[1][8]\n\nThe Cassini spacecraft has measured small silica particles, normally formed at 90 °C or higher, streaming from Enceladus.[10] The size and composition of the particles suggest that they come from current hydrothermal activity,[11][12][13][14] where the moon's ocean meets the underlying rock, a prime habitat for life.[10][15]\n\nELF's instruments would conduct three kinds of tests in order to minimize the ambiguity involved in life detection.[1][8] The first would look for a characteristic distribution of amino acids (the building blocks of proteins). The second test would determine whether the carbon number distribution in fatty acids or isoprenoids is biased toward a particular rule (even, odd, or divisible by a small integer). The third would measure carbon and hydrogen isotopic ratios, together with the abundance of methane relative to other alkanes, to assess whether the values fall in the range for biological processes.[8]\n\n"
+        }
+    ]
+}

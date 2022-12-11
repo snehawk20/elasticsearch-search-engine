@@ -1,0 +1,28 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Hans_Moravec",
+    "title": "Hans Moravec",
+    "table_of_contents": [
+        "1 Background",
+        "2 Publications",
+        "3 Books",
+        "3.1 Mind Children",
+        "3.2 Robot: Mere Machine to Transcendent Mind",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Hans Peter Moravec (born November 30, 1948, Kautzen, Austria) is an adjunct faculty member at the Robotics Institute of Carnegie Mellon University in Pittsburgh, USA. He is known for his work on robotics, artificial intelligence, and writings on the impact of technology.  Moravec also is a futurist with many of his publications and predictions focusing on transhumanism.  Moravec  developed techniques in computer vision for determining the region of interest (ROI) in a scene.\n\n"
+        },
+        {
+            "title": "Background",
+            "text": "Moravec attended Loyola College in Montreal for two years and transferred to Acadia University, where he received his BSc in mathematics in 1969.  He received his MSc in computer science in 1971 from the University of Western Ontario.  He then earned a PhD from Stanford University in 1980 for a TV-equipped robot which was remote controlled by a large computer.  The robot was able to negotiate cluttered obstacle courses.  Another achievement in robotics was the discovery of new approaches for robot spatial representation such as 3D occupancy grids. He also developed the idea of bush robots.\n\nMoravec was a cofounder of Seegrid Corporation[2] of Pittsburgh, Pennsylvania,[3] in 2003 which is a robotics company with one of its goals being to develop a fully autonomous robot capable of navigating its environment without human intervention.\n\nHe is also somewhat known for his work on space tethers.[4]\n\n"
+        },
+        {
+            "title": "Books",
+            "text": "In his 1988 book Mind Children,[6] Moravec outlines Moore's law and predictions about the future of artificial life. Moravec outlines a timeline and a scenario in this regard,[7][8] in that the robots will evolve into a new series of artificial species, starting around 2030-2040.[9]\n\nMoravec also outlined the \"neural substitution argument\" in Mind Children[6]: 109-122 , published 7 years before David Chalmers published a similar argument in his paper “Absent Qualia, Fading Qualia, Dancing Qualia”, which is sometimes cited as the source of the idea. The neural substitution argument is that if each neuron in a conscious brain can be replaced successively by an electronic substitute with the same behavior as the neuron it replaces, then a biological consciousness would be transferred seamlessly into an electronic computer, thus proving that consciousness does not depend on biology and can be treated as an abstract computable process.\n\nIn Robot: Mere Machine to Transcendent Mind (ISBN 0195136306), published in 1998, Moravec further considers the implications of evolving robot intelligence, generalizing Moore's law to technologies predating the integrated circuit, and extrapolating it to predict a coming \"mind fire\" of rapidly expanding superintelligence.\n\nArthur C. Clarke wrote about this book: \"Robot is the most awesome work of controlled imagination I have ever encountered: Hans Moravec stretched my mind until it hit the stops.\"[10] David Brin also praised the book: \"Moravec blends hard scientific practicality with a prophet's far-seeing vision.\"[11]\nOn the other hand, the book was reviewed less favorably by Colin McGinn for The New York Times. McGinn wrote, \"Moravec … writes bizarre, confused, incomprehensible things about consciousness as an abstraction, like number, and as a mere \"interpretation\" of brain activity. He also loses his grip on the distinction between virtual and real reality as his speculations spiral majestically into incoherence.\"[12]\n\n"
+        }
+    ]
+}

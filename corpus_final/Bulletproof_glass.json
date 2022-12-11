@@ -1,0 +1,36 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Bulletproof_glass",
+    "title": "Bulletproof glass",
+    "table_of_contents": [
+        "1 Construction",
+        "2 Test standards",
+        "3 Environmental effects",
+        "4 2000s advances",
+        "4.1 Spinel ceramics",
+        "4.2 Air chamber glass",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Bulletproof glass, ballistic glass, transparent armor, or bullet-resistant glass is a strong and optically transparent material that is particularly resistant to penetration by projectiles. Like any other material, it is not completely impenetrable. It is usually made from a combination of two or more types of glass, one hard and one soft.[1] The softer layer makes the glass more elastic, so that it can flex instead of shatter. The index of refraction for all of the glasses used in the bulletproof layers must be almost the same to keep the glass transparent and allow a clear, undistorted view through the glass. Bulletproof glass varies in thickness from 3⁄4 to 3+1⁄2 inches (19 to 89 mm).[2][3]\n\nBulletproof glass is used in windows of buildings that require such security, such as jewelry stores and embassies, and of military and private vehicles.\n\n"
+        },
+        {
+            "title": "Construction",
+            "text": "Bullet-resistant glass is constructed using layers of laminated glass.  The more layers there are, the more protection the glass offers. When a weight reduction is needed 3mm of polycarbonate (a thermoplastic) is laminated onto the safe side to stop spall. The aim is to make a material with the appearance and clarity of standard glass but with effective protection from small arms. Polycarbonate designs usually consist of products such as Armormax, Makroclear, Cyrolon: a soft coating that heals after being scratched (such as elastomeric carbon-based polymers) or a hard coating that prevents scratching (such as silicon-based polymers).[4]\n\nThe plastic in laminate designs also provides resistance to impact from physical assault from blunt and sharp objects. The plastic provides little in the way of bullet-resistance. The glass, which is much harder than plastic, flattens the bullet, and the plastic deforms, with the aim of absorbing the rest of the energy and preventing penetration. The ability of the polycarbonate layer to stop projectiles with varying energy is directly proportional to its thickness,[5] and bulletproof glass of this design may be up to 3.5 inches thick.[3]\n\nLaminated glass layers are built from glass sheets bonded together with polyvinyl butyral, polyurethane, Sentryglas, or ethylene-vinyl acetate. When treated with chemical processes, the glass becomes much stronger. This design has been in regular use on combat vehicles since World War II. It is typically thick and is usually extremely heavy.[6]\n\n9mm 124gr @ 1175-1293fps (1400-1530fps for Level 6), 357M 158gr @ 1250-1375fps, 44M 240gr @ 1350-1485fps, 30-06 180gr @ 2540-2794fps, 5.56NATO 55gr @ 3080-3388fps, 7.62NATO 150gr @ 2750-3025fps. For all ratings in the above chart; all copper-jacketed lead FMJ, except 44 mg is lead semi-wadcutter gas-check, and 30-06 is LEAD core soft point.\n\n"
+        },
+        {
+            "title": "Test standards",
+            "text": "Bullet-resistant materials are tested using a gun to fire a projectile from a set distance into the material, in a specific pattern. Levels of protection are based on the ability of the target to stop a specific type of projectile traveling at a specific speed.  Experiments suggest that polycarbonate fails at lower velocities with regular shaped projectiles compared to irregular ones (like fragments), meaning that testing with regular shaped projectiles gives a conservative estimate of its resistance.[11] When projectiles do not penetrate, the depth of the dent left by the impact can be measured and related to the projectile’s velocity and thickness of the material.[5] Some researchers have developed mathematical models based on results of this kind of testing to help them design bulletproof glass to resist specific anticipated threats.[12]\n\nWell known standards for categorizing ballistic resistance include the following:\n\n"
+        },
+        {
+            "title": "Environmental effects",
+            "text": "The properties of bullet-resistant glass can be affected by temperature and by exposure to solvents or UV radiation, usually from sunlight. If the polycarbonate layer is below a glass layer, it has some protection from UV radiation due to the glass and bonding layer. Over time the polycarbonate becomes more brittle because it is an amorphous polymer (which is necessary for it to be transparent) that moves toward thermodynamic equilibrium.[4]\n\nAn impact on polycarbonate by a projectile at temperatures below −7 °C sometimes creates spall, pieces of polycarbonate that are broken off and become projectiles themselves. Experiments have demonstrated that the size of the spall is related to the thickness of the laminate rather than the size of the projectile. The spall starts in surface flaws caused by bending of the inner, polycarbonate layer and the cracks move “backwards” through to the impact surface.  It has been suggested that a second inner layer of polycarbonate may effectively resist penetration by the spall.[4]\n\n"
+        },
+        {
+            "title": "2000s advances",
+            "text": "In 2005, it was reported that U.S. military researchers were developing a class of transparent armor incorporating \naluminum oxynitride (ALON) as the outside \"strike plate\" layer.  Traditional glass/polymer was demonstrated by ALON's manufacturer to require 2.3 times more thickness than ALON's, to guard against a .50 BMG projectile.[13]  ALON is much lighter and performs much better than traditional glass/polymer laminates. Aluminum oxynitride \"glass\" can defeat threats like the .50 caliber armor-piercing rounds using material that is not prohibitively heavy.[14][15]\n\nCertain types of ceramics can also be used for transparent armor due to their properties of increased density and hardness when compared to traditional glass. These types of synthetic ceramic transparent armors can allow for thinner armor with equivalent stopping power to traditional laminated glass.[16]\n\nThe newest type of curved transparent vehicle armor has an air chamber between the glass and the polycarbonate. Level IIIA (high speed 9 mm) armor consists 8 mm of laminated glass (strike face), a 1 mm air gap, and 7 mm of polycarbonate.  This solution stops the bullets in a totally different way. The glass, being hard, deforms the incoming bullet.  The deformed bullet completely penetrates the glass and then it is stopped by the flexible polycarbonate. \nThe weight reduction over traditional glass-clad polycarbonate is 35%, weighing .25 kilos per square meter for level NIJ 06 IIIA (NIJ 07 HG2).  It is also thinner (16.2 mm) vs conventional Glass Clad Polycarbonate (21 mm).[citation needed]\n\n"
+        }
+    ]
+}

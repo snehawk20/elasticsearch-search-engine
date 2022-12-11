@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Neutral_particle_beam",
+    "title": "Particle-beam weapon",
+    "table_of_contents": [
+        "1 Beam generation",
+        "2 History",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nA particle-beam weapon uses a high-energy beam of atomic or subatomic particles to damage the target by disrupting its atomic and/or molecular structure. A particle-beam weapon is a type of directed-energy weapon, which directs energy in a particular and focused direction using particles with minuscule mass. Some particle-beam weapons have potential practical applications, e.g. as an antiballistic missile defense system. They have been known by myriad names:  particle accelerator guns, ion cannons, proton beams, lightning rays, rayguns, etc.\n\nThe concept of particle-beam weapons comes from sound scientific principles and experiments. One process is to simply overheat a target until it is no longer operational. However, after decades of research and development, particle-beam weapons remain at the research stage and it remains to be seen if or when they will be deployed as practical, high-performance military weapons.\n\nParticle accelerators are a well-developed technology used in scientific research. They use electromagnetic fields to accelerate and direct charged particles along a predetermined path, and electrostatic \"lenses\" to focus these streams for collisions. The cathode ray tube in many twentieth-century televisions and computer monitors is a very simple type of particle accelerator. More powerful versions include synchrotrons and cyclotrons used in nuclear research. A particle-beam weapon is a weaponized version of this technology. It accelerates charged particles (in most cases electrons, positrons, protons, or ionized atoms, but very advanced versions can accelerate other particles such as mercury nuclei) to near-light speed and then directs them towards a target. The particles' kinetic energy is imparted to matter in the target, inducing near-instantaneous and catastrophic superheating at the surface, and when penetrating deeper, ionization effects that can destroy electronics. However, high-power accelerators are extremely massive (sometimes on the order of kilometers in length, like the LHC), with highly constricted construction, operation and maintenance requirements, and thus unable to be weaponized using present technologies.\n\n"
+        },
+        {
+            "title": "Beam generation",
+            "text": "Charged particle beams naturally diverge rapidly due to mutual repulsion among their charged particles. Neutral beams can remain better focused, because they are not subject to repulision.  Neutral particle beams are ionized, accelerated while ionized, then neutralized before leaving the weapon. \n\nCyclotron particle accelerators, linear particle accelerators, and synchrotron particle accelerators can accelerate positively charged hydrogen ions (protons) until their velocity approaches the speed of light. Each ion has a kinetic energy range of 100-1000+ MeV. The resulting high energy protons can capture electrons from electron emitter electrodes, and be thus electrically neutralized. This creates an electrically neutral beam of high energy hydrogen atoms, that can proceed in a straight line at near the speed of light to smash into its target and damage it.\n\nThe beam emitted may contain 1+ gigajoule of kinetic energy. The speed of a beam approaching that of light (299,792,458 m/s in a vacuum) in combination with the energy created by the weapon was thought to negate any realistic defense. Target hardening through shielding or materials selection was thought to be impractical or ineffective in 1984,[1] especially if the beam could sustain full power and precise focus on the target.[2]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The U.S. Strategic Defense Initiative developed a neutral particle beam to be used as a weapon in outer space.[3] Neutral beam accelerator technology was developed at Los Alamos National Laboratory. A prototype was launched aboard a suborbital sounding rocket from in July 1989 as part of the Beam Experiments Aboard Rocket (BEAR) project.[4] It reached a maximum altitude of 124 miles, and successfully operated in space for 4 minutes before returning to earth intact. In 2006, the device was transferred from Los Alamos to the Smithsonian Air and Space Museum in Washington, DC.[5]\n\n"
+        }
+    ]
+}

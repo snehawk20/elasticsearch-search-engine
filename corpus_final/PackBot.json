@@ -1,0 +1,42 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Packbot",
+    "title": "PackBot",
+    "table_of_contents": [
+        "1 PackBot brief history",
+        "2 iRobot International PackBot orders",
+        "3 NASA and PackBots",
+        "4 Current PackBot 510 variants",
+        "5 PackBot Performance",
+        "6 Previous PackBot variants",
+        "7 Packbot Deployment",
+        "8 See also",
+        "9 References",
+        "10 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "PackBot is a series of military robots by Endeavor Robotics (previously by iRobot[1]), an international robotics company founded in 2016, created from iRobot, that previously produced military robots since 1990. More than 2000 were used in Iraq and Afghanistan.[2] They were also used to aid searching through the debris of the World Trade Center after 9/11 in 2001.[3] Another instance of the PackBot technology being implemented was to the damaged Fukushima nuclear plant after the 2011 Tōhoku earthquake and tsunami where they were the first to assess the site.[4] As of November 2014, the U.S. Army is refurbishing 224 iRobot 510 robots.[5] The PackBot technology is also used in collaboration with NASA for their rovers and probes.\n\n"
+        },
+        {
+            "title": "iRobot International PackBot orders",
+            "text": "February 2011 iRobot released confirmation of a deal totaling $4.4 million for the first quarter of 2011 for the manufacturing of 27 PackBot 510's and spare parts to accompany them.[6] In 2010, the industrial division of iRobot accumulated $13.2 million in revenue for international orders for PackBot alone in more than 25 countries.[6] In September 2014, iRobot secured a deal with the Canadian Department of National Defense (DND). The contract was for the delivery of PackBot reconnaissance, chemical, biological, radiological, and nuclear systems. The contract was priced at $9.6 million and includes the training of military personnel to operate the equipment as well as lifetime repairs and technical support.[7] PackBots have also been used in non military operations. In 2014 the Brazilian government received an order of 30 PackBots. The robots were used for security purposes during the 2014 FIFA World Cup and the deal totaled $7.2 million in order to police the twelve host cities during the soccer matches.[8]\nTo date, iRobot has delivered upwards of 5000 different robots including PackBots internationally.[7]\n\n"
+        },
+        {
+            "title": "NASA and PackBots",
+            "text": "The National Aeronautic and Space Administration (NASA) has a partnership with the company, iRobot. NASA's Jet Propulsion Laboratory (JPL) is a facility responsible for the development of robotic space-crafts as well as the Deep Space Network.[9] Among these space-crafts are the rovers sent to the planet Mars. The rovers Spirit and Opportunity sent to Mars in 2003 are just two of the rovers managed by the Jet Propulsion Laboratory. Mars is not the only place employing iRobot technology. In 2011, Japan was rocked by a strong earthquake causing a meltdown of the Fukushima nuclear reactor. Two PackBot rovers were deployed into the ruins of the nuclear power plant to assess damage where the radioactivity was at high enough levels prohibiting humans from exploring.\n\nThe projects involving the cooperation of iRobot and NASA allowed the creation of high-tech machines. The much needed physical structure of the robots was designed by iRobot while the instruments and science equipment onboard was provided by NASA's Jet Propulsion Laboratory.[10]\n\n"
+        },
+        {
+            "title": "Current PackBot 510 variants",
+            "text": "PackBot 510 is the current base model. It uses a videogame-style hand controller to make it more familiar to young operators. \n\n"
+        },
+        {
+            "title": "PackBot Performance",
+            "text": "PackBot 510 has a maximum speed of 5.8 mph or 9.3 km/h, and weighs 31.6 lbs. or 14.3 kg.[14] The robot can traverse mud, rocks, stairs, and other surfaces due to its caterpillar track.[15] The robot also has zero radius turn capability, and can climb up to a 60 degree incline. The dual BB-2590/U Li-ion rechargeable batteries allow for the robot to have a run time of 4 to 8 hours. Adaptive Materials Inc. (AMI) has created a power pod battery capable of extending the life of the PackBot. The power pod weighs 6 kg(13 lbs) and allows for extension of battery life to reach 12 hours.[16]  It can maneuver in up to 3 feet of water.[15] PackBot has more than 40 accessories which are illustrated in PackBot 510 variants. Additionally, the robot can communicate up to 1000 meters or 3281 feet, and captures information through four cameras with night vision, zoom, and illumination capabilities that allow for real time image processing.[14]\n\n"
+        },
+        {
+            "title": "Packbot Deployment",
+            "text": "The main use of the Packbot in the field is IED detection and defusing. The Packbot Scout was the first deployment of the Packbot and sent to Afghanistan in 2002 to explore caves and bunkers.[18] This model was the simplest Packbot which contained just a robotic arm and camera.[18] As of 2007 Packbots have been deployed to aid in the detection of sniper fire in the middle east. Acoustic signatures detected by the robot allow ground troops to pinpoint sniper fire in battle.[18]  Packbot has also been used to explore buildings and other possibly dangerous areas with the modified light Packbot Explorer which only weighs 30 pounds and is faster than the Packbot 510.[18]  In addition, iRobot sent two Packbot 510 robots to Japan after the tsunami and earthquake destroyed Japan's Fukushima Daiichi nuclear power plant. The robot was used on several reconnaissance missions at the power plant to remove debris and measure radiation readings.\n\n"
+        }
+    ]
+}

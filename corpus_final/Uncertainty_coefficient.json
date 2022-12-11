@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Uncertainty_coefficient",
+    "title": "Uncertainty coefficient",
+    "table_of_contents": [
+        "1 Definition",
+        "2 Variations",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In statistics, the uncertainty coefficient, also called proficiency, entropy coefficient or Theil's U, is a measure of nominal association.  It was first introduced by Henri Theil[citation needed] and is based on the concept of information entropy.\n\n"
+        },
+        {
+            "title": "Definition",
+            "text": "Suppose we have samples of two discrete random variables, X and Y.  By constructing the joint distribution, PX,Y(x, y), from which we can calculate the conditional distributions, PX|Y(x|y) = PX,Y(x, y)/PY(y) and PY|X(y|x) = PX,Y(x, y)/PX(x), and calculating the various entropies, we can determine the degree of association between the two variables.\n\nThe entropy of a single distribution is given as:\n[1]\n\nwhile the conditional entropy is given as:[1]\n\nThe uncertainty coefficient[2] or proficiency[3] is defined as:\n\nand tells us: given Y, what fraction of the bits of X can we predict? In this case we can think of X as containing the total information, and of Y as allowing one to predict part of such information. \n\nThe above expression makes clear that the uncertainty coefficient is a normalised mutual information I(X;Y). In particular, the uncertainty coefficient ranges in [0, 1] as I(X;Y) < H(X) and both I(X,Y) and H(X) are positive or null. \n\nNote that the value of U (but not H!) is independent of the base of the log since all logarithms are proportional.\n\nThe uncertainty coefficient is useful for measuring the validity of a statistical classification algorithm and has the advantage over simpler accuracy measures such as precision and recall in that it is not affected by the relative fractions of the different classes, i.e., P(x).\n[4]\nIt also has the unique property that it won't penalize an algorithm for predicting the wrong classes, so long as it does so consistently (i.e., it simply rearranges the classes). This is useful in evaluating clustering algorithms since cluster labels typically have no particular ordering.[3]\n\n"
+        },
+        {
+            "title": "Variations",
+            "text": "The uncertainty coefficient is not symmetric with respect to the roles of X and Y. The roles can be reversed and a symmetrical measure thus defined as a weighted average between the two:[2]\n\nAlthough normally applied to discrete variables, the uncertainty coefficient can be extended to continuous variables[1] using density estimation.[citation needed]\n\n"
+        }
+    ]
+}

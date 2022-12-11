@@ -1,0 +1,36 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Teleportation",
+    "title": "Teleportation",
+    "table_of_contents": [
+        "1 Etymology",
+        "2 Cultural References",
+        "2.1 Fiction",
+        "3 Quantum teleportation",
+        "4 Philosophy",
+        "5 See also",
+        "6 References",
+        "7 Further reading"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nTeleportation is the hypothetical transfer of matter or energy from one point to another without traversing the physical space between them. It is a common subject in science fiction literature and in other popular culture. Teleportation is often paired with time travel, being that the travelling between the two points takes an unknown period of time, sometimes being immediate. An apport is a similar phenomenon featured in parapsychology and spiritualism.\n\nThere is no known physical mechanism that would allow for teleportation.[1] Frequently appearing scientific papers and media articles with the term teleportation typically report on so-called \"quantum teleportation\", a scheme for information transfer which, due to the no-communication theorem, still would not allow for faster-than-light communication.[2]\n\n"
+        },
+        {
+            "title": "Etymology",
+            "text": "The use of the term teleport to describe the hypothetical movement of material objects between one place and another without physically traversing the distance between them has been documented as early as 1878.[3][4]\n\nAmerican writer Charles Fort is credited with having coined the word teleportation in 1931[5][6] to describe the strange disappearances and appearances of anomalies, which he suggested may be connected. As in the earlier usage, he joined the Greek prefix tele- (meaning \"remote\") to the root of the Latin verb portare (meaning \"to carry\").[7] Fort's first formal use of the word occurred in the second chapter of his 1931 book Lo!:[8]\n\n"
+        },
+        {
+            "title": "Cultural References",
+            "text": "Teleportation is a common subject in science fiction literature, film, video games, and television. The use of matter transmitters in science fiction originated at least as early as the 19th century.[9] An early example of scientific teleportation (as opposed to magical or spiritual teleportation) is found in the 1897 novel To Venus in Five Seconds by Fred T. Jane. Jane's protagonist is transported from a strange-machinery-containing gazebo on Earth to planet Mars – hence the title.\n\nThe earliest recorded story of a \"matter transmitter\" was Edward Page Mitchell's \"The Man Without a Body\" in 1877.[10]\n\n"
+        },
+        {
+            "title": "Quantum teleportation",
+            "text": "Quantum teleportation is distinct from regular teleportation, as it does not transfer matter from one place to another, but rather transmits the information necessary to prepare a (microscopic) target system in the same quantum state as the source system. The scheme was named quantum “teleportation”, because certain properties of the source system are recreated in the target system without any apparent quantum information carrier propagating between the two.\n\nIn many cases, such as normal matter at room temperature, the exact quantum state of a system is irrelevant for any practical purpose (because it fluctuates rapidly anyway, it \"decoheres\"), and the necessary information to recreate the system is classical. In those cases, quantum teleportation may be replaced by the simple transmission of classical information, such as radio communication.\n\nIn 1993, Bennett et al[11] proposed that a quantum state of a particle could be transferred to another distant particle, without moving the two particles at all. This is called quantum state teleportation. There are many following theoretical and experimental papers published.[12][13][14] Researchers believe that quantum teleportation is the foundation of quantum calculation and quantum communication.[citation needed]\n\nIn 2008, M. Hotta[15] proposed that it may be possible to teleport energy by exploiting quantum energy fluctuations of an entangled vacuum state of a quantum field. There are some papers published but no experimental verification.[citation needed]\n\nIn 2014, researcher Ronald Hanson and colleagues from the Technical University Delft in the Netherlands, demonstrated the teleportation of information between two entangled quantumbits three metres apart.[16]\n\nIn 2016, Y. Wei showed that in a generalization of quantum mechanics, particles themselves could teleport from one place to another.[17] This is called particle teleportation. With this concept, superconductivity can be viewed as the teleportation of some electrons in the superconductor and superfluidity as the teleportation of some of the atoms in the cellular tube.  This effect is not predicted to occur in standard quantum mechanics.\n\n"
+        },
+        {
+            "title": "Philosophy",
+            "text": "Philosopher Derek Parfit used teleportation in his teletransportation paradox.[18]\n\n"
+        }
+    ]
+}

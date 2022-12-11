@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Service_module",
+    "title": "Service module",
+    "table_of_contents": [
+        "1 Design",
+        "2 Operating service modules",
+        "2.1 Zvezda (ISS module)",
+        "2.2 Soyuz service module",
+        "2.3 Shenzhou service module",
+        "2.4 European Service Module (Orion)",
+        "3 List of past service modules",
+        "3.1 Retired",
+        "3.2 Canceled",
+        "4 See also",
+        "5 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A service module (also known as an equipment module or instrument compartment) is a component of a crewed space capsule containing a variety of support systems used for spacecraft operations.  Usually located in the uninhabited area of the spacecraft, the service module serves a storehouse of critical subsystems and supplies for the mission such as electrical systems, environmental control, and propellant tanks. The service module is jettisoned upon the completion of the mission, and usually burns up during atmospheric reentry.[1]\n\nThe Russian phrase for service module for the Soyuz spacecraft is sometimes more directly translated \"Instrument-Assembly Compartment\".  This comes from the design feature of having the guidance and other computer systems in a separate pressure chamber (the instruments) from the rocket engines, their propellant tanks, and the life support tanks (from the German Aggregat, which gets translated \"assembly\").  The Russians use the term \"module\" (модуль) primarily in regards to elements of a modular space station, e.g. the Zvezda Service Module.[citation needed]\n\n"
+        },
+        {
+            "title": "Design",
+            "text": "Depending upon the spacecraft architecture and system design, a typical service module usually contain the following:[1][2]\n\nWhile this would be used for a \"baseline\" service module, a service module may also be modified for additional functions.  An example would be the equipment module on Gemini 9, when it was modified to carry the U.S. Air Force-developed astronaut maneuvering unit that would have been tested by astronaut Eugene Cernan, but was cancelled when his spacesuit overheated, causing his visor to fog up.  But the best example would be the final three Apollo missions, in which the J-series service modules included scientific instrument module (SIM) bays that took pictures and other readouts in lunar orbit.  In addition to the film cameras, similar to those used on the Lunar Orbiter spacecraft and requiring the Command Module Pilot to perform a deep-space EVA during the return trip, two of the SIM bays, on Apollos 15 and 16, also launched a lunar \"subsatellite\" before the astronauts performed the Trans-Earth Injection burn with the onboard service propulsion system.[citation needed]\n\nA unique inhabitable variation of the service module concept is the Functional Cargo Block developed for the Soviet TKS Transport Supply Spacecraft. In addition to full functionality of a service module, it featured a sizeable pressurized cargo bay, and a docking port – as opposed to its conventional location on the front of the re-entry capsule, which in case of the TKS instead possessed its own downscaled service module with de-orbiting thrusters – allowing the FGB to remain docked as an extension of the space station.[citation needed]\n\n"
+        },
+        {
+            "title": "Operating service modules",
+            "text": "The Zvezda Service Module, is a module of the International Space Station (ISS). It was the third module launched to the station, and provides all of the station's life support systems, some of which are supplemented in the US Orbital Segment (USOS), as well as living quarters for two crew members. It is the structural and functional center of the Russian Orbital Segment (ROS), which is the Russian part of the ISS. Crew assemble here to deal with emergencies on the station.[3][4][5] Zvezda was launched on a Proton launch vehicle on 12 July 2000, and docked with the Zarya module on 26 July 2000.\n\nAt the back of the Soyuz spacecraft is the Service Module. It has a pressurized container shaped like a bulging can (instrumentation compartment, priborniy otsek) that contains systems for temperature control, electric power supply, long-range radio communications, radio telemetry, and instruments for orientation and control. A non-pressurized part of the Service Module (propulsion compartment, agregatniy otsek) contains the main engine and a liquid-fuelled propulsion system for maneuvering in orbit and initiating the descent back to Earth. Outside the Service Module are the sensors for the orientation system and the solar array, which is oriented towards the Sun by rotating the ship.\n\nThe aft service module of the Shenzhou spacecraft contains life support and other equipment required for the functioning of Shenzhou. Two pairs of solar panels, one pair on the service module and the other pair on the orbital module, have a total area of over 40 m2 (430 ft²), indicating average electrical power over 1.5 kW.\n\nThe European Service Module is the service module component of the Orion spacecraft, serving as its primary power and propulsion component until it is discarded at the end of each mission. The service module supports the crew module from launch through separation prior to reentry. It provides in-space propulsion capability for orbital transfer, attitude control, and high altitude ascent aborts. It provides the water and oxygen needed for a habitable environment, generates and stores electrical power, and maintains the temperature of the vehicle's systems and components. This module can also transport unpressurized cargo and scientific payloads.[2]\n\n"
+        }
+    ]
+}

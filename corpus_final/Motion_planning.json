@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Path_planning",
+    "title": "Motion planning",
+    "table_of_contents": [
+        "1 Concepts",
+        "1.1 Configuration space",
+        "1.2 Free space",
+        "1.3 Target space",
+        "1.4 Obstacle space",
+        "2 Algorithms",
+        "2.1 Grid-based search",
+        "2.2 Interval-based search",
+        "2.3 Geometric algorithms",
+        "2.4 Artificial potential fields",
+        "2.5 Sampling-based algorithms",
+        "2.6 List of notable algorithms",
+        "3 Completeness and performance",
+        "4 Problem variants",
+        "4.1 Differential constraints",
+        "4.2 Optimality constraints",
+        "4.3 Hybrid systems",
+        "4.4 Uncertainty",
+        "4.5 Environmental Constraints",
+        "5 Applications",
+        "6 See also",
+        "7 References",
+        "8 Further reading",
+        "9 External links"
+    ],
+    "paragraphs": []
+}

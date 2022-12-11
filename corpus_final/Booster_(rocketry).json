@@ -1,0 +1,34 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Booster_rocket",
+    "title": "Booster (rocketry)",
+    "table_of_contents": [
+        "1 Drop-away engines",
+        "2 Strap-on",
+        "3 Recoverable",
+        "4 Use in aviation",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nA booster rocket (or engine) is either the first stage of a multistage launch vehicle, or else a shorter-burning rocket used in parallel with longer-burning sustainer rockets to augment the space vehicle's takeoff thrust and payload capability.[1][2] Boosters are traditionally necessary to launch spacecraft into low Earth orbit (absent a single-stage-to-orbit design), and are especially important for a space vehicle to go beyond Earth orbit.[citation needed] The booster is dropped to fall back to Earth once its fuel is expended, a point known as booster engine cut-off (BECO).[3]\n\nFollowing booster separation, the rest of the launch vehicle continues flight with its core or upper-stage engines. The booster may be recovered, refurbished and reused, as was the case of the steel casings used for the Space Shuttle Solid Rocket Boosters.[1]\n\n"
+        },
+        {
+            "title": "Drop-away engines",
+            "text": "The SM-65 Atlas rocket used three engines, one of which was fixed to the fuel tank, and two of which were mounted on a skirt which dropped away at BECO. This was used as an Intercontinental ballistic missile (ICBM); to launch the manned Project Mercury capsule into orbit; and as the first stage of the Atlas-Agena and Atlas-Centaur launch vehicles.[citation needed]\n\n"
+        },
+        {
+            "title": "Strap-on",
+            "text": "Several launch vehicles, including GSLV Mark III and Titan IV, employ strap-on boosters. NASA's Space Shuttle was the first crewed vehicle to use strap-on boosters. Launch vehicles like Delta IV Heavy and Falcon Heavy employ strap-on liquid rocket boosters.\n\n"
+        },
+        {
+            "title": "Recoverable",
+            "text": "The booster casings for the Space Shuttle Solid Rocket Boosters were recovered and refurbished for reuse from 1981–2011 as part of the Space Shuttle program.\n\nIn a new development program initiated in 2011, SpaceX developed reusable first stages of their Falcon 9 rocket. After launching the second stage and the payload, the booster returns to launch site or flies to a drone ship and lands vertically. After landing multiple boosters both on land and on drone ships in 2015–2016, a landed stage was first reflown in March 2017: Rocket core B1021 that had been used to launch a re-supply mission to the ISS when new in April 2016 was subsequently used to launch the satellite SES-10 in March 2017.[4] The program was intended to reduce launch prices significantly, and by 2018, SpaceX had reduced launch prices on a flight-proven boosters to US$50 million, the lowest price in the industry for medium-lift launch services.[5]\n\nBy August 2019, the recovery and reuse of Falcon 9 boosters had become routine, with booster landings/recovery being attempted on more than 90 percent of all SpaceX flights, and successful landings and recoveries occurring 65 times out of 75 attempts. In total 25 recovered boosters have been refurbished and subsequently flown a second time by late 2020, with several having been flown a third time as well.[citation needed]\n\nIn late 2020, Rocket Lab guided the booster of their Electron rocket for a splashdown in the Pacific Ocean with a parafoil after launching the Return to Sender mission, as part of a program to catch the booster with a helicopter and reuse it on later missions.[6]\n\n"
+        },
+        {
+            "title": "Use in aviation",
+            "text": "Rocket boosters used on aircraft are known as jet-assisted take-off (JATO) rockets.\n\nVarious missiles also use solid rocket boosters. Examples are:\n\n"
+        }
+    ]
+}

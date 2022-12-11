@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Project_Longshot",
+    "title": "Project Longshot",
+    "table_of_contents": [
+        "1 History",
+        "2 Mission",
+        "3 See also",
+        "4 References",
+        "5 Bibliography",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Project Longshot was a conceptual interstellar spacecraft design. It would have been an uncrewed starship (about 400 tonnes), intended to fly to and enter orbit around Alpha Centauri B powered by nuclear pulse propulsion.[1]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Developed by the US Naval Academy and NASA, from 1987 to 1988, Longshot was designed to be built at Space Station Freedom, the precursor to the existing International Space Station. Similar to Project Daedalus, Longshot was designed with existing technology in mind, although some development would have been required; for example, the Project Longshot concept assumes \"a three-order-of-magnitude leap over current propulsion technology\".[1]\n\n"
+        },
+        {
+            "title": "Mission",
+            "text": "Unlike Daedalus, which used an open-cycle fusion engine, Longshot would use a long-lived nuclear fission reactor for power. Initially generating 300 kilowatts, the reactor would power a number of lasers in the engine that would be used to ignite inertial confinement fusion similar to that in Daedalus. The main design difference is that Daedalus also relied on the fusion reaction to power the ship, whereas in the Longshot design the internal reactor would provide this power.[1]\n\nThe reactor would also be used to power a laser for communications back to Earth, with a maximum power of 250 kW. For most of the journey, this would be used at a much lower power for sending data about the interstellar medium; but during the flyby, the main engine section would be discarded and the entire power capacity dedicated to communications at about 1 kilobit per second.\n\nLongshot would have a mass of 396 tonnes (873,000 lb) at the start of the mission including 264 tonnes of helium-3/deuterium pellet fuel/propellant. The active mission payload, which includes the fission reactor but not the discarded main propulsion section, would have a mass of around 30 tonnes.\n\nA difference in the mission architecture between Longshot and the Daedalus study is that Longshot would go into orbit about the target star while the higher speed Daedalus would do a one shot fly-by lasting a comparatively short time.\n\n"
+        },
+        {
+            "title": "Bibliography",
+            "text": "Beals, K. A., M. Beaulieu, F. J. Dembia, J. Kerstiens, D. L. Kramer, J. R. West and J. A. Zito. Project Longshot: An Unmanned Probe To Alpha Centauri. U S Naval Academy. NASA-CR-184718. 1988.\n\n"
+        }
+    ]
+}

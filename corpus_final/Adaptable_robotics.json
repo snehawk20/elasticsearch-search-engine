@@ -1,0 +1,11 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Adaptable_robotics",
+    "title": "Adaptable robotics",
+    "table_of_contents": [],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Adaptable robotics are generally based in robot developer kits. This technology is distinguished from static automation due to its capacity to adapt to changing environmental conditions and material features while retaining a degree of predictability required for collaboration (e.g. human-robot collaboration).[1] The degree of adaptability is demonstrated in the way these can be moved around and used in different tasks.[2] Unlike static or factory robots, which have pre-defined way of operating, adaptable robots can function even if a component breaks, making them useful in cases like caring for the elderly, doing household tasks, and rescue work.[3]\n\nThe kits come with an open software platform tailored to a range of common robotic functions. The kits also come with common robotics hardware that connects easily with the software (infrared sensors, motors, microphone and video camera), which add to the capabilities of the robot. The process of modifying a robot to achieve varying capabilities such as collaboration could merely include the selection of a module, the exchange of modules, robotic instruction via software, and execution.[4]\n\n"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Laws_of_robotics",
+    "title": "Laws of robotics",
+    "table_of_contents": [
+        "1 Isaac Asimov's \"Three Laws of Robotics\"",
+        "2 EPSRC / AHRC principles of robotics",
+        "3 Judicial development",
+        "4 Satya Nadella's laws",
+        "5 Tilden's \"Laws of Robotics\"",
+        "6 See also",
+        "7 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Laws of Robotics are a set of laws, rules, or principles, which are intended as a fundamental framework to underpin the behavior of robots designed to have a degree of autonomy. Robots of this degree of complexity do not yet exist, but they have been widely anticipated in science fiction, films and are a topic of active research and development in the fields of robotics and artificial intelligence.\n\nThe best known set of laws are those written by Isaac Asimov in the 1940s, or based upon them, but other sets of laws have been proposed by researchers in the decades since then.\n\n"
+        },
+        {
+            "title": "",
+            "text": "The best known set of laws are Isaac Asimov's \"Three Laws of Robotics\". These were introduced in his 1942 short story \"Runaround\", although they were foreshadowed in a few earlier stories. The Three Laws are:\n\nIn The Evitable Conflict the machines generalize the First Law to mean:\n\nThis was refined in the end of Foundation and Earth, a zeroth law was introduced, with the original three suitably rewritten as subordinate to it:\n\nAdaptations and extensions exist based upon this framework. As of 2021 they remain a \"fictional device\".[2]\n\n"
+        },
+        {
+            "title": "",
+            "text": "In 2011, the Engineering and Physical Sciences Research Council (EPSRC) and the Arts and Humanities Research Council (AHRC) of United Kingdom jointly published a set of five ethical \"principles for designers, builders and users of robots\" in the real world, along with seven \"high-level messages\" intended to be conveyed, based on a September 2010 research workshop:[2][3][4]\n\nThe messages intended to be conveyed were:\n\nThe EPSRC principles are broadly recognised as a useful starting point. In 2016 Tony Prescott organised a workshop to revise these principles, e.g. to differentiate ethical from legal principles.[5]\n\n"
+        },
+        {
+            "title": "Judicial development",
+            "text": "Another  comprehensive terminological codification for the legal assessment of the technological developments in the robotics industry has already begun mainly in Asian countries.[6] This progress represents a contemporary reinterpretation of the law (and ethics) in the field of robotics, an interpretation that assumes a rethinking of traditional legal constellations. These include primarily legal liability issues in civil and criminal law.\n\n"
+        },
+        {
+            "title": "",
+            "text": "In June 2016, Satya Nadella, the CEO of Microsoft Corporation, had an interview with the Slate magazine and roughly sketched six rules for artificial intelligences to be observed by their designers:[7][8]\n\n"
+        },
+        {
+            "title": "",
+            "text": "Mark W. Tilden is a robotics physicist who was a pioneer in developing simple robotics.[9] His three guiding principles/rules for robots are:[9][10][11]\n\nWhat is notable in these three rules is that these are basically rules for \"wild\" life, so in essence what Tilden stated is that what he wanted was \"proctoring a silicon species into sentience, but with full control over the specs. Not plant. Not animal. Something else.\"[12]\n\n"
+        }
+    ]
+}

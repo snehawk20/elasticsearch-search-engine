@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera",
+    "title": "Interim Register of Marine and Nonmarine Genera",
+    "table_of_contents": [
+        "1 Description",
+        "2 Database location and hosting",
+        "3 IRMNG usage",
+        "4 References",
+        "5 Further reading",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Interim Register of Marine and Nonmarine Genera (IRMNG) is a taxonomic database which attempts to cover published genus names for all domains of life from 1758 in zoology (1753 in botany) up to the present, arranged in a single, internally consistent taxonomic hierarchy, for the benefit of Biodiversity Informatics initiatives plus general users of biodiversity (taxonomic) information. In addition to containing over 490,000 published genus name instances as at March 2020 (also including subgeneric names in zoology), the database holds over 1.7 million species names (1.3 million listed as \"accepted\"), although this component of the data is not maintained in as current or complete state as the genus-level holdings. IRMNG can be queried online for access to the latest version of the dataset and is also made available as periodic snapshots or data dumps for import/upload into other systems as desired.\n\n"
+        },
+        {
+            "title": "Description",
+            "text": "IRMNG contains scientific names (only) of the genera, a subset of species, and principal higher ranks of most plants, animals and other kingdoms, both living and extinct, within a standardized taxonomic hierarchy, with associated machine-readable information on habitat (e.g. marine/nonmarine) and extant/fossil status for the majority of entries.[1] The database aspires to provide complete coverage of both accepted and unaccepted genus names across all kingdoms, with a subset only of species names included as a secondary activity. In its March 2020 release, IRMNG contained 492,620 genus names, of which 232,093 were listed as \"accepted\", 121,389 \"unaccepted\", 7,462 of \"other\" status i.e. interim unpublished, nomen dubium, nomen nudum, taxon inquirendum or temporary name, and 131,676 as \"uncertain\" (unassessed for taxonomic status at this time).[2] The data originate from a range of (frequently domain-specific) print, online and database sources, including (among others) Nomenclator Zoologicus for animals and Index Nominum Genericorum for plants, and are reorganised into a common data structure to support a variety of online queries, generation of individual taxon pages, and bulk data supply to other biodiversity informatics projects. IRMNG content can be queried and displayed freely via the web, and download files of the data down to the taxonomic rank of genus as at specific dates are available in the Darwin Core Archive (DwC-A) format. The data include homonyms (with their authorities), including both available (validly published) and selected unavailable names.[3]\n\nEstimates for \"accepted names\" as held at March 2020 are as follows, broken down by kingdom:\n\nThe cited ranges of uncertainty arise because IRMNG lists \"uncertain\" names (not researched therein) in addition to known \"accepted\" names; the values quoted are the mean of \"accepted\" names alone (all \"uncertain\" names treated as unaccepted) and \"accepted + uncertain\" names (all \"uncertain\" names treated as accepted), with the associated range of uncertainty indicating these two extremes.\n\n"
+        },
+        {
+            "title": "Database location and hosting",
+            "text": "IRMNG was initiated and designed by Australian biologist and data manager Tony Rees in 2006.[1][4] For his work on this and other projects, GBIF awarded him the 2014 Ebbe Nielsen Prize.[4] From 2006 to 2014 IRMNG was located at CSIRO Marine and Atmospheric Research, and was moved to the Flanders Marine Institute (VLIZ) over the period 2014–2016; from 2016 onwards all releases have been available via its new website www.irmng.org which is hosted by VLIZ.[1][5] VLIZ also hosts the World Register of Marine Species (WoRMS), using a common infrastructure.[6]\n\n"
+        },
+        {
+            "title": "IRMNG usage",
+            "text": "Content from IRMNG is used by several global Biodiversity Informatics projects including Open Tree of Life,[7] the Global Biodiversity Information Facility (GBIF),[8] and the Encyclopedia of Life (EOL),[9] in addition to others including the Atlas of Living Australia[10] and the Global Names Architecture (GNA)'s Global Names Resolver.[11] From 2018 onwards, IRMNG data are also being used to populate the taxonomic hierarchy and provide generic names for a range of taxa in the areas of protists (kingdoms Protozoa and Chromista) and plant algae (Charophyta, Chlorophyta, Glaucophyta and Rhodophyta) in the Catalogue of Life.[12]\n\n"
+        }
+    ]
+}

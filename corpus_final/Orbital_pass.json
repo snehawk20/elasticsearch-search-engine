@@ -1,0 +1,24 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Orbital_pass",
+    "title": "Orbital pass",
+    "table_of_contents": [
+        "1 Timing and duration",
+        "2 Prediction and visibility",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "An orbital pass (or simply pass) is the period in which a spacecraft is above the local horizon, and thus available for line-of-sight communication with a given ground station, receiver, or relay satellite, or for visual sighting. The beginning of a pass is termed acquisition of signal (AOS); the end of a pass is termed loss of signal (LOS).[1] The point at which a spacecraft comes closest to a ground observer is the time of closest approach (TCA).[1]\n\n"
+        },
+        {
+            "title": "Timing and duration",
+            "text": "The timing and duration of passes depends on the characteristics of the orbit a satellite occupies, as well as the ground topography and any occulting objects on the ground (such as buildings), or in space (for planetary probes, or for spacecraft using relay satellites).[2] The longest duration ground pass will be experienced by an observer directly on the ground track of the satellite.[3] Path loss is greatest toward the start and end of a ground pass,[4] as is Doppler shifting for Earth-orbiting satellites.[5]\n\nSatellites in geosynchronous orbit may be continuously visible from a single ground station, whereas satellites in low Earth orbit only offer short-duration ground passes[3] (although longer contacts may be made via relay satellite networks such as TDRSS). Satellite constellations, such as those of satellite navigation systems, may be designed so that a minimum subset of the constellation is always visible from any point on the Earth, thereby providing continuous coverage.[2]\n\n"
+        },
+        {
+            "title": "Prediction and visibility",
+            "text": "A number of web-based and mobile applications produce predictions of passes for known satellites.[6] In order to be observed with the naked eye, a spacecraft must reflect sunlight towards the observer; thus, naked-eye observations are generally restricted to twilight hours, during which the spacecraft is in sunlight but the observer is not. A satellite flare occurs when sunlight is reflected by flat surfaces on the spacecraft. The International Space Station, the largest artificial satellite of Earth, has a maximum apparent magnitude of –5.9,[7] brighter than the planet Venus.[8]\n\n"
+        }
+    ]
+}

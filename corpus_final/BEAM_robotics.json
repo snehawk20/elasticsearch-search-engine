@@ -1,0 +1,39 @@
+{
+    "url": "https://en.wikipedia.org/wiki/BEAM_robotics",
+    "title": "BEAM robotics",
+    "table_of_contents": [
+        "1 Mechanisms and principles",
+        "2 BEAM robots",
+        "2.1 Disputes in the name",
+        "2.2 Microcontrollers",
+        "2.3 Types",
+        "2.4 General",
+        "3 Applications and current progress",
+        "4 Publications",
+        "5 See also",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "BEAM robotics[1] (from biology, electronics, aesthetics and mechanics) is a style of robotics that primarily uses simple analogue circuits, such as comparators, instead of a microprocessor in order to produce an unusually simple design. While not as flexible as microprocessor based robotics, BEAM robotics can be robust and efficient in performing the task for which it was designed.\n\nBEAM robots may use a set of the analog circuits,[2] mimicking biological neurons, to facilitate the robot's response to its working environment.\n\n"
+        },
+        {
+            "title": "Mechanisms and principles",
+            "text": "The basic BEAM principles focus on a stimulus-response based ability within a machine. The underlying mechanism was invented by Mark W. Tilden where the circuit (or a Nv net of Nv neurons) is used to simulate biological neuron behaviours. Some similar research was previously done by Ed Rietman in 'Experiments In Artificial Neural Networks'. Tilden's circuit is often compared to a shift register, but with several important features making it a useful circuit in a mobile robot.\n\nOther rules that are included (and to varying degrees applied):\n\nThere are a large number of BEAM robots designed to use solar power from small solar arrays to power a \"Solar Engine\" which creates autonomous robots capable of operating under a wide range of lighting conditions. Besides the simple computational layer of Tilden's \"Nervous Networks\", BEAM has brought a multitude of useful tools to the roboticist's toolbox. The \"Solar Engine\" circuit, many H-bridge circuits for small motor control, tactile sensor designs, and meso-scale (palm-sized) robot construction techniques have been documented and shared by the BEAM community.[3]\n\n"
+        },
+        {
+            "title": "BEAM robots",
+            "text": "Being focused on \"reaction-based\" behaviors (as originally inspired by the work of Rodney Brooks), BEAM robotics attempts to copy the characteristics and behaviours of biological organisms, with the ultimate goal of domesticating these \"wild\" robots. The aesthetics of BEAM robots derive from the principle \"form follows function\" modulated by the particular design choices the builder makes while implementing the desired functionality.\n\nVarious people have varying ideas about what BEAM actually stands for. The most widely accepted meaning is Biology, Electronics, Aesthetics, and Mechanics.\n\nThis term originated with Mark Tilden during a discussion at the Ontario Science Centre in 1990. Mark was displaying a selection of his original bots which he had built while working at the University of Waterloo.\n\nHowever, there are many other semi-popular names in use,[citation needed] including:\n\nUnlike many other types of robots controlled by microcontrollers, BEAM robots are built on the principle of using multiple simple behaviours linked directly to sensor systems with little signal conditioning. This design philosophy is closely echoed in the classic book \"Vehicles: Experiments in Synthetic Psychology\".[4] Through a series of thought experiments, this book explores the development of complex robot behaviours through simple inhibitory and excitory sensor links to the actuators. Microcontrollers and computer programming are usually not a part of a traditional (aka., \"pure\" ) BEAM robot due to the very low-level hardware-centric design philosophy.\n\nThere are successful robot designs mating the two technologies. These \"hybrids\" fulfill a need for robust control systems with the added flexibility of dynamic programming, like the \"horse-and-rider\" topology BEAMbots (e.g. the ScoutWalker 3[5]). 'Horse' behavior is implemented with traditional BEAM technology but a microcontroller based 'rider' can guide that behavior so as to accomplish the goals of the 'rider'.\n\nThere are various \"-trope\" BEAMbots, which attempt to achieve a specific goal. Of the series, the phototropes are the most prevalent, as light-seeking would be the most beneficial behaviour for a solar-powered robot.\n\nBEAMbots have a variety of movements and positioning mechanisms. These include: \n\n"
+        },
+        {
+            "title": "Applications and current progress",
+            "text": "At present[when?], autonomous robots have seen limited commercial application, with some exceptions such as the iRobot Roomba robotic vacuum cleaner and a few lawn-mowing robots. The main practical application of BEAM has been in the rapid prototyping of motion systems and hobby/education applications. Mark Tilden has successfully used BEAM for the prototyping of products for Wow-Wee Robotics, as evidenced by B.I.O.Bug and RoboRaptor. Solarbotics Ltd., Bug'n'Bots, JCM InVentures Inc.,  and PagerMotors.com have also brought BEAM-related hobby and educational goods to the marketplace. Vex has also developed Hexbugs, tiny BEAM robots.\n\nAspiring BEAM roboticists often have problems with the lack of direct control over \"pure\" BEAM control circuits. There is ongoing work to evaluate biomorphic techniques that copy natural systems because they seem to have an incredible performance advantage over traditional techniques. There are many examples of how tiny insect brains are capable of far better performance than the most advanced microelectronics.[citation needed]\n\nAnother barrier to widespread application of BEAM technology is the perceived random nature of the 'nervous network', which requires new techniques to be learned by the builder to successfully diagnose and manipulate the characteristics of the circuitry. A think-tank of international academics[12] meet annually in Telluride, Colorado to address this issue directly, and until recently, Mark Tilden has been part of this effort (he had to withdraw due to his new commercial commitments with Wow-Wee toys).\n\nHaving no long-term memory, BEAM robots generally do not learn from past behaviour. However, there has been work in the BEAM community to address this issue. One of the most advanced BEAM robots in this vein is Bruce Robinson's Hider,[13] which has an impressive degree of capability for a microprocessor-less design.\n\n"
+        },
+        {
+            "title": "Publications",
+            "text": "Patents\n\nBooks and papers\n\n"
+        }
+    ]
+}

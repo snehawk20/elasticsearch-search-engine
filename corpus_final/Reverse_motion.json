@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Reverse_motion",
+    "title": "Reverse motion",
+    "table_of_contents": [
+        "1 Uses",
+        "1.1 Artistic",
+        "1.2 Technical",
+        "2 Techniques",
+        "3 Considerations",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Reverse motion (also known as reverse motion photography or reverse action) is a special effect in cinematography whereby the action that is filmed is shown backwards (i.e. time-reversed) on screen. It can either be an in-camera effect or an effect produced with the use of an optical printer. There are various reasons why this technique may be adopted, such as for comedic effect (destruction reversal) or for safety reasons (a car stopping just in time may be filmed starting at the stop point).\n\n"
+        },
+        {
+            "title": "Uses",
+            "text": "There are several uses for reverse action. Some are artistic in nature. For example, reverse action can be used for comedic effect. Or it can be used to bring things \"back to life\" on screen, by filming a process of destruction or decay in reverse. Sometimes it is necessary, for the intended effect to be achieved, for all actions other than the one that it is intended to reverse to be performed, during shooting, backwards—actors have to perform their actions and dialogue backwards, for example. This also enhances the visual impact of the effect.[1] Perhaps the most famous example of an actor having to memorise their dialogue backwards is Chris Martin in the music video for the Coldplay song \"The Scientist\", where Martin trained for an entire month to memorise the song's lyrics in reverse to achieve a realistic effect.[2] Indeed, music videos have proven to be a ripe medium for reverse-motion video, with the first example almost certainly being The Beatles' 1967 single \"Strawberry Fields Forever\";[3] in fact, \"Strawberry Fields Forever\" was one of the first music videos, period. There are a plethora of examples, but some other notable examples of reverse-motion music videos include \"Typical\" by Mutemath,[4] \"Breezeblocks\" by Alt-J,[5] and \"Drop\" by The Pharcyde.[6]\n\nThe artistic use of reverse action is pervasive in the films of Jean Cocteau. In his Beauty and the Beast (1946), for example, an actor placing a piece of paper in a fire and then walking backwards away was filmed in reverse motion, causing it to appear as though the character walked up to a fire and pulled the paper out of it. Similar instances are where the petals are peeled off a flower. Cocteau filmed this in reverse motion, making it appear on screen as if the flower comes back to life, with petals rejoining the stem. Yet other examples include Cocteau sketching drawings with a rag and unsmashing pottery, with fragments flying up into his hand and joining together. By the time of Le Testament d'Orphée, use of reverse action was endemic in Cocteau's work, with more than one critic declaring it so overused as to be an embarrassing personal tic.[1][7]\n\nThe Christopher Nolan film Tenet (2020) heavily utilizes dramatic action sequences involving characters and objects that are time-reversed compared to the rest of the world.\n\nOther uses of reverse-motion photography are technical in nature. For example, it is difficult to target helicopter shots precisely. Having the point of view swoop down from the sky into a close-up on a particular object or scene is almost impossible to achieve with a helicopter, since it is almost impossible to end up with a perfectly framed and focused final image. Therefore, such shots are filmed in reverse motion, starting with the helicopter close to the target, and then drawing back and up into the sky.[8] A similar approach may be taken also as a safety precaution, such as when a vehicle is required to stop from speed immediately in front of an object, as it can instead be started at the finish position and reversed;[9] for example, this trick can be seen in the Tomorrow Never Dies scene where James Bond pilots a life-sized remote-controlled car, stopping it mere centimetres in front of himself and Q.[10]\n\n"
+        },
+        {
+            "title": "Techniques",
+            "text": "There are two techniques for achieving reverse motion. The first is not an in-camera effect, but is achieved by printing the film backwards in an optical printer, starting from the final frame and working to the initial one. (This requires a true optical effect, since simply playing the film in reverse when exposing it onto a new negative causes it to come out upside down.)[11][12]\n\nThe second is an in-camera effect, achieved either by running the camera itself backwards or by turning the camera upside down. Most cameras are directly capable of running the film backwards (spooling from bottom to top rather than from top to bottom) and those that cannot can mostly be adapted into doing so by the simple expedient of rewiring the electric motor, switching its polarity (for DC motors) or changing over any two of its phases (for synchronous three-phase motors).[1][8]\n\n"
+        },
+        {
+            "title": "Considerations",
+            "text": "Turning the camera upside down and running it forwards as normal, so that the film spools from bottom to top has several disadvantages. First, it places the soundtrack on the wrong side. Second, the film is required to be perforated on both sides, otherwise the negative cannot be cut into the rest of the film. Third, it requires that the camera be lined up for shooting in the opposite way, with the guidelines in the viewfinder that indicate the Academy area needing to be reversed. Fourth, it can cause subsequent processing difficulties for the negative, because the registration pins will be engaging the film perforations on their opposite sides to normal.[1][12]\n\n"
+        }
+    ]
+}

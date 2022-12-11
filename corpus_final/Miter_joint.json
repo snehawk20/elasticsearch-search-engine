@@ -1,0 +1,21 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Miter_joint",
+    "title": "Miter joint",
+    "table_of_contents": [
+        "1 Non-perpendicular joints",
+        "2 See also",
+        "3 References",
+        "4 Further reading",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A mitre joint (often miter in American English) is a joint made by cutting each of two parts to be joined, across the main surface, usually at a 45° angle, to form a corner, usually to form a 90° angle, though it can comprise any angle greater than 0 degrees. It is called beveling when the angled cut is done on the side, although the resulting joint is still a mitre joint.[1]\n\nFor woodworking, a disadvantage of a mitre joint is its weakness, but it can be strengthened with a spline (a thin wafer of wood inserted into a slot, usually arranged with the long grain of the spline across the short grain of the frame timber).[2] There are two common variations of a splined mitre joint, one where the spline is long and runs the length of the mating surfaces and another where the spline is perpendicular to the joined edges.\n\nCommon applications include picture frames, pipes, and molding.\n\n"
+        },
+        {
+            "title": "Non-perpendicular joints",
+            "text": "For mitre joints occurring at angles other than 90°, for materials of the same cross-section the proper cut angle must be determined so that the two pieces to be joined meet flush (i.e. one piece's mitered end is not longer than the adjoining piece). To find the cut angle divide the angle at which the two pieces meet by two. Technically, two different cut angles are required; one for each piece, where the second angle is 90° plus the aforementioned cut angle, but due to angular limitations in common cutting implements (hand circular saws, table saws) a single angle is required and is used to cut the first piece in one direction and the second piece in the opposite direction.\n\n"
+        }
+    ]
+}

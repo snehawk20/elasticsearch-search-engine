@@ -1,0 +1,15 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Unimation",
+    "title": "Unimation",
+    "table_of_contents": [],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Unimation was the world's first robotics company. It was founded in 1962 by Joseph F. Engelberger and George Devol and was located in Danbury, Connecticut.[1] Devol had already applied for a patent an industrial robotic arm in 1954; U.S. Patent 2,988,237 was issued in 1961.[2][3][4]\n\nDevol collaborated with Engelberger, who served as president of the company, to engineer and produce an industrial robot under the brand name Unimate. They introduced their new robot in 1961 at a trade show in Chicago.[2]\nThe first Unimate prototypes were controlled by vacuum tubes used as digital switches though later versions used transistors. Further, parts available off-the-shelf in the late 1950s, such as digital encoders, were not adequate for the Unimate, so with Devol's guidance and a team of skilled engineers, Unimation designed and machined practically every part in the first Unimates.  They also invented a variety of new technologies, including a unique rotating drum memory system with data parity controls.\n\nIn 1960, Devol personally sold the first Unimate robot, which was shipped in 1961 to General Motors.[5] GM first used the machine for die casting handling and spot welding of car bodies.[6]  The first Unimate robot was installed at GM's Inland Fisher Guide Plant in Ewing Township, New Jersey in 1961[7][8] to lift hot pieces of metal from a die-casting machine and stack them.[9] Soon companies such as Chrysler, Ford, and Fiat saw the necessity for large Unimate purchases.\n\nThe introduction of robotics to the manufacturing process effectively transformed the automotive industry,[2][10][11] with Chrysler and the Ford Motor Company soon following General Motors' lead and installing Unimates in their manufacturing facilities.[8] The rapid adoption of the technology also provided Unimation with a working business model: after selling the first Unimate at a $35,000 loss, as demand increased, the company was able to begin building the robotic arms for significantly less and thus began to turn a substantial profit.[12]\n\nUnimation was purchased by Westinghouse (ca. 1980), and later by the Swiss company Stäubli (1988).\n\n"
+        },
+        {
+            "title": "PUMA",
+            "text": "The PUMA (Programmable Universal Machine for Assembly, or Programmable Universal Manipulation Arm) was developed by Victor Scheinman at Unimation in 1978. Initially developed for General Motors, the PUMA was based on the earlier Vicarm design Scheinman invented while at Stanford University.\n\n"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Universal_Robots",
+    "title": "Universal Robots",
+    "table_of_contents": [
+        "1 History",
+        "2 Products",
+        "3 References",
+        "4 External links[1]"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Universal Robots is a Danish manufacturer of smaller flexible industrial collaborative robot arms (cobots), based in Odense, Denmark. The business volume in 2020 was USD 219 million. The company has over 700 employees, (2020) and over 1,100 partners around the world.[1]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Universal Robots was founded in 2005 by the engineers Esben Østergaard, Kasper Støy, and Kristian Kassow.[2][3] During joint research at the Syddansk Universitet Odense, they came to the conclusion that the robotics market was dominated by heavy, expensive, and unwieldy robots. As a consequence they developed the idea to make robot technology accessible to small and medium-sized businesses.[4]  In 2008 the first UR5 cobots were available on the Danish and German markets. In 2012 the second cobot, UR10, was launched.[5] At Automatica 2014 in Munich the company launched a totally revised version of its cobots.[6] One year later, in spring 2015, the table-top cobot UR3 was launched.[7] UR was purchased by Teradyne for US$285 million in 2015.[8][9]\n\nAt Automatica 2018 in Munich, a new generation of Universal Robots' cobots called e-Series was launched. In September 2019, the company launched UR16e, suited for high-payload tasks, like heavy material handling, heavy machine tending, packaging and palletising, and autonomous mobile robots (AMRs).[citation needed]\n\nBy 2019 Universal Robots was the number one cobot manufacturer in the world with Taiwanese competitor Techman taking second place.[10]\n\n"
+        },
+        {
+            "title": "Products",
+            "text": "The products consist of the table-top UR3 and UR3e,[11] the UR5 and UR5e,[12] the UR10 and UR10e,[13] and the heavy-duty UR16e.\n\nAll robots are six-jointed robot arms with a very low weight including cable of respectively 11 kg (24 lb), 20 kg (44 lb), and 33 kg (73 lb). The UR3 and UR3e have a lifting ability of 3 kg (6.6 lb), and a working radius of 500mm (19.7 in); the UR5 and UR5e have a lifting ability of 5 kg (11 lb) and a working radius of 850mm (33.5 in); the UR10 and UR10e have a lifting ability of 10 kg (22 lb) and a working radius of 1300mm (51.2 in); and the UR16e has a lifting ability of 16 kg (35 lb) and a working radius of 900mm (35.4 in). The e-Series has a pose repeatability between ± 0.03mm and 0.05mm.\n\nUniversal Robots collaborative robots (cobots) can work right alongside personnel with no safety guarding, based on the results of a mandatory risk assessment.[14]\n\nThe safety settings of the latest generation of Universal Robots’ lightweight cobots can be adjusted for each specific solution.[15] The robot arm can run in two operating modes of the safety functions; a normal and a reduced one. A switch between safety settings during the cobot's operation is also possible. All these safety functions are safety rated PL d (EN ISO 13849:2008 ) and certified by TÜV NORD.[16]\n\nUR's cobots are used within both small to medium-sized businesses and large corporations [17] within industries such as automotive, electronics, metal and machining, pharmaceuticals, and manufacturing.\n\nIn 2016, the company launched its online ecosystem Universal Robots+, and in early 2017 it launched a new online digital learning platform called Universal Robots Academy. Through this platform, users go through nine learning modules, learning how to program the UR collaborative robots.\n\nIn 2018, a new generation of Universal Robots' cobots called e-Series was launched. The e-Series consists of four cobots: the UR3e, UR5e, UR10e, and the UR16e, which was launched in 2019. In comparison to the previous generation, the CB Series, they have a higher accuracy for both position repeatability (± 0.03, ± 0.03 and ± 0.05 mm) and force (± 3.5, ± 4.0 and ± 5.5 N) and torque (± 0.10, ± 0.30 and ± 0.60 Nm), since they have a built-in force/torque sensor.[18] With the e-Series, they also added a few more safety features, re-designed the teach pendant to be more intuitive and simplified the programming flow with more wizards.\n\nIn 2021, the Advanced Robotics for Manufacturing Institute recognized the Core Training program from UR Academy with an endorsement for their commitment to preparing students to pursue an Advanced Manufacturing / Robotics Industry 4.0 career.[19]\n\n"
+        }
+    ]
+}

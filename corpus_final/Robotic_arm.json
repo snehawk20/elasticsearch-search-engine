@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robotic_arm",
+    "title": "Robotic arm",
+    "table_of_contents": [
+        "1 Types",
+        "2 Notable robotic arms",
+        "3 Low-cost robotic arms",
+        "4 Classification",
+        "5 Robotic hands",
+        "6 See also",
+        "7 References",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A robotic arm is a type of mechanical arm, usually programmable, with similar functions to a human arm; the arm may be the sum total of the mechanism or may be part of a more complex robot.  The links of such a manipulator are connected by joints allowing either rotational motion (such as in an articulated robot) or translational (linear) displacement.[1][2]  The links of the manipulator can be considered to form a kinematic chain.  The terminus of the kinematic chain of the manipulator is called the end effector and it is analogous to the human hand. However, the term \"robotic hand\" as a synonym of the robotic arm is often proscribed.\n\n"
+        },
+        {
+            "title": "Types",
+            "text": "..\n\n"
+        },
+        {
+            "title": "Notable robotic arms",
+            "text": "In space, the Canadarm and its successor Canadarm2 are examples of multi degree of freedom robotic arms. These robotic arms have been used to perform a variety of tasks such as inspection of the Space Shuttle using a specially deployed boom with cameras and sensors attached at the end effector, and also satellite deployment and retrieval manoeuvres from the cargo bay of the Space Shuttle.[5]\n\nThe Curiosity and Perseverance rovers on the planet Mars also use robotic arms.[6][7][8][9] Additionally, Perseverance has a smaller sample caching arm hidden inside its body below the rover in its caching assembly.\n\nTAGSAM is a robotic arm for collecting a sample from a small asteroid in space on the spacecraft OSIRIS-REx.[10]\n\nThe 2018 Mars lander InSight has a robotic arm called the IDA, it has camera, grappler, is used to move special instruments.[11]\n\n"
+        },
+        {
+            "title": "Low-cost robotic arms",
+            "text": "In the decade of 2010 the availability of low-cost robotic arms increased substantially. Although such robotic arms are mostly marketed as hobby or educational devices, applications in laboratory automation have been proposed, like their use as autosamplers.[12][13]\n\n"
+        },
+        {
+            "title": "Classification",
+            "text": "A serial robot arm can be described as a chain of links that are moved by joints which are actuated by motors. An end-effector, also called a robot hand, can be attached to the end of the chain. As other robotic mechanisms, robot arms are typically classified in terms of the number of degrees of freedom. Usually, the number of degrees of freedom is equal to the number of joints that move the links of the robot arm. At least six degrees of freedom are required to enable the robot hand to reach an arbitrary pose (position and orientation) in three dimensional space. Additional degrees of freedom allow to change the configuration of some link on the arm (e.g., elbow up/down), while keeping the robot hand in the same pose. Inverse kinematics is the mathematical process to calculate the configuration of an arm, typically in terms of joint angles, given a desired pose of the robot hand in three dimensional space.\n\n"
+        },
+        {
+            "title": "Robotic hands",
+            "text": "The end effector, or robotic hand, can be designed to perform any desired task such as welding, gripping, spinning etc., depending on the application. For example, robot arms in automotive assembly lines perform a variety of tasks such as welding and parts rotation and placement during assembly. In some circumstances, close emulation of the human hand is desired, as in robots designed to conduct bomb disarmament and disposal.[14]\n\n"
+        }
+    ]
+}

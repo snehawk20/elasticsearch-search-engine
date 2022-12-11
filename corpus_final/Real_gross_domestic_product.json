@@ -1,0 +1,20 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Real_GDP",
+    "title": "Real gross domestic product",
+    "table_of_contents": [
+        "1 Economic sectors of nations using real GDP",
+        "2 Relationship with nominal GDP",
+        "3 Notes and references",
+        "4 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Real gross domestic product (real GDP) is a macroeconomic measure of the value of economic output adjusted for price changes (i.e. inflation or deflation).[1] This adjustment transforms the money-value measure, nominal GDP, into an index for quantity of total output. Although GDP is total output, it is primarily useful because it closely approximates the total spending: the sum of consumer spending, investment made by industry, excess of exports over imports, and government spending.  Due to inflation, GDP increases and does not actually reflect the true growth in an economy.  That is why the GDP must be divided by the inflation rate (raised to the power of units of time in which the rate is measured) to get the growth of the real GDP. Different organizations use different types of 'Real GDP' measures, for example, the UNCTAD uses 2005 Constant prices and exchange rates while the FRED uses 2009 constant prices and exchange rates, and recently the World Bank switched from 2005 to 2010 constant prices and exchange rates.[2][3][4]\n\n"
+        },
+        {
+            "title": "Relationship with nominal GDP",
+            "text": "Real GDP is an example of the distinction between real vs. nominal values in economics. Nominal gross domestic product is defined as the market value of all final goods produced in a geographical region, usually a country. That market value depends on the quantities of goods and services produced, and their respective prices.\n\nIf a set of real GDPs from various years are calculated, each using the quantities from its own year, but all using the prices from the same base year, the differences in those real GDPs will reflect only differences in volume.\n\nAn index called the GDP deflator can be obtained by dividing, for each year, the nominal GDP by the real GDP, so that the GDP deflator for the base year will be 100. It gives an indication of the overall level of price change (inflation or deflation) in the economy.\n\nReal GDP growth on an annual basis is the nominal GDP growth rate adjusted for inflation. It is usually expressed as a percentage.\n\nNomenclature:  \"GDP\" may refer to \"nominal\" or  \"current\" or \"historical\" GDP, to distinguish it from the real GDP. The real GDP is sometimes called \"constant\" GDP because it is expressed in terms of constant prices. Depending on context, \"GDP\" may also refer to real GDP...\n\n"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Elliptical_orbit",
+    "title": "Elliptic orbit",
+    "table_of_contents": [
+        "1 Velocity",
+        "2 Orbital period",
+        "3 Energy",
+        "3.1 Energy in terms of semi major axis",
+        "3.1.1 Derivation",
+        "4 Flight path angle",
+        "5 Equation of motion",
+        "5.1 From initial position and velocity",
+        "5.1.1 Using vectors",
+        "5.1.2 Using XY Coordinates",
+        "6 Orbital parameters",
+        "7 Solar System",
+        "8 Radial elliptic trajectory",
+        "9 History",
+        "10 See also",
+        "11 References",
+        "12 Sources",
+        "13 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In astrodynamics or celestial mechanics, an elliptic orbit or elliptical orbit is a Kepler orbit with an eccentricity of less than 1; this includes the special case of a circular orbit, with eccentricity equal to 0. In a stricter sense, it is a Kepler orbit with the eccentricity greater than 0 and less than 1 (thus excluding the circular orbit). In a wider sense, it is a Kepler's orbit with negative energy. This includes the radial elliptic orbit, with eccentricity equal to 1.\n\nIn a gravitational two-body problem with negative energy, both bodies follow similar elliptic orbits with the same orbital period around their common barycenter. Also the relative position of one body with respect to the other follows an elliptic orbit.\n\nExamples of elliptic orbits include: Hohmann transfer orbit, Molniya orbit, and tundra orbit.\n\n\n\n"
+        },
+        {
+            "title": "Velocity",
+            "text": "Under standard assumptions, no other forces acting except two spherically symmetrical bodies m1 and m2,[1] the orbital speed (\n\n\n\nv\n\n\n\n{\\displaystyle v\\,}\n\n) of one body traveling along an elliptic orbit can be computed from the vis-viva equation as:[2]\n\nwhere:\n\nThe velocity equation for a hyperbolic trajectory has either + \n\n\n\n\n\n1\n\na\n\n\n\n\n\n{\\displaystyle {1 \\over {a}}}\n\n, or it is the same with the convention that in that case a is negative.\n\n"
+        },
+        {
+            "title": "Orbital period",
+            "text": "Under standard assumptions the orbital period(\n\n\n\nT\n\n\n\n\n{\\displaystyle T\\,\\!}\n\n) of a body travelling along an elliptic orbit can be computed as:[3]\n\nwhere:\n\nConclusions:\n\n"
+        },
+        {
+            "title": "Energy",
+            "text": "Under standard assumptions, the specific orbital energy (\n\n\n\nϵ\n\n\n{\\displaystyle \\epsilon }\n\n) of an elliptic orbit is negative and the orbital energy conservation equation (the Vis-viva equation) for this orbit can take the form:[4]\n\nwhere:\n\nConclusions:\n\nUsing the virial theorem we find:\n\nIt can be helpful to know the energy in terms of the semi major axis (and the involved masses). The total energy of the orbit is given by\n\nwhere a is the semi major axis.\n\nSince gravity is a central force, the angular momentum is constant:\n\nAt the closest and furthest approaches, the angular momentum is perpendicular to the distance from the mass orbited, therefore:\n\nThe total energy of the orbit is given by[5]\n\nWe may substitute for v and obtain\n\nThis is true for r being the closest / furthest distance so we get two simultaneous equations which we solve for E:\n\nSince \n\n\n\n\nr\n\n1\n\n\n=\na\n+\na\nϵ\n\n\n{\\textstyle r_{1}=a+a\\epsilon }\n\n and \n\n\n\n\nr\n\n2\n\n\n=\na\n−\na\nϵ\n\n\n{\\displaystyle r_{2}=a-a\\epsilon }\n\n, where epsilon is the eccentricity of the orbit, we finally have the stated result.\n\n"
+        },
+        {
+            "title": "Flight path angle",
+            "text": "The flight path angle is the angle between the orbiting body's velocity vector (= the vector tangent to the instantaneous orbit) and the local horizontal. Under standard assumptions of the conservation of angular momentum the flight path angle \n\n\n\nϕ\n\n\n{\\displaystyle \\phi }\n\n satisfies the equation:[6]\n\nwhere:\n\n\n\n\n\nψ\n\n\n{\\displaystyle \\psi }\n\n is the angle between the orbital velocity vector and the semi-major axis. \n\n\n\nν\n\n\n{\\displaystyle \\nu }\n\n is the local true anomaly. \n\n\n\nϕ\n=\nν\n+\n\n\nπ\n2\n\n\n−\nψ\n\n\n{\\displaystyle \\phi =\\nu +{\\frac {\\pi }{2}}-\\psi }\n\n, therefore,\n\nwhere \n\n\n\ne\n\n\n{\\displaystyle e}\n\n is the eccentricity.\n\n\nThe angular momentum is related to the vector cross product of position and velocity, which is proportional to the sine of the angle between these two vectors. Here \n\n\n\nϕ\n\n\n{\\displaystyle \\phi }\n\n is defined as the angle which differs by 90 degrees from this, so the cosine appears in place of the sine.\n"
+        },
+        {
+            "title": "Equation of motion",
+            "text": "An orbit equation defines the path of an orbiting body \n\n\n\n\nm\n\n2\n\n\n\n\n\n\n{\\displaystyle m_{2}\\,\\!}\n\n around central body \n\n\n\n\nm\n\n1\n\n\n\n\n\n\n{\\displaystyle m_{1}\\,\\!}\n\n relative to \n\n\n\n\nm\n\n1\n\n\n\n\n\n\n{\\displaystyle m_{1}\\,\\!}\n\n, without specifying position as a function of time.  If the eccentricity is less than 1 then the equation of motion describes an elliptical orbit.  Because Kepler's equation \n\n\n\nM\n=\nE\n−\ne\nsin\n⁡\nE\n\n\n{\\displaystyle M=E-e\\sin E}\n\n has no general closed-form solution for the Eccentric anomaly (E) in terms of the Mean anomaly (M), equations of motion as a function of time also have no closed-form solution (although numerical solutions exist for both).\n\nHowever, closed-form time-independent path equations of an elliptic orbit with respect to a central body can be determined from just an initial position (\n\n\n\n\nr\n\n\n\n{\\displaystyle \\mathbf {r} }\n\n) and velocity (\n\n\n\n\nv\n\n\n\n{\\displaystyle \\mathbf {v} }\n\n).\n\n\nFor this case it is convenient to use the following assumptions which differ somewhat from the standard assumptions above:\n\nThe fourth assumption can be made without loss of generality because any three points (or vectors) must lie within a common plane.   Under these assumptions the second focus (sometimes called the \"empty\" focus) must also lie within the XY-plane: \n\n\n\n\nF\n2\n\n=\n\n(\n\n\nf\n\nx\n\n\n,\n\nf\n\ny\n\n\n\n)\n\n\n\n{\\displaystyle \\mathbf {F2} =\\left(f_{x},f_{y}\\right)}\n\n .\n\nThe general equation of an ellipse under these assumptions using vectors is:\n\nwhere:\n\n\nThe semi-major axis length (a) can be calculated as:\n\nwhere \n\n\n\nμ\n \n=\nG\n\nm\n\n1\n\n\n\n\n{\\displaystyle \\mu \\ =Gm_{1}}\n\n is the standard gravitational parameter.\n\n\nThe empty focus (\n\n\n\n\nF\n2\n\n=\n\n(\n\n\nf\n\nx\n\n\n,\n\nf\n\ny\n\n\n\n)\n\n\n\n{\\displaystyle \\mathbf {F2} =\\left(f_{x},f_{y}\\right)}\n\n) can be found by first determining the Eccentricity vector:\n\nWhere \n\n\n\n\nh\n\n\n\n{\\displaystyle \\mathbf {h} }\n\n is the specific angular momentum of the orbiting body:[7]\n\nThen\n\nThis can be done in cartesian coordinates using the following procedure:\n\nThe general equation of an ellipse under the assumptions above is:\n\nGiven:\n\nand\n\nThen:\n\n\n\n\nFinally, the empty focus coordinates\n\n\nNow the result values fx, fy and a can be applied to the general ellipse equation above.\n\n"
+        },
+        {
+            "title": "Orbital parameters",
+            "text": "The state of an orbiting body at any given time is defined by the orbiting body's position and velocity with respect to the central body, which can be represented by the three-dimensional Cartesian coordinates (position of the orbiting body represented by x, y, and z) and the similar Cartesian components of the orbiting body's velocity. This set of six variables, together with time, are called the orbital state vectors. Given the masses of the two bodies they determine the full orbit. The two most general cases with these 6 degrees of freedom are the elliptic and the hyperbolic orbit. Special cases with fewer degrees of freedom are the circular and parabolic orbit.\n\nBecause at least six variables are absolutely required to completely represent an elliptic orbit with this set of parameters, then six variables are required to represent an orbit with any set of parameters. Another set of six parameters that are commonly used are the orbital elements.\n\n"
+        },
+        {
+            "title": "Solar System",
+            "text": "In the Solar System, planets, asteroids, most comets and some pieces of space debris have approximately elliptical orbits around the Sun.  Strictly speaking, both bodies revolve around the same focus of the ellipse, the one closer to the more massive body, but when one body is significantly more massive, such as the sun in relation to the earth, the focus may be contained within the larger massing body, and thus the smaller is said to revolve around it. The following chart of the perihelion and aphelion of the planets, dwarf planets and Halley's Comet demonstrates the variation of the eccentricity of their elliptical orbits. For similar distances from the sun, wider bars denote greater eccentricity. Note the almost-zero eccentricity of Earth and Venus compared to the enormous eccentricity of Halley's Comet and Eris.\n\n"
+        },
+        {
+            "title": "Radial elliptic trajectory",
+            "text": "A radial trajectory can be a double line segment, which is a degenerate ellipse with semi-minor axis = 0 and eccentricity = 1. Although the eccentricity is 1, this is not a parabolic orbit. Most properties and formulas of elliptic orbits apply. However, the orbit cannot be closed. It is an open orbit corresponding to the part of the degenerate ellipse from the moment the bodies touch each other and move away from each other until they touch each other again. In the case of point masses one full orbit is possible, starting and ending with a singularity. The velocities at the start and end are infinite in opposite directions and the potential energy is equal to minus infinity.\n\nThe radial elliptic trajectory is the solution of a two-body problem with at some instant zero speed, as in the case of dropping an object (neglecting air resistance).\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The Babylonians were the first to realize that the Sun's motion along the ecliptic was not uniform, though they were unaware of why this was; it is today known that this is due to the Earth moving in an elliptic orbit around the Sun, with the Earth moving faster when it is nearer to the Sun at perihelion and moving slower when it is farther away at aphelion.[8]\n\nIn the 17th century, Johannes Kepler discovered that the orbits along which the planets travel around the Sun are ellipses with the Sun at one focus, and described this in his first law of planetary motion. Later, Isaac Newton explained this as a corollary of his law of universal gravitation.\n\n"
+        }
+    ]
+}

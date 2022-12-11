@@ -1,0 +1,38 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robot_App_Store",
+    "title": "Robot App Store",
+    "table_of_contents": [
+        "1 History",
+        "2 Supported platforms",
+        "3 Developer program",
+        "4 Robopedia",
+        "5 Funding",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Robot App Store is a digital application distribution platform for applications for robots opened to the public on late 2011.[1][2][3] The service allows users to browse and download applications that were developed for robots, and published through the RobotAppStore.com website.\n\nDepending on the developer, applications are available either for free or at a cost. The applications can be downloaded directly to a robot, (like NAO) or downloaded onto a personal computer (PC) or a smartphone. 70% of the sale price goes to the developer of the app.\n[4]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The Robot App Store opened on Aug. 28, 2011.[5] for developers. In early 2012, the website was opened for consumers. \n\nThe Robot App Store is available for developers and robot-owners from around the world.[6]\n\nThe portal offers a centralized encyclopedia for robotics topics called Robopedia.[7] A comprehensive knowledge-base[8] for developers covering development lessons for popular robotics platforms such as Roomba, AR.Drone, LEGO NXT and even robotics operating systems such as ROS.\n\n"
+        },
+        {
+            "title": "Supported platforms",
+            "text": "The Robot App Store supports all commercially available robots, and all operating systems available for robots. A typical application will run autonomously on the robot’s processor and internal resources. However, applications can be executed on platforms such as a laptops, desktops and smartphones.\n\nA list of supported robots, and supported application formats:\n\n"
+        },
+        {
+            "title": "Developer program",
+            "text": "Individuals and companies can join the developer's program and submit their applications for approval and distribution. Once joined, identity verification is required to confirm the ownership of the account.[9] Approved developers are getting access to pre-launched apps.\n\n"
+        },
+        {
+            "title": "Robopedia",
+            "text": "On August 17, 2012, the company launched Robopedia[10][11] - the first encyclopedia covering robotics’ topics. The resource was driven by customer service requests for more information about apps that people had downloaded for their home robot projects. RobotAppStore.com's founder, Elad Inbar, said that more than 70 percent of their calls from customers were for more information. The topics cover the present and future of robots, including their components and concepts. It enables beginners and seasoned developers to learn about robotics' acronyms and terminology, as well as read step-by-step application-development for numerous robots — vacuum cleaners and humanoids alike.\n\n"
+        },
+        {
+            "title": "Funding",
+            "text": "The company was funded by its founders since its inception. On December 10, 2012, the company announced its first external investment of $250,000 from Grishin Robotics,[12][13] which was founded by Dmitry Grishin, the CEO and Chairman of Mail.ru Group. The company is the second company funded by Grishin Robotics following the investment into Double Robotics earlier in 2012.[14]\n\n"
+        }
+    ]
+}

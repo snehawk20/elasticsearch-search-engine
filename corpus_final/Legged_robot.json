@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Legged_robot",
+    "title": "Legged robot",
+    "table_of_contents": [
+        "1 Gait and support pattern",
+        "2 Types",
+        "2.1 One-legged",
+        "2.2 Two-legged",
+        "2.3 Four-legged",
+        "2.4 Six-legged",
+        "2.5 Eight-legged",
+        "2.6 Hybrids",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Legged robots are a type of mobile robot which use articulated limbs, such as leg mechanisms, to provide locomotion. They are more versatile than wheeled robots and can traverse many different terrains, though these advantages require increased complexity and power consumption. Legged robots often imitate legged animals, such as humans or insects, in an example of biomimicry.[1]\n[2]\n\n"
+        },
+        {
+            "title": "Gait and support pattern",
+            "text": "Legged robots, or walking machines, are designed for locomotion on rough terrain and require control of leg actuators to maintain balance, sensors to determine foot placement and planning algorithms to determine the direction and speed of movement.[3][4] The periodic contact of the legs of the robot with the ground is called the gait of the walker.  \n\nIn order to maintain locomotion the center of gravity of the walker must be supported either statically or dynamically.  Static support is provided by ensuring the center of gravity is within the support pattern formed by legs in contact with the ground.  Dynamic support is provided by keeping the trajectory of the center of gravity located so that it can be repositioned by forces from one or more of its legs.[5]\n\n"
+        },
+        {
+            "title": "Types",
+            "text": "Legged robots can be categorized by the number of limbs they use, which determines gaits available. Many-legged robots tend to be more stable, while fewer legs lends itself to greater maneuverability.\n\nOne-legged, or pogo stick robots use a hopping motion for navigation. In the 1980s, Carnegie Mellon University developed a one-legged robot to study balance.[6] Berkeley's SALTO is another example.[7][8][9][10]\n\nBipedal or two-legged robots exhibit bipedal motion. As such, they face two primary problems:\n\nStability control is particularly difficult for bipedal systems, which must maintain balance in the forward-backward direction even at rest.[1] Some robots, especially toys, solve this problem with large feet, which provide greater stability while reducing mobility. Alternatively, more advanced systems use sensors such as accelerometers or gyroscopes to provide dynamic feedback in a fashion that approximates a human being's balance.[1] Such sensors are also employed for motion control and walking. The complexity of these tasks lends itself to machine learning.[2]\n\nSimple bipedal motion can be approximated by a rolling polygon where the length of each side matches that of a single step. As the step length grows shorter, the number of sides increases and the motion approaches that of a circle. This connects bipedal motion to wheeled motion as a limit of stride length.[2]\n\nTwo-legged robots include:\n\nQuadrupedal or four-legged robots exhibit quadrupedal motion. They benefit from increased stability over bipedal robots, especially during movement. At slow speeds, a quadrupedal robot may move only one leg at a time, ensuring a stable tripod. Four-legged robots also benefit from a lower center of gravity than two-legged systems.[1]\n\nFour legged robots include:\n\nSix-legged robots, or hexapods, are motivated by a desire for even greater stability than bipedal or quadrupedal robots. Their final designs often mimic the mechanics of insects, and their gaits may be categorized similarly. These include:\n\nSix-legged robots include:\n\nEight-legged legged robots are inspired by spiders and other arachnids, as well as some underwater walkers. They offer by far the greatest stability, which enabled some early successes with legged robots.[1]\n\nEight-legged robots include:\n\nSome robots use a combination of legs and wheels. This grants a machine the speed and energy efficiency of wheeled locomotion as well as the mobility of legged navigation. Boston Dynamics' Handle, a bipedal robot with wheels on both legs, is one example.[29]\n\n"
+        }
+    ]
+}

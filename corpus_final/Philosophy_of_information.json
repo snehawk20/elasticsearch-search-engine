@@ -1,0 +1,41 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Philosophy_of_information",
+    "title": "Philosophy of information",
+    "table_of_contents": [
+        "1 History",
+        "1.1 Logic of information",
+        "1.2 Cybernetics",
+        "1.3 Study of language and information",
+        "1.4 P.I.",
+        "2 Definitions of \"information\"",
+        "2.1 Peirce",
+        "2.2 Shannon and Weaver",
+        "2.3 Bateson",
+        "2.4 Floridi",
+        "3 Philosophical directions",
+        "3.1 Computing and philosophy",
+        "3.2 Information and society",
+        "4 See also",
+        "5 Notes",
+        "6 Further reading",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The philosophy of information (PI) is a branch of philosophy that studies topics relevant to information processing, representational system and consciousness, cognitive science, computer science, information science and information technology.\n\nIt includes:\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The philosophy of information (PI) has evolved from the philosophy of artificial intelligence, logic of information, cybernetics, social theory, ethics and the study of language and information.\n\nThe logic of information, also known as the logical theory of information, considers the information content of logical signs and expressions along the lines initially developed by Charles Sanders Peirce.\n\nOne source for the philosophy of information can be found in the technical work of Norbert Wiener, Alan Turing (though his work has a wholly different origin and theoretical framework), William Ross Ashby, Claude Shannon, Warren Weaver, and many other scientists working on computing and information theory back in the early 1950s. See the main article on Cybernetics.\n\nSome important work on information and communication was done by Gregory Bateson and his colleagues.\n\nStafford Beer sought to apply the theory of cybernetics to an economy in the 1971 Chilean economic experiment Project Cybersyn.\n\nLater contributions to the field were made by Fred Dretske, Jon Barwise, Brian Cantwell Smith, and others.\n\nThe Center for the Study of Language and Information (CSLI) was founded at Stanford University in 1983 by philosophers, computer scientists, linguists, and psychologists, under the direction of John Perry and Jon Barwise.\n\nMore recently this field has become known as the philosophy of information. The expression was coined in the 1990s by Luciano Floridi, who has published prolifically in this area with the intention of elaborating a unified and coherent, conceptual frame for the whole subject.[citation needed]\n\n"
+        },
+        {
+            "title": "",
+            "text": "The concept information has been defined by several theorists.\n\nCharles S. Peirce's theory of information was embedded in his wider theory of symbolic communication he called the semeiotic, now a major part of semiotics. For Peirce, information integrates the aspects of signs and expressions separately covered by the concepts of denotation and extension, on the one hand, and by connotation and comprehension on the other.\n\nClaude E. Shannon, for his part, was very cautious: \"The word 'information' has been given different meanings by various writers in the general field of information theory. It is likely that at least a number of these will prove sufficiently useful in certain applications to deserve further study and permanent recognition. It is hardly to be expected that a single concept of information would satisfactorily account for the numerous possible applications of this general field.\" (Shannon 1993, p. 180)[full citation needed]. Thus, following Shannon, Weaver supported a tripartite analysis of information in terms of (1) technical problems concerning the quantification of information and dealt with by Shannon's theory; (2) semantic problems relating to meaning and truth; and (3) what he called \"influential\" problems concerning the impact and effectiveness of information on human behaviour, which he thought had to play an equally important role. And these are only two early examples of the problems raised by any analysis of information.\n\nA map of the main senses in which one may speak of information is provided by  the Stanford Encyclopedia of Philosophy article. The previous paragraphs are based on it.\n\nGregory Bateson defined information as \"a difference that makes a difference\",[2] which is based on Donald M. MacKay: information is a distinction that makes a difference.[3]\n\nAccording to Luciano Floridi[citation needed], four kinds of mutually compatible phenomena are commonly referred to as \"information\": \n\nThe word \"information\" is commonly used so metaphorically or so abstractly that the meaning is unclear.\n\n"
+        },
+        {
+            "title": "Philosophical directions",
+            "text": "Recent creative advances and efforts in computing, such as semantic web, ontology engineering, knowledge engineering, and modern artificial intelligence provide philosophy with fertile ideas, new and evolving subject matters, methodologies, and models for philosophical inquiry. While computer science brings new opportunities and challenges to traditional philosophical studies, and changes the ways philosophers understand foundational concepts in philosophy, further major progress in computer science would only be feasible when philosophy provides sound foundations for areas such as bioinformatics, software engineering, knowledge engineering, and ontologies.\n\nClassical topics in philosophy, namely, mind, consciousness, experience, reasoning, knowledge, truth, morality and creativity are rapidly becoming common concerns and foci of investigation in computer science, e.g., in areas such as agent computing, software agents, and intelligent mobile agent technologies.[citation needed]\n\nAccording to Luciano Floridi \"[4] one can think of several ways for applying computational methods towards philosophical matters:\n\nNumerous philosophers and other thinkers have carried out philosophical studies of the social and cultural aspects of electronically mediated information.\n\n"
+        }
+    ]
+}

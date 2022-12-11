@@ -1,0 +1,21 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robot_welding",
+    "title": "Robot welding",
+    "table_of_contents": [
+        "1 History",
+        "1.1 Advantages",
+        "1.2 Disadvantages",
+        "2 References",
+        "3 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Robot welding is the use of mechanized programmable tools (robots), which completely automate a welding process by both performing the weld and handling the part.  Processes such as gas metal arc welding, while often automated, are not necessarily equivalent to robot welding, since a human operator sometimes prepares the materials to be welded.  Robot welding is commonly used for resistance spot welding and arc welding in high production applications, such as the automotive industry.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Robot welding is a relatively new application of robotics, even though robots were first introduced into U.S. industry during the 1960s. The use of robots in welding did not take off until the 1980s, when the automotive industry began using robots extensively for spot welding. Since then, both the number of robots used in industry and the number of their applications has grown greatly.  In 2005, more than 120,000 robots were in use in North American industry, about half of them for welding.[1] Growth is primarily limited by high equipment costs, and the resulting restriction to high-production applications. \n\nRobot arc welding has begun growing quickly just recently, and already it commands about 20 percent of industrial robot applications.  The major components of arc welding robots are the manipulator or the mechanical unit and the controller, which acts as the robot's \"brain\".  The manipulator is what makes the robot move, and the design of these systems can be categorized into several common types, such as SCARA and cartesian coordinate robot, which use different coordinate systems to direct the arms of the machine.\n\nThe robot may weld a pre-programmed position, be guided by machine vision, or by a combination of the two methods.[2] However, the many benefits of robotic welding have proven to make it a technology that helps many original equipment manufacturers increase accuracy, repeat-ability, and throughput [3] One welding robot can do the work of several human welders.[4][5] For example, in arc welding, which produces hot sparks and smoke, a human welder can keep his torch on the work for roughly thirty percent of the time; for robots, the percentage is about 90.[6]\n\nThe technology of signature image processing has been developed since the late 1990s for analyzing electrical data in real time collected from automated, robotic welding, thus enabling the optimization of welds.\n\nAdvantages of robot welding include:[7][8][9][5][10]\n\nDisadvantages of robot welding include:[11][12][13]\n\n\n\n"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Grey_goo",
+    "title": "Gray goo",
+    "table_of_contents": [
+        "1 Definition",
+        "2 Risks and precautions",
+        "3 Ethics and chaos",
+        "4 In fiction",
+        "5 See also",
+        "6 References",
+        "7 Further reading",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Gray goo (also spelled as grey goo) is a hypothetical global catastrophic scenario involving molecular nanotechnology in which out-of-control self-replicating machines consume all biomass on Earth while building many more of themselves,[1][2] a scenario that has been called ecophagy (the literal consumption of the ecosystem).[3] The original idea assumed machines were designed to have this capability, while popularizations have assumed that machines might somehow gain this capability by accident.\n\nSelf-replicating machines of the macroscopic variety were originally described by mathematician John von Neumann, and are sometimes referred to as von Neumann machines or clanking replicators.\nThe term gray goo was coined by nanotechnology pioneer K. Eric Drexler in his 1986 book Engines of Creation.[4] In 2004, he stated \"I wish I had never used the term 'gray goo'.\"[5] Engines of Creation mentions \"gray goo\" as a thought experiment in two paragraphs and a note, while the popularized idea of gray goo was first publicized in a mass-circulation magazine, Omni, in November 1986.[6]\n\n"
+        },
+        {
+            "title": "Definition",
+            "text": "The term was first used by molecular nanotechnology pioneer K. Eric Drexler in Engines of Creation (1986). In Chapter 4, Engines Of Abundance, Drexler illustrates both exponential growth and inherent limits (not gray goo) by describing \"dry\" nanomachines that can function only if given special raw materials:\n\nAccording to Drexler, the term was popularized by an article in science fiction magazine Omni, which also popularized the term \"nanotechnology\" in the same issue. Drexler says arms control is a far greater issue than gray goo \"nanobugs\".[7]\n\nDrexler describes gray goo in Chapter 11 of Engines of Creation:\n\nDrexler notes that the geometric growth made possible by self-replication is inherently limited by the availability of suitable raw materials. Drexler used the term \"gray goo\" not to indicate color or texture, but to emphasize the difference between \"superiority\" in terms of human values and \"superiority\" in terms of competitive success:\n\nBill Joy, one of the founders of Sun Microsystems, discussed some of the problems with pursuing this technology in his now-famous 2000 article in Wired magazine, titled \"Why The Future Doesn't Need Us\". In direct response to Joy's concerns, the first quantitative technical analysis of the ecophagy scenario was published in 2000 by nanomedicine pioneer Robert Freitas.[3]\n\n"
+        },
+        {
+            "title": "Risks and precautions",
+            "text": "Drexler more recently conceded that there is no need to build anything that even resembles a potential runaway replicator. This would avoid the problem entirely. In a paper in the journal Nanotechnology, he argues that self-replicating machines are needlessly complex and inefficient. His 1992 technical book on advanced nanotechnologies Nanosystems: Molecular Machinery, Manufacturing, and Computation[8] describes manufacturing systems that are desktop-scale factories with specialized machines in fixed locations and conveyor belts to move parts from place to place. None of these measures would prevent a party from creating a weaponized gray goo, were such a thing possible.\n\nKing Charles III (then Prince of Wales) called upon the British Royal Society to investigate the \"enormous environmental and social risks\" of nanotechnology in a planned report, leading to much media commentary on gray goo. The Royal Society's report on nanoscience was released on 29 July 2004, and declared the possibility of self-replicating machines to lie too far in the future to be of concern to regulators.[9]\n\nMore recent analysis in the paper titled Safe Exponential Manufacturing from the Institute of Physics (co-written by Chris Phoenix, Director of Research of the Center for Responsible Nanotechnology, and Eric Drexler), shows that the danger of gray goo is far less likely than originally thought.[10] However, other long-term major risks to society and the environment from nanotechnology have been identified.[11] Drexler has made a somewhat public effort to retract his gray goo hypothesis, in an effort to focus the debate on more realistic threats associated with knowledge-enabled nanoterrorism and other misuses.[12]\n\nIn Safe Exponential Manufacturing, which was published in a 2004 issue of Nanotechnology, it was suggested that creating manufacturing systems with the ability to self-replicate by the use of their own energy sources would not be needed.[13] The Foresight Institute also recommended embedding controls in the molecular machines. These controls would be able to prevent anyone from purposely abusing nanotechnology, and therefore avoid the gray goo scenario.[14]\n\n"
+        },
+        {
+            "title": "Ethics and chaos",
+            "text": "Gray goo is a useful construct for considering low-probability, high-impact outcomes from emerging technologies. Thus, it is a useful tool in the ethics of technology. Daniel A. Vallero applied it as a worst-case scenario thought experiment for technologists contemplating possible risks from advancing a technology.[15] This requires that a decision tree or event tree include even extremely low probability events if such events may have an extremely negative and irreversible consequence, i.e. application of the precautionary principle. Dianne Irving admonishes that \"any error in science will have a rippling effect\".[16] Vallero adapted this reference to chaos theory to emerging technologies, wherein slight permutations of initial conditions can lead to unforeseen and profoundly negative downstream effects, for which the technologist and the new technology's proponents must be held accountable.\n\n"
+        }
+    ]
+}

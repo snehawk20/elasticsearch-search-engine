@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/NIROSETI",
+    "title": "NIROSETI",
+    "table_of_contents": [
+        "1 Overview",
+        "2 Targets",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The NIROSETI (Near-InfraRed Optical Search for Extraterrestrial Intelligence) is an astronomical program to search for artificial signals in the optical (visible) and near infrared (NIR) wavebands of the electromagnetic spectrum. It is the first dedicated near-infrared SETI experiment.[1][2] The instrument was created by a collaboration of scientists from the University of California, San Diego, Berkeley SETI Research Center at the University of California, Berkeley, University of Toronto, and the SETI Institute. It uses the Anna Nickel 1-m telescope at the Lick Observatory, situated on the summit of Mount Hamilton, east of San Jose, California, USA.[3][4] The instrument was commissioned (saw its first light) on 15 March 2015 and has been operated for more than 150 nights, and is still operational today.\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "The NIROSETI project is based on the assumption that hypothetical communicative extraterrestrials may send out pulsed laser signals in the optical, as well as infrared spectrum. Near-infrared offers a possible way for signal transmission since there is a decrease in both interstellar extinction and Galactic background compared to optical wavelengths.[4][5] The near-infrared bands remain largely unexplored because instruments capable of capturing short pulses of infrared light have only recently become available.[5][6]\n\nThe NIROSETI instrument makes use of the 1-meter optical Nickel telescope located at the Lick Observatory in California to search for near-infrared (laser) transmissions from extraterrestrial communication or technosignatures. This project was funded by the Bill and Susan Bloomfield Foundation and is based upon a predecessor called Lick Optical SETI instrument, conducted between 2001 and 2006.[4][5] Professor Shelley Wright leads the team that built and operates the NIROSETI program.[7]\n\nThe NIROSETI instrument employs a new generation of near-infrared (900 to 1700 nm) detectors, cooled at -25 °C, that have a high speed response (>1 GHz) and gain comparable to photomultiplier tubes, while also producing very low noise,[2][5] and significantly reducing false positives.[4] Its field-of-view is 2.5\"x2.5\" each,[8] and focuses\non detecting short (nanosecond) pulsed laser emissions. The NIROSETI instrument is also being used to study variability of very short natural near-infrared transient stars.[2][6]\n\n"
+        },
+        {
+            "title": "Targets",
+            "text": "The NIROSETI survey has been designed for observing several thousand objects over a few years, and commenced full operations on 28 January 2016. During a clear night of observations, about 20 to 30 objects are observed.[4] Because infrared light penetrates farther through gas and dust than visible light, this search will extend to stars thousands of light-years away.[6] The initial target sample is mostly main-sequence and giant stars located within 50 parsecs from Earth, drawn from the Breakthrough Listen program target list.[4][9][10]\n\nThe sample of targets also includes 82 galaxies for being the nearest representatives of the five major morphological classes of galaxies (20 spirals, 36 ellipticals, 15 dwarf spheroidals, 9 irregulars, and 2 lenticular galaxies),[4] as well as stars that triggered alarms on other targeted SETI surveys.[4]\n\nA significant drawback is that the extraterrestrial laser signals would need to be transmitted in the direction of the Solar System in order to be detected.[6]\n\n"
+        }
+    ]
+}

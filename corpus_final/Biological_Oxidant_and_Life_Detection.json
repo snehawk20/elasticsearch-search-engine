@@ -1,0 +1,35 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Biological_Oxidant_and_Life_Detection",
+    "title": "Biological Oxidant and Life Detection",
+    "table_of_contents": [
+        "1 Overview",
+        "2 Scientific objectives",
+        "3 Lander probes",
+        "4 Instrument payload",
+        "5 See also",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Biological Oxidant and Life Detection (BOLD) is a concept mission to Mars focused on searching for evidence or biosignatures of microscopic life on Mars.[1][2][3][4] The BOLD mission objective would be to quantify the amount of hydrogen peroxide (H2O2) existing in the Martian soil and to test for processes typically associated with life. Six landing packages are projected to impact 'softly' on Mars that include a limited power supply, a set of oxidant and life detection experiments, and a transmitter, which is able to transmit information via an existing Mars orbiter back to Earth. The mission was first proposed in 2012.[5]\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "The Viking program to Mars was the only mission to date that conducted life-detection experiments. It revealed ambiguous and still controversial results. The mission proponents argue that new findings and hypotheses urge a re-evaluation of the Viking results and a re-evaluation of\nthe evidence for the possible presence of life on Mars in general.[2] Recent and current missions to be launched focus on habitability considerations (e.g., Phoenix, Mars Science Laboratory), but shy away from directly testing for life on Mars, with the potential exception of the ESA ExoMars mission.\n\nThe BOLD mission is designed to be less expensive than most current Mars missions as it consists only of a carrier vehicle with 6 probes attached. No orbiter is assumed. Instead the probes take advantage of existing Mars orbiters for communications relay. The number of probes is intended to provide a certain degree of mission redundancy in case some of them do not land successfully or fail.\n\n"
+        },
+        {
+            "title": "Scientific objectives",
+            "text": "The scientific objectives of the BOLD mission are: to identify the unknown oxidant in the Martian soil, which was postulated after the Viking program, and to probe whether there is extant life near the Martian surface. In contrast to the Viking mission, which was geared toward finding abundant heterotrophic life on Mars with a global distribution, the BOLD mission is aimed at a more comprehensive search including lithoautrophic and photosynthetic microbes, and a variety of biosignatures.[2]\n\n"
+        },
+        {
+            "title": "Lander probes",
+            "text": "If selected and funded, the carrier vehicle with the landing probes would be propelled into a circular orbit around Mars. The orbiter would be equipped with a small solid rocket to provide the deceleration required to insert the spacecraft in an entry trajectory that can safely release the probes on the Martian surface. A terrain navigation system, coupled with robust propulsion, potentially permits targeting with precision on the order of meters if required to meet the science objectives. Each probe would have a mass of 59 kilograms (130 pounds)[3] with a science payload of less than 10 kilograms (22 lb). Each of the probes' lander system uses a parachute and a crushable shell behind the heat shield for a 'soft impact' landing. Upon landing, the science instruments at their tips would penetrate up to 30 centimeters (one foot) into Martian regolith, a depth sufficient to conduct accurate scientific measurements.[3] The landing probes will be powered by batteries. The mission duration for each landing probe is anticipated to be 10 sols (10 Martian days).[2]\n\n"
+        },
+        {
+            "title": "Instrument payload",
+            "text": "The envisioned instrument suite on each probe includes:[1][2]\n\n"
+        }
+    ]
+}

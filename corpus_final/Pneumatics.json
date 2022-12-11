@@ -1,0 +1,39 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Pneumatics",
+    "title": "Pneumatics",
+    "table_of_contents": [
+        "1 Gases used in pneumatic systems",
+        "2 History",
+        "3 Comparison to hydraulics",
+        "3.1 Advantages of pneumatics",
+        "3.2 Advantages of hydraulics",
+        "4 Pneumatic logic",
+        "5 Examples of pneumatic systems and components",
+        "6 See also",
+        "7 Notes",
+        "8 References",
+        "9 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Pneumatics (from Greek πνεῦμα pneuma ‘wind, breath’) is a branch of engineering that makes use of gas or pressurized air.\n\nPneumatic systems used in industry are commonly powered by compressed air or compressed inert gases. A centrally located and electrically-powered compressor powers cylinders, air motors, pneumatic actuators,  and other pneumatic devices.  A pneumatic system controlled through manual or automatic solenoid valves is selected when it provides a lower cost, more flexible, or safer alternative to electric motors, and hydraulic actuators.\n\nPneumatics also has applications in dentistry, construction, mining, and other areas.\n\n"
+        },
+        {
+            "title": "Gases used in pneumatic systems",
+            "text": "Pneumatic systems in fixed installations, such as factories, use compressed air because a sustainable supply can be made by compressing atmospheric air. The air usually has moisture removed, and a small quantity of oil is added at the compressor to prevent corrosion and lubricate mechanical components.\n\nFactory-plumbed pneumatic-power users need not worry about poisonous leakage, as the gas is usually just air. Any compressed gas other than air is an asphyxiation hazard—including nitrogen, which makes up 78% of air. Compressed oxygen (approx. 21% of air) would not asphyxiate, but is not used in pneumatically-powered devices because it is a fire hazard, more expensive, and offers no performance advantage over air. Smaller or stand-alone systems can use other compressed gases that present an asphyxiation hazard, such as nitrogen—often referred to as OFN (oxygen-free nitrogen) when supplied in cylinders.\n\nPortable pneumatic tools and small vehicles, such as Robot Wars machines and other hobbyist applications are often powered by compressed carbon dioxide, because containers designed to hold it such as soda stream canisters and fire extinguishers are readily available, and the phase change between liquid and gas makes it possible to obtain a larger volume of compressed gas from a lighter container than compressed air requires. Carbon dioxide is an asphyxiant and can be a freezing hazard if vented improperly.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The origins of pneumatics can be traced back to the first century when ancient Greek mathematician Hero of Alexandria wrote about his inventions powered by steam or the wind.\n\nGerman physicist Otto von Guericke (1602 to 1686) further developed the idea. He invented the vacuum pump, a device that can draw out air or gas from the attached vessel. He demonstrated the vacuum pump to separate the pairs of copper hemispheres using air pressures. The field of pneumatics has changed considerably over the years. It has moved from small handheld devices to large machines with multiple parts that serve different functions.\n\n"
+        },
+        {
+            "title": "Comparison to hydraulics",
+            "text": "Both pneumatics and hydraulics are applications of fluid power. Pneumatics uses an easily compressible gas such as air or a suitable pure gas—while hydraulics uses relatively incompressible liquid media such as oil. Most industrial pneumatic applications use pressures of about 80 to 100 pounds per square inch (550 to 690 kPa). Hydraulics applications commonly use from 1,000 to 5,000 psi (6.9 to 34.5 MPa), but specialized applications may exceed 10,000 psi (69 MPa).[citation needed]\n\n"
+        },
+        {
+            "title": "Pneumatic logic",
+            "text": "Pneumatic logic systems (sometimes called air logic control) are sometimes used for controlling industrial processes, consisting of primary logic units like:\n\nPneumatic logic is a reliable and functional control method for industrial processes. In recent years, these systems have largely been replaced by electronic control systems in new installations because of the smaller size, lower cost, greater precision, and more powerful features of digital controls. Pneumatic devices are still used where upgrade cost, or safety factors dominate.[1]\n\n"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Juggling_robot",
+    "title": "Juggling robot",
+    "table_of_contents": [
+        "1 Bounce juggling",
+        "2 Toss juggling",
+        "3 Contact juggling",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A juggling robot is a robot designed to be able to successfully carry out bounce or toss juggling. Robots capable of juggling are designed and built both to increase and test understanding and theories of human movement, juggling, and robotics. Juggling robots may include sensors to guide arm/hand movement or may rely on physical methods such as tracks or funnels to guide prop movement. Since true juggling requires more props than hands, many robots described as capable of juggling are not.\n\n"
+        },
+        {
+            "title": "Bounce juggling",
+            "text": "A toss juggling robot that can do more than a two ball column has only recently been built.[when?] However, Claude Shannon built the first juggling robot, a 3-ball bounce juggler, from an Erector Set, in the 1970s.[1] \"Bounce juggling is easier to accomplish than is toss juggling because the balls are grabbed at the top of their trajectories, when they are moving the slowest,\" and Shannon's machine tendency to correct throwing errors was through tracks on its hands.[1] By 1992,[2] Christopher G. Atkeson and Stefan K. Schaal of the Georgia Institute of Technology built a similar 5-ball bounce juggling robot.[1] Decorated as and named W. C. Fields, Shannon's machine used grooved cups/tracks instead of sensors or feedback.[3] Shannon also devised a juggling theorem.\n\nIn 1989 Martin Bühler and Daniel E. Koditschek produced a juggler with one rotating bar, moving one way then the other, that bounces two-props in a fountain of indefinite length.[1]\n\n"
+        },
+        {
+            "title": "Toss juggling",
+            "text": "Sakaguchi et al. (1991) and Miyazaki (1993) produced a one-armed two-ball fountain juggler with a two degrees of freedom arm and an unactuated funnel-shaped hand.[4] Kizaki and Namiki (2012) developed a high-speed hand-arm system with actuated fingers that is able to repeatedly juggle two balls in a fountain pattern.[5] Ploeger et al. (2020) achieved stable two-ball juggling in a column pattern for 33 minutes on a four degrees of freedom robotic arm with a funnel-shaped hand using a learning based approach.[6][7]\n\nBy 2011 students at the Department of Control Engineering at Prague's Czech Technical University built a 5-ball cascade juggling robot whose arms have both vertical and horizontal motion, whose hands are ring-shaped, and which contains a basket that provides the initial throws and relaunches any failed catches.[8][9][10]\n\nDisney Research is developing a robot capable of pass juggling with the goal of being able to provide more physical interaction between visitors and mechanized characters.[11][12][13]\n\n"
+        },
+        {
+            "title": "Contact juggling",
+            "text": "Contact juggling appears to be less common among robots, as it is with people. However, in 2010 undergraduates at Northwestern University developed a robot capable of rolling a grooved disk from the center, over the edge, and to the center of the other side of a figure-eight shaped track capable of rotation.[14]\n\n"
+        }
+    ]
+}

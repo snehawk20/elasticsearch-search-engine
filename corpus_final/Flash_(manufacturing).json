@@ -1,0 +1,24 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Molding_flash",
+    "title": "Flash (manufacturing)",
+    "table_of_contents": [
+        "1 Details",
+        "2 Witness mark",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nFlash, also known as flashing, is excess material attached to a molded, forged, or cast product, which must usually be removed. This is typically caused by leakage of the material between the two surfaces of a mold (beginning along the parting line[1]) or between the base material and the mold in the case of overmolding.\n\n"
+        },
+        {
+            "title": "Details",
+            "text": "Molding flash is seen when the optimized parameter on cull height is not calibrated.[citation needed] Proper design of mold parting surfaces can reduce or eliminate flash.[2]\n\nMolding flash can be caused from old or worn mold cavities that no longer fit tightly together. Other times, the complexity of the part requires so many mating pieces with such precise geometries that it is almost impossible to create a perfect fit on every impression. Most often, the type of material being molded, and its attendant viscosity in its liquid form, is the primary factor that leads to the creation of the unwanted mold flash.[3]\n\nThe process of removing flash, known as deflashing, is commonly performed via cutting, breaking, grinding, or tumbling. Some foundries use robot autogrinders to remove this unwanted material. It is very typical for molders to have their operators trim flash with hand tools at the molding machine between cycles. Many molders and OEMs seek out the use of batch processes including vibratory tumbling, cryogenic deflashing[4] or media blasting to remove unwanted flash from large batches of parts.\n\n"
+        },
+        {
+            "title": "Witness mark",
+            "text": "In plastic injection, a faint mark called a witness mark (or witness line) will occur along the parting line.[1] This is unavoidable and is usually accepted despite the minor aesthetics issue. However, some part surfaces (e.g. when used for sealing[5]) cannot tolerate witness marks, and thus either the marks must be removed post-molding or the mold redesigned.\n\n"
+        }
+    ]
+}

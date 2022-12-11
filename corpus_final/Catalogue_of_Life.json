@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Catalogue_of_Life",
+    "title": "Catalogue of Life",
+    "table_of_contents": [
+        "1 Structure",
+        "2 Usage",
+        "3 Catalogue of Life Plus",
+        "4 See also",
+        "5 References",
+        "6 Further reading",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nThe Catalogue of Life is an online database that provides an index of known species of animals, plants, fungi, and microorganisms. It was created in 2001 as a partnership between the global Species 2000 and the American Integrated Taxonomic Information System. The Catalogue is used by research scientists, citizen scientists, educators, and policy makers.[1] The Catalogue is also used by the Biodiversity Heritage Library, the Barcode of Life Data System, Encyclopedia of Life, and the Global Biodiversity Information Facility.[2] The Catalogue currently compiles data from 165 peer-reviewed taxonomic databases that are maintained by specialist institutions around the world. As of September 2022[update], the COL Checklist lists 2,067,951[3] of the world's 2.2m extant species known to taxonomists on the planet at present time.\n\n"
+        },
+        {
+            "title": "Structure",
+            "text": "The Catalogue of Life employs a simple data structure to provide information on synonymy, grouping within a taxonomic hierarchy, common names, distribution and ecological environment.[4] It provides a dynamic edition,[5] which is updated monthly (and in which data can change without tracking of those changes) and an Annual Checklist,[6] which provides a dated, verifiable reference for the usage of names and associated data.  Development of the Catalogue of Life was funded through the Species 2000 europa (EuroCat),[7] 4d4Life,[8] i4Life[9] projects in 2003–2013, and currently by the Naturalis Biodiversity Center, Leiden, the Netherlands and Species Files group at Illinois Natural History Survey in Champaign-Urbana.\n\n"
+        },
+        {
+            "title": "Usage",
+            "text": "Much of the use of the Catalogue is to provide a backbone taxonomy for other global data portals and biological collections. Through the i4Life project, it has formal partnerships with Global Biodiversity Information Facility, European Nucleotide Archive, Encyclopedia of Life, European Consortium for the Barcode of Life, IUCN Red List, and Life Watch. The public interface includes both search and browse functions as well as offering multi-lingual services.[2]\n\nThe Catalogue listed 300,000 species by 2003, 500,000 species by 2005, and over 800,000 species by 2006.[10] As of 2019[update], the Catalogue listed 1.9 million extant and extinct species.[11] There are an estimated 14 million mainly unpublished species; however, this number is uncertain as there is a lack of data on the possible number of undescribed insects, nematodes, bacteria, fungi and many others.[12]\n\n"
+        },
+        {
+            "title": "Catalogue of Life Plus",
+            "text": "In 2015, an expert panel presented a consensus hierarchical classification of life[13] which included some sectors not yet represented in the published Catalogue. In the same year, the Catalogue of Life, Barcode of Life Data System, Biodiversity Heritage Library, Encyclopedia of Life, and the Global Biodiversity Information Facility (GBIF) met to consider building a single shared authoritative nomenclature and taxonomic foundation \"Catalogue of Life Plus\" that could be used to order and connect biodiversity data, including content not yet in CoL but available via other sources, to serve both the users of the present Catalogue and users of extended taxonomic content (such as GBIF) using a common infrastructure. COL+ will develop a clearinghouse covering scientific names across all life, provide a single taxonomic view, and provide an avenue for feedback from content authorities.[2] The CoL is developing in conjunction with the Global Species List Working Group to avoid replication and work towards an authoritative global list of species.\n\n"
+        }
+    ]
+}

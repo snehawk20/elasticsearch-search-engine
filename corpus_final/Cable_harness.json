@@ -1,0 +1,28 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Cable_harness",
+    "title": "Cable harness",
+    "table_of_contents": [
+        "1 Production",
+        "2 In sound engineering",
+        "3 Industry quality standard",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A cable harness, also known as a wire harness, wiring harness, cable assembly, wiring assembly or wiring loom, is an assembly of electrical cables or wires which transmit signals or electrical power.[1] The cables are bound together by a durable material such as rubber, vinyl, electrical tape, conduit, a weave of extruded string, or a combination thereof.[2]\n\nCommonly used in automobiles, as well as construction machinery, cable harnesses provide several advantages over loose wires and cables. For example, many aircraft, automobiles and spacecraft contain many masses of wires which would stretch over several kilometers if fully extended. By binding the many wires and cables into a cable harness, the wires and cables can be better secured against the adverse effects of vibrations, abrasions, and moisture. By constricting the wires into a non-flexing bundle, usage of space is optimized, and the risk of a short is decreased.[3] Since the installer has only one harness to install (as opposed to multiple wires), installation time is decreased and the process can be easily standardized.[4] Binding the wires into a flame retardant sleeve also lowers the risk of electrical fires.[3]\n\n"
+        },
+        {
+            "title": "Production",
+            "text": "Cable harnesses are usually designed according to geometric and electrical requirements. A diagram is then provided (either on paper or on a monitor) for the assembly preparation and assembly.[3]\n\nThe wires are first cut to the desired length, usually using a special wire-cutting machine. The wires may also be printed on by a special machine during the cutting process or on a separate machine.[5] After this, the ends of the wires are stripped to expose the metal (or core) of the wires, which are fitted with any required terminals or connector housings. The cables are assembled and clamped together on a special workbench, or onto a pin board (assembly board), according to the design specification, to form the cable harness. After fitting any protective sleeves, conduit, or extruded yarn, the harness is either fitted directly in the vehicle or shipped.[3]\n\nIn spite of increasing automation, hand manufacture continues to be the primary method of cable harness production in general, due to the many different processes involved,[3] such as:\n\nIt is difficult to automate these processes, with major suppliers still using manual means of production, only automating portions of the process. Manual production remains more cost effective than automation, especially with small batch sizes.\n\nPre-production can be automated in part. This affects:\n\nA wire harness must also be manufactured with a terminal, defined as \"a device designed to terminate a conductor that is to be affixed to a post, stud, chassis, another tongue, etc., to establish an electrical connection.\"[6] Some types of terminals include ring, tongue, spade, flag, hook, blade, quick-connect, offset and flagged.[7]\n\nOnce a cable harness has been produced, it is often subject to various tests to ensure its quality and functionality. A test board can be used to measure the harness' electrical capabilities. This is achieved through the input of data about a circuit which one or more cable harnesses will be part of being programmed into the test board. The harness is then measured for its ability to function in the simulated circuit.[8]\n\nAnother popular test method for a cable harness is a 'pull test', in which the harness is attached to a machine that pulls the harness at a constant rate. This test then measures the cable harness' strength and electrical conductivity when pulled against a minimum standard to ensure that cable harnesses are consistently effective and safe.[9]\n\n"
+        },
+        {
+            "title": "In sound engineering",
+            "text": "The cable harnesses used in sound reinforcement and recording studios are called multicores, also known as snakes or looms. They carry audio signals between a mixing console and stage box. Modern digital mixing consoles typically use a single twisted pair cable rather than a traditional analog multicore.\n\n"
+        },
+        {
+            "title": "Industry quality standard",
+            "text": "Although customer specifications take the highest priority when creating cable harnesses of a certain quality,[10] in North America if no such specifications are found the quality standards of a cable harness are standardized by the IPC's publication IPC/WHMA-A-620 for minimal requirements for cable harnesses.[11] This publication is reviewed frequently to ensure that the standards published remain of an acceptable standard in light of potential changes to the industry or technology that may occur.[10] The IPC/WHMA-A-620 publication has standards for a wide range of elements within a cable harness, including but not limited to electrostatic discharge protection, conduit, installation and repairs, crimping, pull-test requirements, and other operations that are critical to the production and function of cable harnesses.[11] The standards mandated by the IPC differ based on a product's classification under one of three defined product classes.[12] These classes are: \n\n"
+        }
+    ]
+}

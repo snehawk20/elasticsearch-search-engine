@@ -1,0 +1,38 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robot_navigation",
+    "title": "Robot navigation",
+    "table_of_contents": [
+        "1 Vision-based navigation",
+        "1.1 Indoor navigation",
+        "1.2 Autonomous Flight Controllers",
+        "2 Inertial navigation",
+        "3 Acoustic navigation",
+        "4 Radio navigation",
+        "5 See also",
+        "6 References",
+        "7 Further reading",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Robot localization denotes the robot's ability to establish its own position and orientation within the frame of reference. Path planning is effectively an extension of localisation, in that it requires the determination of the robot's current position and a position of a goal location, both within the same frame of reference or coordinates. Map building can be in the shape of a metric map or any notation describing locations in the robot frame of reference.[citation needed]\n\nFor any mobile device, the ability to navigate in its environment is important. Avoiding dangerous situations such as collisions and unsafe conditions (temperature, radiation, exposure to weather, etc.) comes first, but if the robot has a purpose that relates to specific places in the robot environment, it must find those places.\nThis article will present an overview of the skill of navigation and try to identify the basic blocks of a robot navigation system, types of navigation systems, and closer look at its related building components.\n\nRobot navigation means the robot's ability to determine its own position in its frame of reference and then to plan a path towards some goal location. In order to navigate in its environment, the robot or any other mobility device requires representation, i.e. a map of the environment and the ability to interpret that representation.\n\nNavigation can be defined as the combination of the three fundamental competences:[1]\n\nSome robot navigation systems use simultaneous localization and mapping to generate 3D reconstructions of their surroundings.[2]\n\n"
+        },
+        {
+            "title": "Vision-based navigation",
+            "text": "Vision-based navigation or optical navigation uses computer vision algorithms and optical sensors, including laser-based range finder and photometric cameras using CCD arrays, to extract the visual features required to the localization in the surrounding environment. However, there are a range of techniques for navigation and localization using vision information, the main components of each technique are:\n\nIn order to give an overview of vision-based navigation and its techniques, we classify these techniques under indoor navigation and outdoor navigation. \n\nThe easiest way of making a robot go to a goal location is simply to guide it to this location. This guidance can be done in different ways: burying an inductive loop or magnets in the floor, painting lines on the floor, or by placing beacons, markers, bar codes etc. in the environment. Such Automated Guided Vehicles (AGVs) are used in industrial scenarios for transportation tasks. Indoor Navigation of Robots are possible by IMU based indoor positioning devices.[3][4]\n\nThere are a very wider variety of indoor navigation systems. The basic reference of indoor and outdoor navigation systems is \"Vision for mobile robot navigation: a survey\" by Guilherme N. DeSouza and Avinash C. Kak.\n\nAlso see \"Vision based positioning\" and AVM Navigator.\n\nTypical Open Source Autonomous Flight Controllers have the ability to fly in full automatic mode and perform the following operations;\n\nThe onboard flight controller relies on GPS for navigation and stabilized flight, and often employ additional Satellite-based augmentation systems (SBAS) and altitude (barometric pressure) sensor.[5]\n\n"
+        },
+        {
+            "title": "Inertial navigation",
+            "text": "Some navigation systems for airborne robots are based on inertial sensors.[6]\n\n"
+        },
+        {
+            "title": "Acoustic navigation",
+            "text": "Autonomous underwater vehicles can be guided by underwater acoustic positioning systems.[7] Navigation systems using sonar have also been developed.[8]\n\n"
+        },
+        {
+            "title": "Radio navigation",
+            "text": "Robots can also determine their positions using radio navigation.[9]\n\n"
+        }
+    ]
+}

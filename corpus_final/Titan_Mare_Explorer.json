@@ -1,0 +1,56 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Titan_Mare_Explorer",
+    "title": "Titan Mare Explorer",
+    "table_of_contents": [
+        "1 Discovery-class finalist",
+        "2 History",
+        "3 Target",
+        "4 Science objectives",
+        "5 Power source",
+        "6 Communications",
+        "7 Surface conditions",
+        "8 Potential habitability",
+        "9 Similar mission concepts",
+        "10 Further reading",
+        "11 See also",
+        "12 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Titan Mare Explorer (TiME) is a proposed design for a lander for Saturn's moon Titan.[3] TiME is a relatively low-cost, outer-planet mission designed to measure the organic constituents on Titan and would have performed the first nautical exploration of an extraterrestrial sea, analyze its nature and, possibly, observe its shoreline. As a Discovery-class mission it was designed to be cost-capped at US$425 million, not counting launch vehicle funding.[4]  It was proposed to NASA in 2009 by Proxemy Research as a scout-like pioneering mission, originally as part of NASA's Discovery Program.[6] The TiME mission design reached the finalist stage during that Discovery mission selection, but was not selected, and despite attempts in the U.S. Senate failed to get earmark funding in 2013.[7] A related Titan Submarine has also been proposed.[8][9]\n\n"
+        },
+        {
+            "title": "Discovery-class finalist",
+            "text": "TiME was one of three Discovery Mission finalists that received US$3 million in May 2011 to develop a detailed concept study. The other two missions were InSight and Comet Hopper. After a review in mid-2012, NASA announced in August 2012 the selection of the InSight mission to Mars.[10]\n\nSpecifically, with launch specified prior to the end of 2025, TiME's arrival would have been in the mid-2030s, during northern winter. This means the seas, near Titan's north pole, are in darkness and direct-to-Earth communication is impossible.[11]\n\nMissions to land in Titan's lakes or seas were also considered by the Solar System Decadal Survey. Additionally, the flagship Titan Saturn System Mission, which was proposed in 2009 for launch in the 2020s, included a short-lived battery-powered lake lander.[6][12] Opportunities for launch are transient; the next opportunity is in 2023–2024, the last chance in this generation.[13]\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The discovery on 22 July 2006 of lakes and seas in Titan's northern hemisphere confirmed the hypothesis that liquid hydrocarbons exist on it.[14] In addition, previous observations of southern polar storms and new observations of storms in the equatorial region provide evidence of active methane-generating processes, possibly cryovolcanic features from the interior of Titan.[12]\n\nMost of Titan goes centuries without seeing any rain, but precipitation is expected to be much more frequent at the poles.[1]\n\nIt is thought that Titan's methane cycle is analogous to Earth's hydrologic cycle, with meteorological working fluid existing as rain, clouds, rivers and lakes.[14] TiME would directly discern the methane cycle of Titan and help understand its similarities and differences to the hydrologic cycle on Earth.[1][12]  If NASA had selected TiME, Ellen Stofan—a member of the Cassini radar team and the current Chief Scientist of NASA—would lead the mission as principal investigator, whereas the Applied Physics Laboratory (APL) would manage the mission.[15] Lockheed Martin would build the TiME capsule, with scientific instruments provided by APL, Goddard Space Flight Center and Malin Space Science Systems.\n\n"
+        },
+        {
+            "title": "Target",
+            "text": "TiME's launch would have been with an Atlas V 411 rocket during 2016 and arriving to Titan in 2023. The target lake is Ligeia Mare (78°N, 250°W).[1]  It is one of the largest lakes of Titan identified to date, with a surface area of about ~100,000 km2.  The backup target is Kraken Mare.[3][12]\n\n"
+        },
+        {
+            "title": "Science objectives",
+            "text": "The Titan Mare Explorer would undergo a 7-year simple interplanetary cruise with no flyby science.  Some science measurements would be made during entry and descent, but data transmissions would begin only after splashdown. The science objectives of the mission are:[3][12]\n\nMalin Space Science Systems, which builds and operates camera systems for spacecraft, signed an early development contract with NASA to conduct preliminary design studies.[16] There would be two cameras. One would take pictures during the descent to the surface of Ligeia Mare, and the other would take pictures after landing.[16]\n\nA Meteorology and Physical Properties Package (MP3) [17]  would be built by the Applied Physics Laboratory. This instrument package would measure wind speed and direction, methane humidity, pressure and temperature above the 'waterline', and turbidity, sea temperature, speed of sound and dielectric properties below the surface. A sonar would measure the sea depth. Acoustic propagation simulations were performed and sonar transducers were tested at liquid-nitrogen temperatures to characterize their performance at Titan conditions.[18]\n\n"
+        },
+        {
+            "title": "Power source",
+            "text": "Titan's thick atmosphere and the weak sunlight at Titan's distance from the Sun rules out the use of solar panels.[19][20] Had it been selected by NASA, the TiME lander would have been the test flight of the  Advanced Stirling Radioisotope Generator (ASRG),[6] which is a prototype meant to provide availability of long-lived power supplies for landed networks and other planetary missions.  For this mission, it would be used in two environments: deep space and non-terrestrial atmosphere.  The ASRG is a radioisotope power system using Stirling power conversion technology and is expected to generate 140–160 W of electrical power; that is four times more efficient than RTGs currently in use.  Its mass is 28 kg and will have a nominal lifetime of 14 years.[3]  Though it continues ASRG research,[21] NASA has since cancelled the Lockheed contract that would have readied an ASRG for a 2016 launch, and has decided to rely on existing MMRTG radioisotope power systems for long-range probes.[22][23]\n\nThe capsule would not need propulsion: the wind and possible tidal currents are expected to push this buoyant craft around the sea for months.[5]\n\n"
+        },
+        {
+            "title": "Communications",
+            "text": "The vehicle would have communicated directly with Earth and, in principle, it could be possible to maintain intermittent contact for several years after arrival: Earth finally goes below the horizon as seen from Ligeia in 2026.[24] It will not have a line of sight to Earth to beam back more data until 2035.[25]\n\n"
+        },
+        {
+            "title": "Surface conditions",
+            "text": "Models suggested that waves on Ligeia Mare do not normally exceed 0.2 meters (0.66 ft) during the intended season of the TiME mission and occasionally might reach just over 0.5 meters (1.6 ft) in the course of a few months.[26] Simulations were performed to evaluate the capsule's response to the waves and possible beaching on the shore.[27] The capsule is expected to drift on the surface of the sea at 0.1 m/s, pushed by currents and wind with typical speeds of 0.5 m/s, and not exceeding 1.3 m/s (4.2 feet/second).[24] The probe would not be equipped with propulsion, and while its motion cannot be controlled, knowledge of its successive locations could be used to optimize scientific return, such as lake depth, temperature variations and shore imaging. Some proposed location techniques are measurement of Doppler shift, Sun height measurement, and Very Long Baseline Interferometry.[24]\n\n"
+        },
+        {
+            "title": "Potential habitability",
+            "text": "The chance to discover a form of life with a different biochemistry than Earth has led some researchers to consider Titan the most important world on which to search for extraterrestrial life.[28] A few scientists hypothesize that if the hydrocarbon chemistry on Titan crossed the threshold from inanimate matter to some form of life, it would be difficult to detect.[28] Moreover, because Titan is so cold, the amount of energy available for building complex biochemical structures is limited, and any water-based life would freeze without a heat source.[28] However, some scientists have suggested that hypothetical life forms may be able to exist in a methane-based solvent.[29][30]\nEllen Stofan, TiME's Principal Investigator, thinks that life as we know it is not viable in Titan's seas, but stated that \"there will be chemistry in the seas that may give us insight into how organic systems progress toward life.\"[31]\n\n"
+        }
+    ]
+}

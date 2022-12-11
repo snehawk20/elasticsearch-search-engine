@@ -1,0 +1,54 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Technology_roadmap",
+    "title": "Technology roadmap",
+    "table_of_contents": [
+        "1 Process",
+        "1.1 Phase 1: Preliminary phase",
+        "1.1.1 Satisfy essential conditions",
+        "1.1.2 Provide leadership / sponsorship",
+        "1.1.3 Define the scope and boundaries",
+        "1.2 Phase 2: Development phase",
+        "1.2.1 Identify the product focus of the roadmap",
+        "1.2.2 Identify the critical system requirements and their targets",
+        "1.2.3 Specify the major technology areas",
+        "1.2.4 Specify the technology drivers and their targets",
+        "1.2.5 Identify technology alternatives and their timelines",
+        "1.2.6 Recommend the technology alternatives that should be pursued",
+        "1.2.7 Create the report",
+        "1.3 Phase 3: Follow-up activity phase",
+        "2 The fast-start approach to roadmapping",
+        "3 Planning and business development context",
+        "3.1 Knowledge and skills required",
+        "3.1.1 Consultant with skills",
+        "3.2 Purpose",
+        "3.2.1 Product planning in roadmapping",
+        "3.2.2 Programme planning",
+        "3.2.3 Formats",
+        "4 Case studies",
+        "5 See also",
+        "6 References",
+        "7 Further reading"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A technology roadmap is a flexible planning schedule to support strategic and long-range planning, by matching short-term and long-term goals with specific technology solutions.[1][2] It is a plan that applies to a new product or process and may include using technology forecasting or technology scouting to identify suitable emerging technologies.[3] It is a known technique to help manage the fuzzy front-end of innovation.[4] It is also expected that roadmapping techniques may help companies to survive in turbulent environments[1] and help them to plan in a more holistic way to include non-financial goals and drive towards a more sustainable development.[5] Here roadmaps can be combined with other corporate foresight methods to facilitate systemic change.[6]\n\nDeveloping a roadmap has three major uses.[7] It helps reach a consensus about a set of needs and the technologies required to satisfy those needs, it provides a mechanism to help forecast technology developments, and it provides a framework to help plan and coordinate technology developments.[8] It may also be used as an analysis tool to map the development and emergence from new industries.\n\n"
+        },
+        {
+            "title": "Process",
+            "text": "The technology roadmapping process may be conducted in three phases: preliminary activities, the development of the roadmap, and the follow-up activities phase.  Because the process is too big for one model, the phases are modeled separately. In the models no different roles are made; this is because everything is done by the participants as a group.[9]\n\nThe first phase, the preliminary phase (see figure 2), consists of three steps:\n\nIn this phase the key decision makers must identify that they have a problem and that technology roadmapping can help them in solving the problem.\n\nIn this step it must become clear what the conditions are (they must be identified) and if they are not met, who takes actions to meet them. These conditions include, for example:  \n\nAll conditions should be satisfied (or an agreed-on party takes necessary actions) to continue to the next step. The participants can have zero or more conditions of their own. It applies to all conditions that have the attribute to be met or not.\n\nCommitted leadership is needed because of the time and effort involved in creating a technology roadmap. Additionally the leadership should come from one of the participants, one of them provides leadership and sponsorship. This means that the line organization must drive the process and use the roadmap to make resource allocation decisions.[10]\n\nIn this step the context for the roadmap is specified. In the company a vision should exist and it must be clear that the roadmap can support that vision. If the vision does not exist one should be developed and clearly stated. When that is done the boundaries and the scope of the roadmap should be specified. Furthermore, the planning horizon and the level of details should be set. The scope can be further divided into the technology scope and the participation scope.\n\nIn table 1 all the different sub-activities of the preliminary activity phase can be seen. All the sub-activities have concepts as end products (marked in bold). These concepts are the actual meta-data model, which is an adjusted class diagram.[11]\n\nThe second phase, the development of the technology roadmap phase (see figure 3.), consists of 7 steps:\n\nIn this step the common product needs are identified and are agreed on by all the participants. This is important to get the acceptance of all groups for the process. In case of uncertainty of the product needs scenario-based planning can be used to determine the common product needs. In figure 3, the participants and possibly the scenario-based planning provide the common product needs.\n\nOnce it is decided what must be roadmapped, the critical system requirements can be identified; they provide the overall framework for the technology roadmap. The requirements can have targets (as an attribute in figure 3) like reliability and costs.\n\nThese are the areas that help achieve critical system requirements. For each technology area several technologies can be found. Example technology areas are: market assessment, crosscutting technology, component development, and system development.\n\nIn this step the critical system requirements from the second step are transformed into technology drivers (with targets) for the specific technology area. These drivers are the critical variables that select the technology alternatives. Drivers depend on the technology areas but they relate to how the technology addresses the critical system requirements.\n\nAt this point the technology drivers and their targets are specified and the technology alternatives that can satisfy those targets should be specified. For each of the alternatives a timeline should be estimated for how it will mature with respect to the technology driver targets.\n\nThe time factor can be adapted suitable for the particular situation. The time horizons for e-commerce and software related sectors are usually short. Other distinctions can be made on scale and intervals.\n\nBecause the alternatives may differ in costs, timeline, etc., a selection must be made of the alternatives. These are the alternatives to pursue in figure 3. In this step a lot of trade-offs must be made between different alternatives for different targets: for example, performance over costs and even target over target.\n\nAt this point the technology roadmap is finished. In figure 3, it can be seen that the technology roadmap report consists of 5 parts:\n\nThe report can also include additional information. In table 2 all the different sub-activities of the development phase can be seen.\n\nThis is the moment when the roadmap must be critiqued, validated and hopefully accepted by the group involved in any implementation. This requires a plan developed using the technology roadmap. Next, there must be a periodical review and update point, because needs from the participants and the technologies evolve.\n\n"
+        },
+        {
+            "title": "The fast-start approach to roadmapping",
+            "text": "Given the potential complexity and organisational inertia surrounding the creation of roadmaps, researchers at the University of Cambridge[13] focused on developing a fast-start approach to roadmapping.[14] This approach, called T-Plan, was created in the late 1990s primarily to help organisations take the first step into roadmapping with minimal resource and time commitment. It has been influential in the propagation and uptake of roadmapping internationally including translations of the T-Plan workbook[15] into Chinese (traditional & modern), German, Japanese and Spanish. The approach (as well as its counterpart for innovation and strategy roadmapping, S-Plan) is flexible and scalable, and therefore can be easily customised for efficient application.[16] Fast and lean approaches are particularly important for small and medium enterprises (SME) and have been shown to work in particularly to give directions to clusters of SMEs.[17]\n\n"
+        },
+        {
+            "title": "Planning and business development context",
+            "text": "The process of technology roadmapping fits into corporate strategy, corporate strategic planning, technology planning and the business development context. Three critical elements should be connected: needs, products, and technology.\n\nCreating a technology roadmap requires certain knowledge and skills. Some of the participants must know the purpose of technology roadmapping. Next to this group-process and interpersonal skills are required since the process includes a lot of discussions and finding out what the common need is. If the number of participants is really large there might be need for a consultant or facilitator.\n\nThis is the most common type of a technology roadmap: linking the insertion of technologies into products.\n\nThis type is more directed to the implementation of strategy and related to project planning. Figure 5 shows the relationships between technology development phases, programme phases and milestones.\n\n"
+        },
+        {
+            "title": "Case studies",
+            "text": "Documented case studies include:\n\n"
+        }
+    ]
+}

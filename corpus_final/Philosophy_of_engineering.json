@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Philosophy_of_engineering",
+    "title": "Philosophy of engineering",
+    "table_of_contents": [
+        "1 History",
+        "2 Ethics",
+        "2.1 Modeling",
+        "2.2 Product life cycle",
+        "3 See also",
+        "4 Publications",
+        "4.1 Books",
+        "4.2 Articles",
+        "5 Notes and references",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The philosophy of engineering is an emerging discipline that considers what engineering is, what engineers do, and how their work affects society, and thus includes aspects of ethics and aesthetics, as well as the ontology, epistemology, etc. that might be studied in, for example, the philosophy of science or the philosophy of technology.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Engineering is the profession aimed at modifying the natural environment, through the design, manufacture and maintenance of artifacts and technological systems. It might then be contrasted with science, the aim of which is to understand nature.  Engineering at its core is about causing change, and therefore management of change is central to engineering practice.  The philosophy of engineering is then the consideration of philosophical issues as they apply to engineering. Such issues might include the objectivity of experiments, the ethics of engineering activity in the workplace and in society, the aesthetics of engineered artifacts, etc.\n\nWhile engineering seems historically to have meant devising, the distinction between art, craft and technology isn't clearcut. The Latin root ars, the Germanic root kraft and the Greek root techne all originally meant the skill or ability to produce something, as opposed to, say, athletic ability. The something might be tangible, like a sculpture or a building, or less tangible, like a work of literature. Nowadays, art is commonly applied to the visual, performing or literary fields, especially the so-called fine arts ('the art of writing'), craft usually applies to the manual skill involved in the manufacture of an object, whether embroidery or aircraft ('the craft of typesetting') and technology tends to mean the products and processes currently used in an industry ('the technology of printing'). In contrast, engineering is the activity of effecting change through the design and manufacture of artifacts ('the engineering of print technology').\n\n"
+        },
+        {
+            "title": "Ethics",
+            "text": "What distinguishes engineering design from artistic design is the requirement for the engineer to make quantitative predictions of the behavior and effect of the artifact prior to its manufacture. Such predictions may be more or less accurate but usually includes the effects on individuals and/or society. In this sense, engineering can be considered a social as well a technological discipline and judged not just by whether its artifacts work, in a narrow sense, but also by how they influence and serve social values.  What engineers do is subject to moral evaluation.[1]\n\nSocio-technical systems, such as transport, utilities and their related infrastructures comprise human elements as well as artifacts. Traditional mathematical and physical modeling techniques may not take adequate account of the effects of engineering on people, and culture.[1][2] The Civil Engineering discipline makes elaborate attempts to ensure that a structure meets its specifications and other requirements prior to its actual construction. The methods employed are well known as Analysis and Design. Systems Modelling and Description[3] makes an effort to extract the generic unstated principles behind the engineering approach.\n\nThe traditional engineering disciplines seem discrete but the engineering of artifacts has implications that extend beyond such disciplines into areas that might include psychology, finance and sociology. The design of any artifact will then take account of the conditions under which it will be manufactured, the conditions under which it will be used, and the conditions under which it will be disposed. Engineers can consider such \"life cycle\" issues without losing the precision and rigor necessary to design functional systems.[1]\n\n"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SCARA",
+    "title": "SCARA",
+    "table_of_contents": [
+        "1 Animations",
+        "2 See also",
+        "3 References",
+        "4 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The SCARA is a type of industrial robot. The acronym stands for Selective Compliance Assembly Robot Arm[1] or Selective Compliance Articulated Robot Arm.[2]\n\nBy virtue of the SCARA's parallel-axis joint layout, the arm is slightly compliant in the X-Y direction but rigid in the Z direction, hence the term selective compliance. This is advantageous for many types of assembly operations, for example, inserting a round pin in a round hole without binding.\n\nThe second attribute of the SCARA is the jointed two-link arm layout similar to human arms, hence the often-used term, articulated. This feature allows the arm to extend into confined areas and then retract or \"fold up\" out of the way. This is advantageous for transferring parts from one cell to another or for loading or unloading process stations that are enclosed.\n\nSCARAs are generally faster than comparable Cartesian robot systems. Their single pedestal mount requires a small footprint and provides an easy, unhindered form of mounting. On the other hand, SCARAs can be more expensive than comparable Cartesian systems and the controlling software requires inverse kinematics for linear interpolated moves. However, this software typically comes with the SCARA and is usually transparent to the end-user.\n\nSankyo Seiki, Pentel and NEC presented the SCARA robot as a completely new concept for assembly robots in 1981. The robot was developed under the guidance of Hiroshi Makino,[3] a professor at the University of Yamanashi.[2] Its arm was rigid in the Z-axis and pliable in the XY-axes, which allowed it to adapt to holes in the XY-axes.[4][5]\n\n"
+        },
+        {
+            "title": "Animations",
+            "text": "Source: [6]\n\n"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "url": "https://en.wikipedia.org/wiki/San_Marino_Scale",
+    "title": "San Marino Scale",
+    "table_of_contents": [],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The San Marino Scale is a suggested scale for assessing risks associated with deliberate transmissions from Earth aimed to possible extraterrestrial intelligent life. The scale evaluates the significance of transmissions from Earth as a function of signal intensity and information content. The scale was suggested by Iván Almár at a conference in San Marino in 2005.[1][2][3]\nThe radio output of Jupiter, Saturn and Neptune is not considered in the model.\nThe San Marino Scale was subsequently adopted by the SETI Permanent Study Group of the International Academy of Astronautics at its 2007 meeting in Hyderabad, India.\n\n"
+        },
+        {
+            "title": "Calculation",
+            "text": "In the original presentation given by Almár, the San Marino Index, SMI, of a given event is calculated as the sum of two terms.\n\nThe first term, I, is based on the intensity of the signal relative to the background noise in the same frequency band. This term is logarithmic, and calculated as:\n\nFor example, a signal which is 100 times more intense than the background noise at the same frequency and bandwidth would have an I value of two.\n\nThe second term, C, is more subjective and relates to the content, aiming, timing, and character of the signal.[3] A C rating of one is something like a stray radar pulse, lacking any information content and randomly directed. A C rating of five is a deliberate reply to an extraterrestrial signal. \n\n"
+        }
+    ]
+}

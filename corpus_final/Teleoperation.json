@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Teleoperation",
+    "title": "Teleoperation",
+    "table_of_contents": [
+        "1 History",
+        "2 Examples",
+        "3 Teleoperation of Autonomous Vehicles",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Teleoperation (or remote operation) indicates operation of a system or machine at a distance.  It is similar in meaning to the phrase \"remote control\" but is usually encountered in research, academia and technology.  It is most commonly associated with robotics and mobile robots but can be applied to a whole range of circumstances in which a device or machine is operated by a person from a distance.\n\nThe term teleoperation is in use in research and technical communities as a standard term for referring to operation at a distance.  This is as opposed to telepresence which is a less standard term and might refer to a whole range of existence or interaction that include a remote connotation.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "The 19th century saw many inventors working on remotely operated weapons (torpedoes) including prototypes built by John Louis Lay (1872), John Ericsson (1873), Victor von Scheliha (1873), and the first practical wire guided torpedo, the Brennan torpedo, patented by Louis Brennan in 1877.[1][2] In 1898, Nikola Tesla demonstrated a remotely controlled boat with a patented wireless radio guidance system that he tried to market to the United States military, but was turned down.[3]\n\nTeleoperation is now moving into the hobby industry with first-person view (FPV) equipment. FPV equipment mounted on hobby cars, planes and helicopters give a TV-style transmission back to the operator, extending the range of the vehicle to greater than line-of-sight range.\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "There are several particular types of systems that are often controlled remotely:\n\n"
+        },
+        {
+            "title": "Teleoperation of Autonomous Vehicles",
+            "text": "Teleoperation of Autonomous Vehicles, is the ability to remotely drive or assist a self-driving car.\n\nMost leading companies in the industry believe that to bridge the gap between current self-driving capabilities and the requirements needed for widespread adoption of autonomous vehicles, there is a need to have Teleoperation capabilities for assisting self-driving cars, in situations of ‘edge cases’ – where the autonomous vehicle software stack has low confidence level in its ability to perform the correct action, or when the vehicle needs to operate outside of its standard operating parameters. Without remote assistance, in such situations the self-driving car would transition to a Minimum Risk Maneuverer (MRM) which is usually to stop.\n\nMany AV companies plan on using teleoperations as part of their rollout for self driving cars. Examples of companies that have stated they will deploy, or currently deploying teleoperations solutions include Voyage.auto,[5] Denso, Waymo, GM Cruise, Aptiv, Zoox.\n\nTeleoperation of Autonomous Vehicles includes privately owned self driving car use cases, such as self parking assistants, shared mobility use cases, e.g. in robotaxis and autonomous shuttles and industrial use cases, for example autonomous forklifts.\n\nThere are two main modes for Teleoperation of Autonomous Vehicles:\nRemote Driving, also called “Direct Driving” – where the remote operator performs the dynamic drive task, i.e. drives the car remotely, controlling the car's steering, acceleration and braking systems.\nRemote Assistance, also called “High Level Commands” – remote operators supervise the vehicle, and provide instructions, approve or correct the vehicle path, without actually performing the dynamic driving task.\nSome companies deploy a combination of both concepts, depending on the use case.\nExamples of companies that provide solutions in the field of Teleoperations are DriveU.auto,[6] Roboauto, Scotti.ai, Phantom.Auto, Pylot, Ottopia, and Designated Driver.\n\n"
+        }
+    ]
+}

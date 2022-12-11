@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Interstellar_communication",
+    "title": "Interstellar communication",
+    "table_of_contents": [
+        "1 Radio",
+        "2 Other methods",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Interstellar communication is the transmission of signals between planetary systems. Sending interstellar messages is potentially much easier than interstellar travel, being possible with technologies and equipment which are currently available. However, the distances from Earth to other potentially inhabited systems introduce prohibitive delays, assuming the limitations of the speed of light. Even an immediate reply to radio communications sent to stars tens of thousands of light-years away would take many human generations to arrive.\n\n"
+        },
+        {
+            "title": "Radio",
+            "text": "The SETI project has for the past several decades been conducting a search for signals being transmitted by extraterrestrial life located outside the Solar System, primarily in the radio frequencies of the electromagnetic spectrum. Special attention has been given to the Water Hole, the frequency of one of neutral hydrogen's absorption lines, due to the low background noise at this frequency and its symbolic association with the basis for what is likely to be the most common system of biochemistry (but see alternative biochemistry).\n\nThe regular radio pulses emitted by pulsars were briefly thought to be potential intelligent signals; the first pulsar to be discovered was originally designated \"LGM-1\", for \"Little Green Men.\" They were quickly determined to be of natural origin, however.\n\nSeveral attempts have been made to transmit signals to other stars as well. (See \"Realized projects\" at Active SETI.) One of the earliest and most famous was the 1974 radio message sent from the largest radio telescope in the world, the Arecibo Observatory in Puerto Rico. An extremely simple message was aimed at a globular cluster of stars known as M13 in the Milky Way Galaxy and at a distance of 30,000 light years from the Solar System. These efforts have been more symbolic than anything else, however.[citation needed] Further, a possible answer needs double the travel time, i.e. tens of years (near stars) or 60,000 years (M13).\n\n"
+        },
+        {
+            "title": "Other methods",
+            "text": "It has also been proposed that higher frequency signals, such as lasers operating at visible light frequencies, may prove to be a fruitful method of interstellar communication; at a given frequency it takes surprisingly small energy output for a laser emitter to outshine its local star from the perspective of its target.[citation needed]\n\nOther more exotic methods of communication have been proposed, such as modulated neutrino or gravitational wave emissions. These would have the advantage of being essentially immune to interference by intervening matter.\n\nSending physical mail packets between stars may prove to be optimal for many applications.[1] While mail packets would likely be limited to speeds far below that of electromagnetic or other light-speed signals (resulting in very high latency), the amount of information that could be encoded in only a few tons of physical matter could more than make up for it in terms of average bandwidth. The possibility of using interstellar messenger probes for interstellar communication — known as Bracewell probes — was first suggested by Ronald N. Bracewell in 1960, and the technical feasibility of this approach was demonstrated by the British Interplanetary Society's starship study Project Daedalus in 1978.  Starting in 1979, Robert Freitas advanced arguments[1]\n[2]\n[3] for the proposition that physical space-probes provide a superior mode of interstellar communication to radio signals, then undertook telescopic searches for such probes in 1979[4] and 1982.[5]\n\n"
+        }
+    ]
+}

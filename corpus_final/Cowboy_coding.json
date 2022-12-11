@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Cowboy_coding",
+    "title": "Cowboy coding",
+    "table_of_contents": [
+        "1 Disadvantages",
+        "1.1 Lack of release structure",
+        "1.2 Inexperienced developers",
+        "1.3 Uncertain design requirements",
+        "1.4 Incompleteness",
+        "2 Advantages",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\nCowboy coding is software development where programmers have autonomy over the development process. This includes control of the project's schedule, languages, algorithms, tools, frameworks and coding style. Typically, little to no coordination exists with other developers or stakeholders.\n\nA cowboy coder can be a lone developer or part of a group of developers working with minimal process or discipline.[1] Usually it occurs when there is little participation by business users, or fanned by management that controls only non-development aspects of the project, such as the broad targets, timelines, scope, and visuals (the \"what\", but not the \"how\").[citation needed]\n\n\"Cowboy coding\" commonly sees usage as a derogatory term when contrasted with more structured software development methodologies.\n\n"
+        },
+        {
+            "title": "Disadvantages",
+            "text": "In cowboy coding, the lack of formal software project management methodologies may be indicative (though not necessarily) of a project's small size or experimental nature.[2] Software projects with these attributes may exhibit:\n\nLack of estimation or implementation planning might cause a project to be delayed. Sudden deadlines or pushes to release software may encourage the use of \"quick and dirty\" techniques that will require further attention later.[3]\n\nCowboy coding can be common at the hobbyist or student level where developers might initially be unfamiliar with the technologies, such as testing, version control and/or build tools, usually more than just the basic coding a software project requires.\n\nThis can result in underestimating time required for learning, causing delays in the development process. Inexperience might also lead to disregard of accepted standards, making the project source difficult to read or causing conflicts between the semantics of the language constructs and the result of their output.[4]\n\nCustom software applications, even when using a proven development cycle, can experience problems with the client concerning requirements. Cowboy coding can accentuate this problem by not scaling the requirements to a reasonable timeline, and might result in unused or unusable components being created before the project is finished. Similarly, projects with less tangible clients (often experimental projects, see independent game development) could begin with code and never a formal analysis of the design requirements. Lack of design analysis could lead to incorrect or insufficient technology choices, possibly requiring the developer to port or rewrite their software in order for the project to be completed.\n\nMany software development models, such as Extreme Programming, use an incremental approach which stresses that the software must be releasable at the end of each iteration. Non-managed projects may have few unit tests or working iterations, leaving an incomplete project unusable. As such, agile methodologies have been compared to cowboy coding but agile has formal processes, procedures, measurement, project management and other oversight while cowboy coding has none of this.[5][6]\n\n"
+        }
+    ]
+}

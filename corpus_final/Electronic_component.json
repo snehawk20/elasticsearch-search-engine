@@ -1,0 +1,68 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Electronic_component",
+    "title": "Electronic component",
+    "table_of_contents": [
+        "1 Classification",
+        "2 Active components",
+        "2.1 Semiconductors",
+        "2.1.1 Transistors",
+        "2.1.2 Diodes",
+        "2.1.3 Integrated circuits",
+        "2.1.4 Programmable devices",
+        "2.1.5 Optoelectronic devices",
+        "2.2 Display technologies",
+        "2.3 Vacuum tubes (valves)",
+        "2.4 Discharge devices",
+        "2.5 Power sources",
+        "3 Passive components",
+        "3.1 Resistors",
+        "3.2 Capacitors",
+        "3.3 Integrated passive devices",
+        "3.4 Magnetic (inductive) devices",
+        "3.5 Memristor",
+        "3.6 Networks",
+        "3.7 Transducers, sensors, detectors",
+        "3.8 Antennas",
+        "3.9 Assemblies, modules",
+        "3.10 Prototyping aids",
+        "4 Electromechanical",
+        "4.1 Piezoelectric devices, crystals, resonators",
+        "4.2 Microelectromechanical systems",
+        "4.3 Terminals and connectors",
+        "4.4 Cable assemblies",
+        "4.5 Switches",
+        "4.6 Protection devices",
+        "4.7 Mechanical accessories",
+        "4.8 Other",
+        "4.9 Obsolete",
+        "5 Standard symbols",
+        "6 See also",
+        "7 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "An electronic component is any basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields. Electronic components are mostly industrial products, available in a singular form and are not to be confused with electrical elements, which are conceptual abstractions representing idealized electronic components and elements.\n\nElectronic components have a number of electrical terminals or leads. These leads connect to other electrical components, often over wire, to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator). Basic electronic components may be packaged discretely, as arrays or networks of like components, or integrated inside of packages such as semiconductor integrated circuits, hybrid integrated circuits, or thick film devices. The following list of electronic components focuses on the discrete version of these components, treating such packages as components in their own right.\n\n"
+        },
+        {
+            "title": "Classification",
+            "text": "Components can be classified as passive, active, or electromechanic. The strict physics definition treats passive components as ones that cannot supply energy themselves, whereas a battery would be seen as an active component since it truly acts as a source of energy.\n\nHowever, electronic engineers who perform circuit analysis use a more restrictive definition of passivity. When only concerned with the energy of signals, it is convenient to ignore the so-called DC circuit and pretend that the power supplying components such as transistors or integrated circuits is absent (as if each such component had its own battery built in), though it may in reality be supplied by the DC circuit. Then, the analysis only concerns the AC circuit, an abstraction that ignores DC voltages and currents (and the power associated with them) present in the real-life circuit. This fiction, for instance, lets us view an oscillator as \"producing energy\" even though in reality the oscillator consumes even more energy from a DC power supply, which we have chosen to ignore. Under that restriction, we define the terms as used in circuit analysis as:\n\nMost passive components with more than two terminals can be described in terms of two-port parameters that satisfy the principle of reciprocity—though there are rare exceptions.[2] In contrast, active components (with more than two terminals) generally lack that property.\n\n"
+        },
+        {
+            "title": "Active components",
+            "text": "Transistors were considered the invention of the twentieth century that changed electronic circuits forever. A transistor is a semiconductor device used to amplify and switch electronic signals and electrical power.\n\nConduct electricity easily in one direction, among more specific behaviors.\n\nIntegrated Circuits can serve a variety of purposes, including acting as a timer, performing digital to analog conversion, performing amplification, or being used for logical operations. \n\nCurrent:\n\nObsolete:\n\nA vacuum tube is based on current conduction through a vacuum (see Vacuum tube).\n\nOptical detectors or emitters\n\nObsolete:\n\nSources of electrical power:\n\n"
+        },
+        {
+            "title": "Passive components",
+            "text": "Components incapable of controlling current by means of another electrical signal are called passive devices. Resistors, capacitors, inductors, and transformers are all considered passive devices.\n\nPass current in proportion to voltage (Ohm's law) and oppose current.\n\nCapacitors store and release electrical charge. They are used for filtering power supply lines, tuning resonant circuits, and for blocking DC voltages while passing AC signals, among numerous other uses.\n\nIntegrated passive devices are passive devices integrated within one distinct package. They take up less space than equivalent combinations of discrete components.\n\nElectrical components that use magnetism in the storage and release of electrical charge through current:\n\nElectrical components that pass charge in proportion to magnetism or magnetic flux, and have the ability to retain a previous resistive state, hence the name of Memory plus Resistor.\n\nComponents that use more than one type of passive component:\n\nAntennas transmit or receive radio waves\n\nMultiple electronic components assembled in a device that is in itself used as a component\n\n"
+        },
+        {
+            "title": "Electromechanical",
+            "text": "Passive components that use piezoelectric effect:\n\nDevices to make electrical connection\n\nElectrical cables with connectors or terminals at their ends\n\nComponents that can pass current (\"closed\") or break the current (\"open\"):\n\nPassive components that protect circuits from excessive currents or voltages:\n\n"
+        },
+        {
+            "title": "Standard symbols",
+            "text": "On a circuit diagram, electronic devices are represented by conventional symbols. Reference designators are applied to the symbols to identify the components.\n\n"
+        }
+    ]
+}

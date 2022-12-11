@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Berkeley_SETI_Research_Center",
+    "title": "Berkeley SETI Research Center",
+    "table_of_contents": [
+        "1 Breakthrough Listen",
+        "2 SETI@home",
+        "3 SERENDIP",
+        "4 SEVENDIP",
+        "5 NIROSETI",
+        "6 See also",
+        "7 References",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Berkeley SETI Research Center (BSRC) conducts experiments searching for optical and  electromagnetic transmissions from intelligent extraterrestrial civilizations.[1] The center  is based at the University of California, Berkeley.\n\nThe Berkeley SETI Research Center has several SETI searches operating at various wavelengths, from radio, through infrared, to visible light. These include SERENDIP, SEVENDIP, NIROSETI,[2] Breakthrough Listen, and SETI@home. The research center is also involved in the development of new telescopes and instrumentation.\n\nThe Berkeley SETI Research Center is independent of, but collaborates with, researchers at the SETI Institute. No unambiguous signals from extraterrestrial intelligence have been found.[3]\n\n"
+        },
+        {
+            "title": "Breakthrough Listen",
+            "text": "The Berkeley SETI Research Center also hosts the Breakthrough Listen program,[4][5][6] which is a ten-year initiative with $100 million funding begun in July 2015 to actively search for intelligent extraterrestrial communications in the universe, in a substantially expanded way, using resources that had not previously been extensively used for the purpose.[7][8][9] It has been described as the most comprehensive search for alien communications to date.[8] Announced in July 2015, the project is observing for thousands of hours every year on two major radio telescopes, the Green Bank Observatory in West Virginia, the Parkes Observatory in Australia, and the Automated Planet Finder telescope.[1][10]\n\n"
+        },
+        {
+            "title": "",
+            "text": "The center also created the SETI@home, an Internet-based public volunteer computing project employing the BOINC software platform, hosted by their Space Sciences Laboratory. Its purpose is to analyze radio data from radio telescopes for signs of extraterrestrial intelligence.\n\n"
+        },
+        {
+            "title": "SERENDIP",
+            "text": "The SERENDIP program takes advantage of ongoing \"mainstream\" radio telescope observations and  analyzes deep space radio telescope data that it obtains while other astronomers are using the telescope.[11] SERENDIP observations have been conducted at frequencies between 400 MHz and 5 GHz, with most observations near the so-called Cosmic Water Hole (1.42 GHz (21 cm) neutral hydrogen and 1.66 GHz hydroxyl transitions).[11]\n\n"
+        },
+        {
+            "title": "SEVENDIP",
+            "text": "SEVENDIP, which stands for Search for Extraterrestrial Visible Emissions from Nearby Developed Intelligent Populations, was a project using visible wavelengths to search for extraterrestrial life's intelligent signals from outer space.[12]\n\n"
+        },
+        {
+            "title": "NIROSETI",
+            "text": "The NIROSETI (Near-InfraRed Optical Search for Extraterrestrial Intelligence) program searches for artificial signals in the optical (visible) and near infrared (NIR) wavebands of the electromagnetic spectrum.[13][14]  It uses the Nickel 1-m telescope at the Lick Observatory in California, USA.[15] The instrument saw its first light on 15 March 2015 and was commissioned in January 2016.\n\nThe NIROSETI instrument employs a new generation of near-infrared (900 to 1700 nm) detectors, cooled at -25 °C, that have a high speed response (>1 GHz) and gain comparable to photomultiplier tubes, while also producing very low noise,[14] and significantly reducing false positives.[16] Its field-of-view is 2.5\"x2.5\" each,[17] and focuses\non detecting short (nanosecond) pulsed laser emissions. The NIROSETI instrument is also being used to study variability of very short natural near-infrared transient phenomena.[14][18]\n\n"
+        }
+    ]
+}

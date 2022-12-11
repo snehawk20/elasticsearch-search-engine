@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Argument_from_ignorance",
+    "title": "Argument from ignorance",
+    "table_of_contents": [
+        "1 Examples",
+        "2 Related terms",
+        "2.1 Contraposition and transposition",
+        "2.2 Null result",
+        "3 Related arguments",
+        "3.1 Argument from self-knowing",
+        "4 See also",
+        "5 Notes",
+        "6 References",
+        "7 Further reading",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nArgument from ignorance (from Latin: argumentum ad ignorantiam), also known as appeal to ignorance (in which ignorance represents \"a lack of contrary evidence\"), is a fallacy in informal logic. It asserts that a proposition is true because it has not yet been proven false or a proposition is false because it has not yet been proven true. This represents a type of false dichotomy in that it excludes the possibility that there may have been an insufficient investigation to prove that the proposition is either true or false.[1] It also does not allow for the possibility that the answer is unknowable, only knowable in the future, or neither completely true nor completely false.[2] In debates, appealing to ignorance is sometimes an attempt to shift the burden of proof. The term was likely coined by philosopher John Locke in the late 17th century.[3][4]\n\n"
+        },
+        {
+            "title": "Related terms",
+            "text": "Contraposition is a logically valid rule of inference that allows the creation of a new proposition from the negation and reordering of an existing one. The method applies to any proposition of the type If A then B and says that negating all the variables and switching them back to front leads to a new proposition i.e. If Not-B then Not-A that is just as true as the original one and that the first implies the second and the second implies the first.\n\nTransposition is exactly the same thing as Contraposition, described in a different language.\n\nNull result is a term often used in science to indicate evidence of absence. A search for water on the ground may yield a null result (the ground is dry); therefore, it probably did not rain.\n\n"
+        },
+        {
+            "title": "Related arguments",
+            "text": "Arguments from self-knowing take the form:\n\nIn practice these arguments are often unsound and rely on the truth of the supporting premise. For example, the claim that If I had just sat on a wild porcupine then I would know it is probably not fallacious and depends entirely on the truth of the first premise (the ability to know it).\n\n"
+        }
+    ]
+}

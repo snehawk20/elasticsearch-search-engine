@@ -1,0 +1,23 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Stellar_engine",
+    "title": "Stellar engine",
+    "table_of_contents": [
+        "1 Classes",
+        "1.1 Class A (Shkadov thruster)",
+        "1.2 Class B",
+        "1.3 Class C",
+        "1.3.1 Caplan thruster",
+        "2 See also",
+        "3 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Stellar engines are a class of hypothetical megastructures used to control the motion of a star system.[1] The concept has been introduced by Badescu and Cathcart.[2] Some variants use this energy to produce thrust, and thus accelerate a star and anything orbiting it in a given direction.[3][4] The creation of such a system would make its builders a type-II civilization on the Kardashev scale.\n\n"
+        },
+        {
+            "title": "Classes",
+            "text": "Three classes of stellar engines have been defined.[2]\n\n\nOne of the simplest examples of a stellar engine is the Shkadov thruster (named after Dr. Leonid Shkadov, who first proposed it), or a class-A stellar engine.[5] Such an engine is a stellar propulsion system, consisting of an enormous mirror/light sail—actually a massive type of solar statite large enough to classify as a megastructure—which would balance gravitational attraction towards and radiation pressure away from the star. Since the radiation pressure of the star would now be asymmetrical, i.e. more radiation is being emitted in one direction as compared to another, the \"excess\" radiation pressure acts as net thrust, accelerating the star in the direction of the hovering statite. Such thrust and acceleration would be very slight, but such a system could be stable for millennia. Any planetary system attached to the star would be \"dragged\" along by its parent star. For a star such as the Sun, with luminosity 3.85×1026 W and mass 1.99×1030 kg, the total thrust produced by reflecting half of the solar output would be 1.28×1018 N. After a period of one million years this would yield an imparted speed of 20 m/s, with a displacement from the original position of 0.03 light-years. After one billion years, the speed would be 20 km/s and the displacement 34,000 light-years, a little over a third of the estimated width of the Milky Way galaxy.\n\nA class-B stellar engine is a Dyson sphere—of whichever variant—built around the star, which uses the difference in temperature between the star and the interstellar medium to extract usable energy from the system, possibly using heat engines or photovoltaic cells. Unlike the Shkadov thruster, such a system is not propulsive.\n\nA class-C stellar engine, such as the Badescu–Cathcart engine,[2] combines the two other classes, employing both the propulsive aspects of the Shkadov thruster and the energy generating aspects of a class-B engine. A Dyson shell with an inner surface partly covered by a mirror would be one incarnation of such a system (although it suffers from the same stabilization problems as a non-propulsive shell), as would be a Dyson swarm with a large statite mirror (see image above). A Dyson bubble variant is already a Shkadov thruster (provided that the arrangement of statite components is asymmetrical); adding energy extraction capability to the components seems an almost trivial extension.\n\nAstronomer Matthew E. Caplan of Illinois State University has proposed a type of stellar engine that uses concentrated stellar energy (repurposing the mirror statites from class A) to excite certain regions of the outer surface of the star and create beams of solar wind for collection by a multi-Bussard ramjet assembly. The ramjets would produce directed plasma to stabilize its orbit and jets of oxygen-14 to push the star. Using rudimentary calculations that assume maximum efficiency, Caplan estimates that the Bussard engine would use 1012 kg of solar material per second to produce a maximum acceleration of 10−9 m/s2, yielding a velocity of 200 km/s after 5 million years and a distance of 10 parsecs over 1 million years. While theoretically the Bussard engine would work for 100 million years, given the mass loss rate of the Sun, Caplan deems 10 million years to be sufficient for a stellar collision avoidance.[6] His proposal was commissioned by the German educational YouTube channel Kurzgesagt.[7]\n\n"
+        }
+    ]
+}

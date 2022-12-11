@@ -1,0 +1,11 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robotics_suite",
+    "title": "Robotics suite",
+    "table_of_contents": [],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A robotics suite is a visual environment for robot control and simulation. They are typically an end-to-end platform for robotics development and include tools for visual programming and creating and debugging robot applications. Developers can often interact with robots through web-based or visual interfaces.\n\nOne objective of a robotics suite is to support a variety of different robot platforms through a common programming interface. The key point about a robotics suite is that the same code will run either with a simulated robot or the corresponding real robot without modification.\n\nSome robotic suites are based in free software, free hardware and both free software and hardware.\n\n"
+        }
+    ]
+}

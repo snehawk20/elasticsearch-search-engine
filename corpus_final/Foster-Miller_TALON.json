@@ -1,0 +1,30 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SWORDS_robot",
+    "title": "Foster-Miller TALON",
+    "table_of_contents": [
+        "1 Overview",
+        "2 SWORDS",
+        "3 Deployment",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Foster-Miller TALON remotely operated vehicle is a small, tracked military robot designed for missions ranging from reconnaissance to combat. It is made by American robotics company Qinetiq-NA, a subsidiary of Qinetiq.\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "Foster-Miller claims the TALON is one of the fastest robots in production, one that can travel through sand, water, and snow, as well as climb stairs. The TALON transmits in color, black and white, infrared, and/or night vision to its operator, who may be up to about 3937 ft., (1,200 m) away.[1] It can run off lithium-ion batteries for a maximum of seven days on standby before needing recharging. It has an 8.5-hour battery life at normal operating speeds, two standard lead batteries providing two hours each, and one optional lithium ion providing an additional 4.57 hours. It can withstand repeated decontamination, allowing it to work for extended periods of time in contaminated areas. It was used at Ground Zero after the September 11 attacks, working for 45 days with many decontaminations without electronic failure.[2] This led to the further development of the HAZMAT TALON.\n\nIt weighs less than 100 lb (45 kg), or 60 lb (27 kg) for the Reconnaissance version. Its cargo bay accommodates a variety of sensor payloads. The robot is controlled through a two-way radio or a fibre-optic link from a portable or wearable Operator Control Unit (OCU) that provides continuous data and video feedback for precise vehicle positioning.\n\nRegular (IED/EOD) TALON: Carries sensors and a robotic manipulator, which are used by the U.S. military for explosive ordnance disposal and disarming improvised explosive devices.\n\nSpecial Operations TALON (SOTALON): Does not have the robotic arm manipulator but carries day/night colour cameras and listening devices; lighter due to the absence of the arm, for reconnaissance missions.\n\nSWORDS TALON: For small arms combat and guard roles. Evaluated in December 2003 in Kuwait prior to deployment in Iraq.\n\nHAZMAT TALON: Uses chemical, gas, temperature, and radiation sensors that are displayed in real time to the user on a hand-held display unit. It is now being evaluated by the US Armament Research Development and Engineering Centre (ARDEC).\n\nThe robot costs approximately $6,000,000 in its standard form. Foster-Miller was subsequently bought out by QinetiQ, a United Kingdom military developer.\n\n"
+        },
+        {
+            "title": "SWORDS",
+            "text": "SWORDS, or the Special Weapons Observation Reconnaissance Detection System, is a weaponized version being developed by Foster-Miller for the US Army. The robot is composed of a weapons system mounted on the standard TALON chassis. The current price of one unit is $230,000; however, Foster-Miller claims that when it enters mass production the price may drop to between $150,000 and $180,000.\n\nThere are a variety of different weapons which can be placed on the SWORDS: M16 rifle, 5.56 mm SAW M249, 7.62 mm M240 machine gun, .50 cal M82 Barrett rifle, six barreled 40 mm grenade launcher or quad 66 mm M202A1 FLASH incendiary weapon.\n\nSWORDS units have demonstrated the ability to shoot precisely. It is not autonomous, but instead has to be controlled by a soldier using a small console to remotely direct the device and fire its weapons. Foster-Miller are currently at work on a \"Game Boy\" style controller with virtual-reality headsets for future operators.\n\nIn 2007, three SWORDS units were deployed to Iraq. Each unit is armed with a M249 machine gun. This deployment marked the first instance of robots carrying guns into battle;[3] however, their weapons have remained unused as the Army has never given authorization for using them.[4] The Army stopped funding the SWORDS robots after deploying the initial three robots. Foster-Miller is working on a successor: the Modular Advanced Armed Robotic System (MAARS).\n\nBy August 2013, the Smithsonian Institution had acquired a SWORDS robot for its collection. One is also on display at the National Infantry Museum in Fort Benning, Georgia.[5]\n\n"
+        },
+        {
+            "title": "Deployment",
+            "text": "The Talon has been deployed in military service since 2000 - for example, in Bosnia for the movement of munitions and EOD (explosive ordnance disposal) to dispose of grenades. It was also used at Ground Zero after the September 11th attacks in search and recovery. It is the only robot used in this effort that did not require any major repair.[6][unreliable source?] Foster-Miller claims the Talon was used for a classified mission by US Special Forces in the war against the Taliban in Afghanistan,[6] as well as in an EOD role. In Iraq its standard role has been performing EOD and IED destruction missions. Its combat SWORDS version is now being used there as a guard protecting front line buildings from attack. According to Foster-Miller, the robot has performed around 20,000 EOD missions in the conflicts in Iraq and Afghanistan.\n\nAs of late 2014, the Army was refurbishing 353 Talon IV robots, with 296 going to Army engineers and 57 for the Army National Guard.[7]\n\n"
+        }
+    ]
+}

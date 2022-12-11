@@ -1,0 +1,21 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Companion_robot",
+    "title": "Companion robot",
+    "table_of_contents": [
+        "1 Examples",
+        "1.1 Paro",
+        "1.2 CompanionAble",
+        "1.3 EmotiRob",
+        "2 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A companion robot is a robot created for the purposes of creating real or apparent companionship for human beings.[1] Target markets for companion robots include the elderly[2] and single children.[3]\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "There are several companion robot prototypes and these include Paro, CompanionAble, and EmotiRob, among others.\n\nParo is a pet-type robot system developed by Japan's National Institute of Advanced Industrial Science and Technology (AIST). The robot, which looked like a small seal, was designed for the care and support of old individuals especially those living on their own.[4] Experiments showed that Paro facilitated elderly residents to communicate with each other, which led to psychological improvements.[4]\n\nThis robot is classified as an FP 7 EU project and is built to \"cooperate with Ambient Assistive Living environment\".[5] The autonomous device, which is also built to support the elderly, helps its owner interact with smart home environment as well as care givers. It is capable of speech and movement and can detect and track people at home.[5]\n\nEmotiRob is a robot being developed by a French team to engage fragile children emotionally. It has cognitive capabilities, which are further extended so that the robot can have a natural linguistic interaction with its owner through the DRAGON speech-recognition software developed by a company called NUANCE.[6] Such interaction is expected to facilitate a child's cognitive development and develop new learning patterns.[6]\n\n"
+        }
+    ]
+}

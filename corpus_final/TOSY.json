@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/TOSY",
+    "title": "TOSY",
+    "table_of_contents": [
+        "1 Brand",
+        "2 History",
+        "3 Robots",
+        "4 Smart toys",
+        "5 Industrial robots",
+        "6 Other products",
+        "7 International Awards",
+        "8 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "TOSY Robotics specializes in designing and manufacturing robots and smart toys. The most famous products from TOSY Robotics are TOPIO Robot, DiscoRobo, TOOP and AFO.\n\n"
+        },
+        {
+            "title": "Brand",
+            "text": "TOSY Robotics focuses on research and development and manufacturing of robots. TOSY's core value is: Technology – Originality – Satisfaction – Yearning. TOSY is a company that designs and manufactures unique robots since 2002.\n\n"
+        },
+        {
+            "title": "Robots",
+            "text": "mRobo is the combination of a dancing humanoid robot and a speaker.[4]\n\nTOPIO (\"TOSY Ping Pong Playing Robot\") is a bipedal humanoid robot designed to play table tennis against a human being. It has been known that ping pong is interesting to roboticists because it requires an understanding of dynamic environments, accurate real-time vision, fast actuation and intelligence to play the game with a winning strategy. It was first introduced in IREX – world's largest robot trade fair – held in Tokyo, Japan on November 28, 2007.[5] While TOPIO 1.0 runs on water power, measures 1.8m, weighs 500kg, has 6 legs and cannot move, TOPIO 2.0 is 2,1m but only weighs 60kg, has 2 legs and can move. As it is considered a much more advanced version compared to the former one, TOPIO 2.0 has 28 DoFs and runs on electricity. Its ability to move, dance and play ping pong is based on modules such as high-speed image sensor, artificial neural network, movement controller, etc. The newest TOPIO 3.0 is as tall as 1,88m and weighs 120kg with 32 DoFs.\n\nThe biggest challenge in designing TOPIO 3.0 is to fulfil 2 requirements: to be able to move & to play ping pong. In robotics engineering, it is not an easy task to combine these two factors. Nevertheless, TOPIO has undergone a thorough research and development procedure so that it could move fluently in 2 foot.[6]\n\nSketRobo is a humanoid robot that can draw over 200 pre-loaded images, using a hand-held pen and a sheet of paper clipped to a table in front of it. SketRobo is a cool little robot from Vietnamese toy maker Tosy Robotics that can use its cameras to sketch anything you want. At the moment, SketRobo’s drawing ability is still limited; however, in the future, TOSY Robotics will equip the robot with facial recognition system and motion detection so as the robot can sketch the faces of real people.[7] TOSY Robotics also aims to use SketRobo to help children learn how to draw.\n\nThe TOPIO Dio is a robot designed to serve in a restaurant or coffee shop, or as a cocktail bartender, which is manufactured by Vietnam-based company, Tosy. TOPIO Dio is a humanoid robot that measures 125cm tall and weighs 45kg, where it features 28 DoFs, a trio of wheels, a built-in camera, a sensor that helps it avoid obstacles and a Wi-Fi control capability.[8] TOSY Robotics says that the robot is mainly aimed at the “hospitality and restaurant” industries.[9]\n\n"
+        },
+        {
+            "title": "Smart toys",
+            "text": "DiscoRobo is a \"dancing\" robot.[10] As a combination of hi-tech and entertainment, the talking DiscoRobo can feel and dance to many beats of life, from your music to your beatbox, to your handclaps and even your footsteps. Users can also engage with this fascinating toy via an app which allows them to chat with DiscoRobo or customize it's dancing steps.\n\nInspired by traditional toys of Vietnamese children, TOOP is a modern spinning top that runs on 3A battery with non-stop motorized spinning. With a controlling stick, players can create their own game strategy and control the tops to compete with others on the arena battle set. On 2011 July 7, TOOP was awarded by Guinness World Records as “The world’s longest-running mechanical spinning top”. With its record of spinning for 24 hours 35 minutes and 15 seconds.[11]\n\nAFO is a boomerang with an LED light.[12] Players are encouraged to use their creativity to come up with different ways of playing AFO both indoor and outdoor.[13]\n\n"
+        },
+        {
+            "title": "Industrial robots",
+            "text": "In 2010, Automatica Exhibition held in Munich, TOSY Robotics introduced 3 industrial robots: Arm Robot, Parallel Robot and Scara Robot. Arm Robot is an interactive automatic device that can solder, paint, assemble, move boxes or pallets, etc. Scara Robot and Parallel Robot are able to execute production on fast-moving conveyors. These 3 robots have an accurate measurement of 0,1mm, work range of 0,6-2m and workload of 1–30 kg. To minimize production cost, TOSY Robotics has self-created the entire components of its industrial robots like engine, reducer, electrical network, automatic control,…[14]\n\n"
+        },
+        {
+            "title": "Other products",
+            "text": "BallRobo and TyreRobo are robots that can freely move in all directions and are enabled by remote control. Robo-Balls are high-quality table tennis balls ideal for recreational play or multi-ball training. These 2 robots have been registered for patent for their special mechanical engineering that helps them move on different topographic: sand, snow, water, etc. \n\n"
+        }
+    ]
+}

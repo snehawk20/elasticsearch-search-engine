@@ -1,0 +1,26 @@
+{
+    "url": "https://en.wikipedia.org/wiki/External_combustion_engine",
+    "title": "External combustion engine",
+    "table_of_contents": [
+        "1 Combustion",
+        "2 Working fluid",
+        "2.1 Single phase",
+        "2.2 Dual phase",
+        "3 See also",
+        "4 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "An external combustion engine (EC engine) is a reciprocating heat engine where a working fluid, contained internally, is heated by combustion in an external source, through the engine wall or a heat exchanger. The fluid then, by expanding and acting on the mechanism of the engine, produces motion and usable work.[1] The fluid is then dumped (open cycle), or cooled, compressed and reused (closed cycle). \nIn these types of engines, the combustion is primarily used as a heat source, and the engine can work equally well with other types of heat sources.\n\n"
+        },
+        {
+            "title": "Combustion",
+            "text": "\"Combustion\" refers to burning fuel with an oxidizer, to supply the heat. Engines of similar (or even identical) configuration and operation may use a supply of heat from other sources such as nuclear, solar, geothermal or exothermic reactions not involving combustion; they are not then strictly classed as external combustion engines, but as external thermal engines.\n\n"
+        },
+        {
+            "title": "Working fluid",
+            "text": "The working fluid can be of any composition and the system may be single-phase (liquid only or gas only) or dual-phase (liquid/gas).\n\nGas is used in a Stirling engine. Single-phase liquid may sometimes be used.[clarification needed]\n\nDual-phase external combustion engines use a phase transition to convert temperature to usable work, for example from liquid to (generally much larger) gas.  This type of engine follows variants of the Rankine cycle.  Steam engines are a common example of dual-phase engines.  Another example is engines that use the Organic Rankine cycle.\n\n"
+        }
+    ]
+}

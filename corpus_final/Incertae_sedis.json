@@ -1,0 +1,39 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Incertae_sedis",
+    "title": "Incertae sedis",
+    "table_of_contents": [
+        "1 Examples",
+        "2 In formal nomenclature",
+        "3 Reason for use",
+        "3.1 Poor description",
+        "3.2 Not included in an analysis",
+        "3.3 Controversy",
+        "4 Other ways of denoting uncertainty",
+        "5 In zoological nomenclature",
+        "6 See also",
+        "7 References",
+        "8 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nIncertae sedis (Latin for 'of uncertain placement')[2] or problematica is a term used for a taxonomic group where its broader relationships are unknown or undefined.[3] Alternatively, such groups are frequently referred to as \"enigmatic taxa\".[4] In the system of open nomenclature, uncertainty at specific taxonomic levels is indicated by incertae familiae (of uncertain family), incerti subordinis (of uncertain suborder), incerti ordinis (of uncertain order) and similar terms.[5]\n\n"
+        },
+        {
+            "title": "In formal nomenclature",
+            "text": "When formally naming a taxon, uncertainty about its taxonomic classification can be problematic. The International Code of Nomenclature for algae, fungi, and plants, stipulates that \"species and subdivisions of genera must be assigned to genera, and infraspecific taxa must be assigned to species, because their names are combinations\", but ranks higher than the genus may be assigned incertae sedis.[13]\n\n"
+        },
+        {
+            "title": "Reason for use",
+            "text": "This excerpt from a 2007 scientific paper about crustaceans of the Kuril–Kamchatka Trench and the Japan Trench describes typical circumstances through which this category is applied in discussing:[14]\n\nIf a formal phylogenetic analysis is conducted that does not include a certain taxon, the authors might choose to label the taxon incertae sedis instead of guessing its placement. This is particularly common when molecular phylogenies are generated, since tissue for many rare organisms is hard to obtain. It is also a common scenario when fossil taxa are included, since many fossils are defined based on partial information. For example, if the phylogeny was constructed using soft tissue and vertebrae as principal characters and the taxon in question is only known from a single tooth, it would be necessary to label it incertae sedis.[5]\n\nIf conflicting results exist or if there is not a consensus among researchers as to how a taxon relates to other organisms, it may be listed as incertae sedis until the conflict is resolved.[5]\n\n"
+        },
+        {
+            "title": "Other ways of denoting uncertainty",
+            "text": "Uncertain taxonomic assigations of other degrees may be denoted using the 'cf.' (before a taxon name) and '?' (after a taxon name) specifiers.[15]\n\n"
+        },
+        {
+            "title": "In zoological nomenclature",
+            "text": "In zoological nomenclature, \"incertae sedis\" is not a nomenclatural term at all per se, but is used by taxonomists in their classifications to mean \"of uncertain taxonomic position\".[2]Glossary In botany, a name is not validly published if it is not accepted by the author in the same publication.[13]Article 36.1 In zoology, a name proposed conditionally may be available under certain conditions.[2]Articles 11 and 15 For uncertainties at lower levels, some authors have proposed a system of \"open nomenclature\", suggesting that question marks be used to denote a questionable assignment.[5] For example, if a new species was given the specific epithet album by Anton and attributed with uncertainty to Agenus, it could be denoted \"Agenus? album Anton (?Anton)\"; the \"(?Anton)\" indicates the author that assigned the question mark.[5] So if Anton described Agenus album, and Bruno called the assignment into doubt, this could be denoted \"Agenus? album (Anton) (?Bruno)\", with the parentheses around Anton because the original assignment (to Agenus) was modified (to Agenus?) by Bruno.[5] This practice is not included in the International Code of Zoological Nomenclature, and is used only by paleontologists.[5]\n\n"
+        }
+    ]
+}

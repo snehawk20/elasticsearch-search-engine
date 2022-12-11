@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Service_robot",
+    "title": "Service robot",
+    "table_of_contents": [
+        "1 Types",
+        "1.1 Industrial",
+        "1.2 Frontline Service Robots",
+        "1.3 Domestic",
+        "1.4 Scientific",
+        "2 Examples of service robot",
+        "3 See also",
+        "4 References",
+        "5 Further reading"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nService robots assist human beings, typically by performing a job that is dirty, dull, distant, dangerous or repetitive. They typically are autonomous and/or operated by a built-in control system, with manual override options.\nThe term \"service robot\" does not have a strict technical definition. The International Organization for Standardization defines a “service robot” as a robot “that performs useful tasks for humans or equipment excluding industrial automation applications”.[1]\n\nAccording to ISO 8373 robots require “a degree of autonomy”, which is the “ability to perform intended tasks based on current state and sensing, without human intervention”. For service robots this ranges from partial autonomy - including human-robot interaction - to full autonomy - without active human robot intervention. The International Federation of Robotics (IFR) statistics for service robots therefore include systems based on some degree of human robot interaction or even full tele-operation as well as fully autonomous systems.\n\nService robots are categorized according to personal or professional use. They have many forms and structures as well as application areas.\n\n"
+        },
+        {
+            "title": "Types",
+            "text": "The possible applications of robots to assist in human chores is widespread. At present there are a few main categories that these robots fall into.\n\nIndustrial service robots can be used to carry out simple tasks, such as examining welding, as well as more complex, harsh-environment tasks, such as aiding in the dismantling of nuclear power stations. Industrial robots have been defined by the International Federation of Robotics as \"an automatically controlled, reprogrammable, multipurpose manipulator programmable in three or more axes, which may be either fixed in place or mobile for use in industrial automation applications\".[2]\n\nService robots are system-based autonomous and adaptable interfaces that interact, communicate and deliver service to an organization’s customers.[3]\n\nDomestic robots perform tasks that humans regularly perform in non-industrial environments, like people's homes such as for cleaning floors, mowing the lawn and pool maintenance.[4] People with disabilities, as well as people who are older, may soon be able to use service robots to help them live independently.[5] It is also possible to use certain robots as assistants or butlers[citation needed].\n\nRobotic systems perform many functions such as repetitive tasks performed in research. These range from the multiple repetitive tasks made by gene samplers and sequencers, to systems which can almost replace the scientist in designing and running experiments, analysing data and even forming hypotheses.\n\nAutonomous scientific robots perform tasks which humans would find difficult or impossible, from the deep sea to outer space. The Woods Hole Sentry can descend to 4,500 metres and allows a higher payload as it does not need a support ship or the oxygen and other facilities demanded by human piloted vessels.[6] Robots in space include the Mars rovers which could carry out sampling and photography in the harsh environment of the atmosphere on Mars.\n\nEvent Robots\n\nEvent Robots are starting to be used within the realms of service Robots to engage with clients and event attendees. Robots provide a great source of interaction. “Eva” photography Robot is a great example of how a Robot can be used for events to engage attendees.\n\n"
+        }
+    ]
+}

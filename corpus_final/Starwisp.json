@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Starwisp",
+    "title": "Starwisp",
+    "table_of_contents": [
+        "1 Description",
+        "2 Possible methods of fabrication",
+        "3 Technical problems",
+        "4 In fiction",
+        "5 See also",
+        "6 References",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Starwisp is a hypothetical unmanned interstellar probe design proposed by the late Robert L. Forward. It is propelled by a microwave sail, similar to a solar sail in concept, but powered by microwaves from a human-made source. It would fly through the target system without slowing down.\n\n"
+        },
+        {
+            "title": "Description",
+            "text": "\"Starwisp\" is a concept for an ultra-low-mass interstellar probe pushed by a microwave beam. It was proposed by scientist and author Robert L. Forward in 1985,[1] and further work was published by Geoffrey A. Landis in 2000.[2] The proposed device uses beam-powered propulsion in the form of a high-power microwave antenna pushing a sail. The probe itself would consist of a mesh of extremely fine carbon wires about 100 m across, with the wires spaced the same distance apart as the 3 mm wavelength of the microwaves that will be used to push it.\n\nForward proposed that the wires would incorporate nanoscale computer circuitry, sensors, microwave power collection systems and microwave radio transmitters fabricated on the wire surfaces, giving the probe data collection and transmission capability. Being distributed across the entire sail, no \"rigging\" is needed, as would be the case if the mission electronics were placed in a separate probe that was pulled by the sail.\n\nThe original Starwisp concept assumed that the microwaves would be efficiently reflected, with the wire mesh surface acting as a superconductor and nearly perfectly efficient mirror. This assumption is not valid. Landis showed that a grid will absorb a significant fraction of the power incident on it, and therefore cannot stay cool enough to be superconducting. The design is thermally limited, hence the use of carbon as the material in Landis's concept. \n\nLow mass was the key feature of the Starwisp probe. In Landis's calculations, the mesh has a density of only 100 kg/km2, for a total mass of 1 kg, plus a payload of 80 grams.\n\nAlthough the diffraction limit severely constrains the range of the transmitting antenna, the probe is designed to have an acceleration of 24 m/s2, so that it can reach a significant fraction of the speed of light within a very short distance, before passing out of range. The antenna uses a microwave lens 560 km in diameter, would transmit 56 GW of power, and would accelerate the probe to 10% of the speed of light.\n\nThe probe would cruise without power for decades until it finally approached the target star, at which point the antenna which launched it would again target its beam on Starwisp. This would be done when the Starwisp was about 80% of the way to its destination, so that the beam and Starwisp would arrive there at the same time. At such extreme long range the antenna would be unable to provide any propulsion, but Starwisp would be able to use its wire sail to collect and convert some of the microwave energy into electricity to operate its sensors and transmit the data it collects back home. Starwisp would not slow down at the target star, performing a high-speed flyby mission instead.\n\nSince the antenna is only required for a few days at Starwisp's launch and again for another few days several decades later to power it while it passes its target, Starwisp probes might be mass-produced and launched by the maser every few days. In this manner, a continuous stream of data could be collected about distant solar systems even though any given Starwisp probe only spends a few days travelling through it. Alternatively, the launching transmitter could be used in the interim to transmit power to Earth for commercial use, as with a solar power satellite.\n\n"
+        },
+        {
+            "title": "Possible methods of fabrication",
+            "text": "Constructing such a delicate probe would be a significant challenge. One proposed method would be to \"paint\" the probe and its circuitry onto an enormous sheet of plastic which degrades when exposed to ultraviolet light, and then wait for the sheet to evaporate away under the assault of solar UV after it has been deployed in space.\n\nAnother proposed method noted that the Starwisp probe wires were of the same physical scale as wires and circuit elements on modern computer microchips and could be produced by the same photolithographic fabrication technologies as those of computer chips. The probe would have to be built in sections the size of current chip fabrication silicon wafers and then connected together.\n\n"
+        },
+        {
+            "title": "Technical problems",
+            "text": "A major problem this design would face would be the radiation encountered en route. Travelling at 20% of light speed, ordinary interstellar hydrogen would become a significant radiation hazard, and the Starwisp would be without shielding and likely without active self-repair capability. Another problem would be keeping the acceleration of the Starwisp uniform enough across its sail area so that its delicate wires would not tear or be twisted out of shape. Distorting the shape of the Starwisp even slightly could result in a runaway catastrophe, since one portion of the Starwisp would be reflecting microwaves in a different direction than the other portion and be thrust even farther out of shape. Such delicate and finely-balanced control may prove impossible to realize.\n\nThe possibility of using a dusty plasma sail[citation needed] in which a dusty substance that is maintained as a plasma within space is responsible for the reflection of electromagnetic radiation could circumvent problems associated with radiation damage to the medium responsible for the transfer of radiation pressure (the dusty plasma sail might not be as easy to damage as a thin film or the like). Dusty plasma sails can also adapt their three-dimensional structure in real time to ensure reflection perpendicular to any incident light/microwave beam.\n\n"
+        }
+    ]
+}

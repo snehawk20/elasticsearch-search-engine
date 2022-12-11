@@ -1,0 +1,17 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robotic_paradigm",
+    "title": "Robotic paradigm",
+    "table_of_contents": [
+        "1 Hierarchical/deliberative paradigm",
+        "2 The reactive paradigm",
+        "3 Hybrid deliberate/reactive paradigm",
+        "4 See also",
+        "5 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In robotics, a robotic paradigm is a mental model of how a robot operates.  A robotic paradigm can be described by the relationship between the three basic elements of robotics: Sensing, Planning, and Acting. It can also be described by how sensory data is processed and distributed through the system, and where decisions are made.\n\n"
+        }
+    ]
+}

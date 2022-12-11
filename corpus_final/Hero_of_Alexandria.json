@@ -1,0 +1,38 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+    "title": "Hero of Alexandria",
+    "table_of_contents": [
+        "1 Life and career",
+        "2 Inventions",
+        "3 Mathematics",
+        "4 Cultural references",
+        "5 Bibliography",
+        "6 Publications",
+        "7 See also",
+        "8 References",
+        "9 Further reading",
+        "10 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Hero of Alexandria (/ˈhɪəroʊ/; Greek: Ἥρων[1] ὁ Ἀλεξανδρεύς, Heron ho Alexandreus, also known as Heron of Alexandria /ˈhɛrən/; fl. 60 AD) was a Greek mathematician and engineer who was active in his native city of Alexandria, Roman Egypt. He is often considered the greatest experimenter of antiquity[2] and his work is representative of the Hellenistic scientific tradition.[3]\n\nHero published a well-recognized description of a steam-powered device called an aeolipile (sometimes called a \"Hero engine\"). Among his most famous inventions was a windwheel, constituting the earliest instance of wind harnessing on land.[4][5] He is said to have been a follower of the atomists. In his work Mechanics, he described pantographs.[6] Some of his ideas were derived from the works of Ctesibius.\n\nIn mathematics he is mostly remembered for Heron's formula, a way to calculate the area of a triangle using only the lengths of its sides.\n\nMuch of Hero's original writings and designs have been lost, but some of his works were preserved including in manuscripts from the Eastern Roman Empire and to a lesser extent, in Latin or Arabic translations.\n\n"
+        },
+        {
+            "title": "Life and career",
+            "text": "Hero's ethnicity may have been either Greek[2] or Hellenized Egyptian.[7][8][9][10] It is almost certain that Hero taught at the Musaeum which included the famous Library of Alexandria, because most of his writings appear as lecture notes for courses in mathematics, mechanics, physics and pneumatics. Although the field was not formalized until the twentieth century, it is thought that the work of Hero, in particular his automated devices, represented some of the first formal research into cybernetics.[11]\n\n"
+        },
+        {
+            "title": "Inventions",
+            "text": "Hero described[12] the construction of the aeolipile (a version of which is known as Hero's engine) which was a rocket-like reaction engine and the first-recorded steam engine (although Vitruvius mentioned the aeolipile in De Architectura some 100 years earlier than Hero). It was described almost two millennia before the industrial revolution. Another engine used air from a closed chamber heated by an altar fire to displace water from a sealed vessel; the water was collected and its weight, pulling on a rope, opened temple doors.[13] Some historians have conflated the two inventions to assert that the aeolipile was capable of useful work, which is not entirely false, air containing a trace of water vapor. However, this engine is far from a pure aeolipile.[14]\n\n"
+        },
+        {
+            "title": "Mathematics",
+            "text": "Hero described a method (now known as Heron's method), for iteratively computing the square root of a number.[20] Today, however, his name is most closely associated with Heron's formula for finding the area of a triangle from its side lengths. He also devised a method for calculating cube roots.[21] He also designed a shortest path algorithm, that is, given two points A and B on one side of a line, find C a point on the straight line that minimizes AC+BC.\n\nIn solid geometry, the Heronian mean may be used in finding the volume of a frustum of a pyramid or cone.\n\n"
+        },
+        {
+            "title": "Bibliography",
+            "text": "The most comprehensive edition of Hero's works was published in five volumes in Leipzig by the publishing house Teubner in 1903.\n\nWorks known to have been written by Hero include:\n\nWorks that sometimes have been attributed to Hero, but are now thought most likely to have been written by someone else:[25]\n\nWorks that are preserved only in fragments:\n\n"
+        }
+    ]
+}

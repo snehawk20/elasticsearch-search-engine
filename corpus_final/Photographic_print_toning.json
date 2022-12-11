@@ -1,0 +1,34 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Sepia_tone",
+    "title": "Photographic print toning",
+    "table_of_contents": [
+        "1 Chemical toning",
+        "1.1 Selenium toning",
+        "1.2 Sepia toning",
+        "1.3 Metal replacement toning",
+        "1.4 Dye toning",
+        "2 Digital toning",
+        "3 Examples",
+        "4 See also",
+        "5 References",
+        "6 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "In photography, toning is a method of altering the color of black-and-white photographs. In analog photography, it is a chemical process carried out on metal salt-based prints, such as silver prints, iron-based prints (cyanotype or Van Dyke brown), or platinum or palladium prints. This darkroom process cannot be performed with a color photograph. The effects of this process can be emulated with software in digital photography. Sepia is considered a form of black-and-white or monochrome photography.\n\n"
+        },
+        {
+            "title": "Chemical toning",
+            "text": "Most toners work by replacing the metallic silver in the emulsion with a silver compound, such as silver sulfide (Ag2S) in the case of sepia toning. The compound may be more stable than metallic silver and may also have a different color or tone. Different toning processes give different colors to the final print. In some cases, the printer may choose to tone some parts of a print more than others.[1]\n\nToner also can increase the range of shades visible in a print without reducing the contrast. Selenium toning is especially effective in this regard. Some toning processes can improve the chemical stability of the print, increasing its potential longevity. Other toning processes, such as those including iron and copper, can make the print less stable. Many chemical toners are highly toxic, some even containing chemicals that are carcinogenic. It is therefore extremely important that the chemicals be used in a well ventilated area, and rubber gloves and face protection should be worn when handling them.\n\nSelenium toning is a popular archival toning process, converting metallic silver to silver selenide. In a diluted toning solution, selenium toning gives a red-brown tone, while a strong solution gives a purple-brown tone. The change in color depends upon the chemical make-up of the photographic emulsion being toned. Chloro-bromide papers change dramatically, whilst pure bromide papers change little. Fibre-based papers are more responsive to selenium toning.[2]\n\nSelenium toning may not produce prints quite as stable as sepia or gold toning. Recently, doubts have surfaced as to the effectiveness of selenium toner in ensuring print longevity.[3]\n\nSepia toning is a specialized treatment to give a black-and-white photographic print a warmer tone and to enhance its archival qualities. The metallic silver in the print is converted to a sulfide compound, which is much more resistant to the effects of environmental pollutants such as atmospheric sulfur compounds. Silver sulfide is at least 50% more stable than silver.[4]\n\nThere are three types of sepia toner in modern use;\n\nExcept for polysulfide toners, sepia toning is done in three stages. The print is first soaked in a potassium ferricyanide bleach to reconvert the metallic silver to silver halide. The print is washed to remove excess potassium ferricyanide and then immersed into a bath of toner, which converts the silver halides to silver sulfide.\n\nIncomplete bleaching creates a multi-toned image with sepia highlights and gray mid-tones and shadows. This is called split toning. The untoned silver in the print can be treated with a different toner, such as gold or selenium.[5]\n\nFred Judge FRPS made extensive use of sepia toning for postcards produced by the British picture postcards manufacturer Judges Postcards.\n\nMetal replacement toners replace the metallic silver, through a series of chemical reactions, with a ferrocyanide salt of a transition metal. Some metals, such as platinum or gold, can protect the image. Others, such as iron (blue toner) or copper (red toner), may reduce the life of the image.[citation needed]\n\nMetal-replacement toning with gold alone results in a blue-black tone. It is often combined with a sepia toner to produce a more attractive orange-red tone. The archival Gold Protective Solution (GP-1) formula uses a 1% gold chloride stock solution with sodium or potassium thiocyanate.[6] It is sometimes used to split tone photographs previously toned in selenium for artistic purposes.[7]\n\nDye toners replace the metallic silver with a dye. The image will have a reduced lifetime compared with an ordinary silver print.[citation needed]\n\n"
+        },
+        {
+            "title": "Digital toning",
+            "text": "Toning can be simulated digitally, either in-camera or in post-processing. The in-camera effect, as well as beginner tutorials given for software like Photoshop or GIMP, use a simple tint. More sophisticated software tends to implement sepia tones using the duotone feature. Simpler photo-editing software usually has an option to sepia-tone an image in one step.\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "The examples below show a digital color photograph, a black-and-white version and a sepia-toned version.\n\nThe following are examples of the three types using film:\n\n"
+        }
+    ]
+}

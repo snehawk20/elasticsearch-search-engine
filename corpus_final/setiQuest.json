@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/SetiQuest",
+    "title": "setiQuest",
+    "table_of_contents": [
+        "1 Jill Tarter's TED wish",
+        "2 Software",
+        "3 DSP Algorithms",
+        "4 Citizen Scientists",
+        "5 Data release",
+        "6 See also",
+        "7 Notes",
+        "8 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\n\nsetiQuest is an inactive project of the SETI Institute, whose declared aim is to \"globalize the search for extra-terrestrial intelligence and empower a new generation of SETI enthusiasts\",[note 1][note 2] by creating means for a deeper involvement from the interested public.[3] The project focuses on amplifying the human potential of SETI enthusiasts, and consists of four main fronts: Software, DSP Algorithms, Citizen Scientists, and Data release. Although there is no present activity on setiQuest per-se, much of the code and raw data products are still available on its successor site.[4]\n\n"
+        },
+        {
+            "title": "",
+            "text": "The setiQuest project started with Jill Tarter's \"TED wish\". Tarter was one of three recipients of the 2009 TED prize, which targets outstanding individuals and tries to grant them \"one wish to change the world\".[5] Tarter's wish was:\n\nAfter the award, the project materialized through a website,[3] that later garnered grass-roots public involvement on its discussion forum, and also in IRC meetings, various social networks, and a wiki. Some of these channels were set up by the community itself, and others were facilitated through the support of several institutions, in cooperation with the SETI Institute.\n\n"
+        },
+        {
+            "title": "Software",
+            "text": "The software aspect of the project initially entailed opening the source code of SonATA, the software used on the Allen Telescope Array (ATA), into Open SonATA, to allow improvement by hobbyist programmers who are passionate about the subject or enjoy contributing to open source code development projects. To further this goal, setiQuest was accepted as part of the Google Summer of Code 2011 program.[citation needed]\n\n"
+        },
+        {
+            "title": "DSP Algorithms",
+            "text": "The Algorithms subproject provides a channel for the creation of improved Digital signal processing (DSP) algorithms for detection of signals in the background noise captured by the ATA. The algorithms used on the ATA currently only search for continuous wave signals (that is, signals that appear at one frequency as a single tone) or pulsed signals.[6] The goal of this participation mode was to allow signal processing enthusiasts to expand the search to other waveforms, perform improvements in the current algorithms or propose innovative new ones.\n\n"
+        },
+        {
+            "title": "Citizen Scientists",
+            "text": "setiQuest also targets those who are less technically inclined, through the development of game-like apps to engage participants as Citizen Scientists, examining real data from SETI observations with the Allen Telescope Array. These apps were meant to harness the ability of the human brain to instinctively detect patterns, even in non-trivial cases where automated tools currently fail. The first of such apps, setiQuest Explorer was released in March 2011.[1][7][8]\n\n"
+        },
+        {
+            "title": "Data release",
+            "text": "To encourage developers to create new apps, the SETI Institute has made a large amount of its data available to the public, under a Creative Commons 3.0 license. This data, a subset of the approximately 100 terabytes collected every day, can be downloaded through the setiQuest website.[10]\n\n"
+        }
+    ]
+}

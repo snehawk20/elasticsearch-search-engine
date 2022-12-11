@@ -1,0 +1,40 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Military_robots",
+    "title": "Military robot",
+    "table_of_contents": [
+        "1 History",
+        "2 Examples",
+        "2.1 In current use",
+        "2.2 In development",
+        "3 Effects and impact",
+        "3.1 Advantages",
+        "3.2 Risks",
+        "3.3 Psychology",
+        "4 In fictional media",
+        "5 Pictures",
+        "6 See also",
+        "7 References",
+        "8 External links",
+        "8.1 Ethical and legal concerns",
+        "8.2 Organizations",
+        "8.3 News articles/press releases"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Military robots are autonomous robots or remote-controlled mobile robots designed for military applications, from transport to search & rescue and attack.\n\nSome such systems are currently in use, and many are under development.\n\n"
+        },
+        {
+            "title": "History",
+            "text": "Broadly defined, military robots date back to World War II and the Cold War in the form of the German Goliath tracked mines and the Soviet teletanks. The MQB-1 Predator drone was when \"CIA officers began to see the first practical returns on their decade-old fantasy of using aerial robots to collect intelligence\".[1]\n\nThe use of robots in warfare, although traditionally a topic for science fiction, is being researched as a possible future means of fighting wars. Already several military robots have been developed by various armies. Some believe the future of modern warfare will be fought by automated weapons systems.[2] The U.S. military is investing heavily in the RQ-1 Predator, which can be armed with air-to-ground missiles and remotely operated from a command center in reconnaissance roles. DARPA has hosted competitions in 2004 & 2005 to involve private companies and universities to develop unmanned ground vehicles to navigate through rough terrain in the Mojave Desert for a final prize of 2 million.[3]\n\nArtillery has seen promising research with an experimental weapons system named \"Dragon Fire II\" which automates loading and ballistics calculations required for accurate predicted fire, providing a 12-second response time to fire support requests. However, military weapons are prevented from being fully autonomous; they require human input at certain intervention points to ensure that targets are not within restricted fire areas as defined by Geneva Conventions for the laws of war.\n\nThere have been some developments towards developing autonomous fighter jets and bombers.[4] The use of autonomous fighters and bombers to destroy enemy targets is especially promising because of the lack of training required for robotic pilots, autonomous planes are capable of performing maneuvers which could not otherwise be done with human pilots (due to high amount of G-force), plane designs do not require a life support system, and a loss of a plane does not mean a loss of a pilot. However, the largest drawback to robotics is their inability to accommodate for non-standard conditions. Advances in artificial intelligence in the near future may help to rectify this.\n\nIn 2020 a Kargu 2 drone hunted down and attacked a human target in Libya, according to a report from the UN Security Council’s Panel of Experts on Libya, published in March 2021. This may have been the first time an autonomous killer robot armed with lethal weaponry attacked human beings.[5][6]\n\n"
+        },
+        {
+            "title": "Examples",
+            "text": "[7]\n\n"
+        },
+        {
+            "title": "Effects and impact",
+            "text": "Autonomous robotics would save and preserve soldiers' lives by removing serving soldiers, who might otherwise be killed, from the battlefield. Lt. Gen. Richard Lynch of the United States Army Installation Management Command and assistant Army chief of staff for installation stated at a 2011 conference:\n\nMajor Kenneth Rose of the US Army's Training and Doctrine Command outlined some of the advantages of robotic technology in warfare:[18]\n\nIncreasing attention is also paid to how to make the robots more autonomous, with a view of eventually allowing them to operate on their own for extended periods of time, possibly behind enemy lines. For such functions, systems like the Energetically Autonomous Tactical Robot are being tried, which is intended to gain its own energy by foraging for plant matter. The majority of military robots are tele-operated and not equipped with weapons; they are used for reconnaissance, surveillance, sniper detection, neutralizing explosive devices, etc. Current robots that are equipped with weapons are tele-operated so they are not capable of taking lives autonomously.[19] Advantages regarding the lack of emotion and passion in robotic combat is also taken into consideration as a beneficial factor in significantly reducing instances of unethical behavior in wartime. Autonomous machines are created not to be \"truly 'ethical' robots\", yet ones that comply with the laws of war (LOW) and rules of engagement (ROE).[20] Hence the fatigue, stress, emotion, adrenaline, etc. that affect a human soldier's rash decisions are removed; there will be no effect on the battlefield caused by the decisions made by the individual.\n\nHuman rights groups and NGOs such as Human Rights Watch and the Campaign to Stop Killer Robots have started urging governments and the United Nations to issue policy to outlaw the development of so-called \"lethal autonomous weapons systems\" (LAWS).[21] The United Kingdom opposed such campaigns, with the Foreign Office declaring that  \"international humanitarian law already provides sufficient regulation for this area\".[22]\n\nIn July 2015, over 1,000 experts in artificial intelligence signed a letter calling for a ban on autonomous weapons. The letter was presented in Buenos Aires at the 24th International Joint Conference on Artificial Intelligence (IJCAI-15) and was co-signed by Stephen Hawking, Elon Musk, Steve Wozniak, Noam Chomsky, Skype co-founder Jaan Tallinn and Google DeepMind co-founder Demis Hassabis, among others.[23][24]\n\nAmerican soldiers have been known to name the robots that serve alongside them. These names are often in honor of human friends, family, celebrities, pets, or are eponymic.[25] The 'gender' assigned to the robot may be related to the marital status of its operator.[25]\n\nSome affixed fictitious medals to battle-hardened robots, and even held funerals for destroyed robots.[25] An interview of 23 explosive ordnance detection members shows that while they feel it is better to lose a robot than a human, they also felt anger and a sense of loss if they were destroyed.[25] A survey of 746 people in the military showed that 80% either 'liked' or 'loved' their military robots, with more affection being shown towards ground rather than aerial robots.[25] Surviving dangerous combat situations together increased the level of bonding between soldier and robot, and current and future advances in artificial intelligence may further intensify the bond with the military robots.[25]\n\n"
+        }
+    ]
+}

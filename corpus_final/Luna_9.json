@@ -1,0 +1,35 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Luna_9",
+    "title": "Luna 9",
+    "table_of_contents": [
+        "1 Spacecraft",
+        "2 Launch and translunar coast",
+        "3 Descent and landing",
+        "4 Surface operations",
+        "5 See also",
+        "6 Sources",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\n\nLuna 9 (Луна-9), internal designation Ye-6 No.13, was an uncrewed space mission of the Soviet Union's Luna programme. On 3 February 1966, the Luna 9 spacecraft became the first spacecraft to achieve a survivable landing on a celestial body.[4][5]\n\n"
+        },
+        {
+            "title": "Spacecraft",
+            "text": "The lander had a mass of 99 kilograms (218 lb) and consisted of a spheroid ALS capsule measuring 58 centimetres (23 in). It used a landing bag to survive the impact speed of 22 kilometres per hour (14 mph).[6] It was a hermetically sealed container with radio equipment, a program timing device, heat control systems, scientific apparatus, power sources, and a television system.\n\nThe spacecraft was developed in the design bureau then known as OKB-1, under Chief Designer Sergei Korolev (who had died before the launch). The first 11 Luna missions were unsuccessful for a variety of reasons. At that time the project was transferred to Lavochkin design bureau since OKB-1 was busy with a human expedition to the Moon. Luna 9 was the twelfth attempt at a soft-landing by the Soviet Union; it was also the first successful deep space probe built by the Lavochkin design bureau, which ultimately would design and build almost all Soviet (later Russian) lunar and interplanetary spacecraft.\n\n"
+        },
+        {
+            "title": "Launch and translunar coast",
+            "text": "Luna 9 was launched by a Molniya-M rocket, serial number 103-32, flying from Site 31/6 at the Baikonur Cosmodrome in the Kazakh Soviet Socialist Republic. Liftoff took place at 11:41:37 GMT on 31 January 1966. The first three stages of the four-stage carrier rocket injected the payload and fourth stage into low Earth orbit, at an altitude of 168 by 219 kilometres (104 by 136 mi) and an inclination of 51.8°.[1] The fourth stage, a Blok-L, then fired to raise the perigee of the orbit to a new apogee approximately 500,000 kilometres (310,000 mi), before deploying Luna 9 into a highly elliptical geocentric orbit.[1]\n\nFor thermal control, the spacecraft then spun itself up to 0.67 rpm using nitrogen jets. On 1 February at 19:29 GMT, a mid-course correction took place involving a 48-second burn and resulting in a delta-v of 71.2 metres per second (234 ft/s).[2]\n\n"
+        },
+        {
+            "title": "Descent and landing",
+            "text": "At an altitude of 8,300 kilometres (5,200 mi) from the Moon, the spacecraft was oriented for the firing of its retrorockets and its spin was stopped in preparation for landing. From this moment the orientation of the spacecraft was supported by measurements of directions to the Sun and the Earth using an optomechanical system. At 75 kilometres (47 mi) above the lunar surface, the radar altimeter triggered the jettison of the side modules, the inflation of the airbags and the firing of the retro rockets. At 250 metres (820 ft) from the surface, the main retrorocket was turned off by the integrator of an acceleration having reached the planned velocity of the braking manoeuver. The four outrigger engines were used to slow the craft. About 5 metres (16 ft) above the lunar surface, a contact sensor touched the ground triggering the engines to be shut down and the landing capsule to be ejected. The craft landed at 22 kilometres per hour (14 mph).[2]\n\nThe spacecraft bounced several times before coming to rest in Oceanus Procellarum west of Reiner and Marius craters at approximately 7.08 N, 64.37 W (other sources indicate 7°08′N 64°22′W﻿ / ﻿7.13°N 64.37°W﻿ / 7.13; -64.37[7]) on 3 February 1966 at 18:45:30 GMT.[2]\n\n"
+        },
+        {
+            "title": "Surface operations",
+            "text": "Approximately 250 seconds after landing in the Oceanus Procellarum, four petals that covered the top half of the spacecraft opened outward for increased stability. Seven hours after (to allow for the Sun to climb to 7° elevation) the probe began sending the first of nine images (including five panoramas) of the surface of the Moon. Seven radio sessions with a total of 8 hours and 5 minutes were transmitted, as well as three series of TV pictures. After assembly the photographs gave a panoramic view of the immediate lunar surface, comprising views of nearby rocks and of the horizon, 1.4 kilometres (0.87 mi) away.[2]\n\nThe pictures from Luna 9 were not released immediately by the Soviet authorities, but scientists at Jodrell Bank Observatory in England, which was monitoring the craft, noticed that the signal format used was identical to the internationally agreed Radiofax system used by newspapers for transmitting pictures. The Daily Express rushed a suitable receiver to the Observatory and the pictures from Luna 9 were decoded and published worldwide.[8] The BBC speculated that the spacecraft's designers deliberately fitted the probe with equipment conforming to the standard, to enable reception of the pictures by Jodrell Bank Observatory.[9]\n\nThe radiation detector, the only dedicated scientific instrument on board, measured dosage of 30 millirads (0.3 milligrays) per day.[10] The mission also determined that a spacecraft would not sink into the lunar dust; that the ground could support a lander. The last contact with the spacecraft was at 22:55 GMT on 6 February 1966.[2]\n\n"
+        }
+    ]
+}

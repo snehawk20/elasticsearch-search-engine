@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Matrioshka_brain",
+    "title": "Matrioshka brain",
+    "table_of_contents": [
+        "1 Concept",
+        "2 Possible uses",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "\nA matrioshka brain[1][2] is a hypothetical megastructure of immense computational capacity powered by a Dyson sphere. It was proposed in 1997 by Robert J. Bradbury (1956–2011[3]). It is an example of a class-B stellar engine, employing the entire energy output of a star to drive computer systems.[4] \nThis concept derives its name from the nesting Russian matryoshka dolls.[5]\nThe concept was deployed by Bradbury in the anthology Year Million: Science at the Far Edge of Knowledge.[6][7]\n\n"
+        },
+        {
+            "title": "Concept",
+            "text": "The concept of a matrioshka brain comes from the idea of using Dyson spheres to power an enormous, star-sized computer. The term \"matrioshka brain\" originates from matryoshka dolls, which are wooden Russian nesting dolls. Matrioshka brains are composed of several Dyson spheres nested inside one another, the same way that matryoshka dolls are composed of multiple nested doll components. \n\nThe innermost Dyson sphere of the matrioshka brain would draw energy directly from the star it surrounds and give off large amounts of waste heat while computing at a high temperature. The next surrounding Dyson sphere would absorb this waste heat and use it for its computational purposes, all while giving off waste heat of its own. This heat would be absorbed by the next sphere, and so on, with each sphere radiating at a lower temperature than the one before it. For this reason, Matrioshka brains with more nested Dyson spheres would tend to be more efficient, as they would waste less heat energy. The inner shells could run at nearly the same temperature as the star itself, while the outer ones would be close to the temperature of interstellar space. The engineering requirements and resources needed for this would be enormous.\n\nThe term \"matrioshka brain\" was invented by Robert Bradbury as an alternative to the Jupiter brain[8]—a concept similar to the matrioshka brain, but on a smaller planetary scale and optimized for minimal signal propagation delay. A matrioshka brain design is concentrated on sheer capacity and the maximum amount of energy extracted from its source star, while a Jupiter brain is optimized for computational speed.[9] Jupiter brain is related to the idea of the hypothetical material computronium, which could be enmassed to sizes of entire planets and even stars.[10]\n\n"
+        },
+        {
+            "title": "Possible uses",
+            "text": "Some possible uses of such an immense computational resource have been proposed.\n\n"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Philosophy_of_computer_science",
+    "title": "Philosophy of computer science",
+    "table_of_contents": [
+        "1 Overview",
+        "2 Church–Turing thesis",
+        "3 P versus NP problem",
+        "4 See also",
+        "5 References",
+        "6 Further reading",
+        "7 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The philosophy of computer science is concerned with the philosophical questions that arise within the study of computer science. There is still no common understanding of the content, aim, focus, or topic of the philosophy of computer science,[1] despite some attempts to develop a philosophy of computer science like the philosophy of physics or the philosophy of mathematics. Due to the abstract nature of computer programs and the technological ambitions of computer science, many of the conceptual questions of the philosophy of computer science are also comparable to the philosophy of science, philosophy of mathematics, and the philosophy of technology.[2]\n\n"
+        },
+        {
+            "title": "Overview",
+            "text": "Many of the central philosophical questions of computer science are centered on the logical, ontological and epistemological issues that concern it.[3] Some of these questions may include:\n\n"
+        },
+        {
+            "title": "",
+            "text": "The Church–Turing thesis and its variations are central to the theory of computation. Since, as an informal notion, the concept of effective calculability does not have a formal definition, the thesis, although it has near-universal acceptance, cannot be formally proven. The implications of this thesis is also of philosophical concern. Philosophers have interpreted the Church–Turing thesis as having implications for the philosophy of mind.[6][7]\n\n"
+        },
+        {
+            "title": "P versus NP problem",
+            "text": "The P versus NP problem is an unsolved problem in computer science and mathematics. It asks whether every problem whose solution can be verified in polynomial time (and so defined to belong to the class NP) can also be solved in polynomial time (and so defined to belong to the class P). Most computer scientists believe that P ≠ NP.[8][9] Apart from the reason that after decades of studying these problems no one has been able to find a polynomial-time algorithm for any of more than 3000 important known NP-complete problems, philosophical reasons that concern its implications may have motivated this belief.\n\nFor instance, according to Scott Aaronson, the American computer scientist then at MIT:\n\n"
+        }
+    ]
+}

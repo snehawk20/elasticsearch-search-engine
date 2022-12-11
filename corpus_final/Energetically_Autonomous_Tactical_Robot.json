@@ -1,0 +1,20 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Energetically_Autonomous_Tactical_Robot",
+    "title": "Energetically Autonomous Tactical Robot",
+    "table_of_contents": [
+        "1 Power plant",
+        "1.1 Fuel sources",
+        "2 References",
+        "3 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Energetically Autonomous Tactical Robot (EATR) was a project by Robotic Technology Inc. (RTI) and Cyclone Power Technologies Inc. to develop a robotic vehicle that could forage for plant biomass to fuel itself, theoretically operating indefinitely. It was a concept developed between 2003 and 2009 as part of the DARPA military projects for the United States military.[1][2]\n\nThe project elicited some internet and media rumors after news circulated that the robot would (or at least could) ingest human remains.[3] Cyclone Power Technologies stated that animal or human biomass was not intended to be used in the waste heat combustion engine of the robot,[4] and that sensors would be able to distinguish foraged materials,[2] although the project overview from RTI listed other sources including chicken fat.[5]\n\n"
+        },
+        {
+            "title": "Power plant",
+            "text": "The robot was powered by a steam engine built by the Cyclone Power Technologies company called the Cyclone Waste Heat Engine, which produced power through external combustion of biomass (i.e. combustion outside of the engine), an example of a Rankine cycle engine. The engine would power the vehicle's movement as well as being used to recharge the batteries that run the sensors, arms and ancillary devices.[5]\n\nThe EATR was programmed to consume certain types of vegetation as biomass to convert into fuel, and only those types of vegetation. EATR could also use other fuels such as gasoline, kerosene, cooking oil, or solar energy.\n\nThe company also included \"chicken fat\" as one of its proposed fuel sources in the project overview.[5]\n\nThe system was quoted as delivering an expected 100 miles (~161 km) of driving on 150 lbs (~68 kg) of vegetation.\n\n"
+        }
+    ]
+}

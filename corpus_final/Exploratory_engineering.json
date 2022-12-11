@@ -1,0 +1,34 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Exploratory_engineering",
+    "title": "Exploratory engineering",
+    "table_of_contents": [
+        "1 Usage",
+        "2 Requirements",
+        "3 Criticism",
+        "4 Science fiction",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Exploratory engineering is a term coined by K. Eric Drexler to describe the process of designing and analyzing detailed hypothetical models of systems that are not feasible with current technologies or methods, but do seem to be clearly within the bounds of what science considers to be possible within the narrowly defined scope of operation of the hypothetical system model. It usually results in paper or video prototypes, or (more likely nowadays) computer simulations that are as convincing as possible to those that know the relevant science, given the lack of experimental confirmation. By analogy with protoscience, it might be considered a form of protoengineering.\n\n"
+        },
+        {
+            "title": "Usage",
+            "text": "Due to the difficulty and necessity of anticipating results in such areas as genetic modification, climate change, molecular engineering, and megascale engineering, parallel fields such as bioethics, climate engineering and hypothetical molecular nanotechnology sometimes emerge to develop and examine hypotheses, define limits, and express potential solutions to the anticipated technological problems. Proponents of exploratory engineering contend that it is an appropriate initial approach to such problems.\n\nEngineering is concerned with the design of a solution to a practical problem. A scientist may ask \"why?\" and proceed to research the answer to the question. By contrast, engineers want to know how to solve a problem, and how to implement that solution. Exploratory engineering often posits that a highly detailed solution exists, and explores the putative characteristics of such a solution, while holding in abeyance the question of how to implement that solution. If a point can be reached where the attempted implementation of the solution is addressed using the principles of engineering physics, the activity transitions from protoengineering to actual engineering, and results in success or failure to implement the design.\n\n"
+        },
+        {
+            "title": "Requirements",
+            "text": "Unlike the scientific method which relies on peer reviewed experiments which attempt to prove or disprove a falsifiable hypothesis, exploratory engineering relies on peer review, simulation and other methods employed by scientists, but applies them to some hypothetical artifact, a specific and detailed hypothesized design or process, rather than to an abstract model or theory. Because of the inherent lack of experimental falsifiability in exploratory engineering, its practitioners must take particular care to avoid falling into practices analogous to cargo cult science, pseudoscience, and pathological science.\n\n"
+        },
+        {
+            "title": "Criticism",
+            "text": "Exploratory engineering has its critics, who dismiss the activity as mere armchair speculation, albeit with computer assist. A boundary which would take exploratory engineering out of the realm of mere speculation and define it as a realistic design activity is often indiscernible to such critics, and at the same time is often inexpressible by the proponents of exploratory engineering. While both critics and proponents often agree that much of the highly detailed simulation effort in the field may never result in a physical device, the dichotomy between the two groups is exemplified by the situation in which proponents of molecular nanotechnology contend that many complicated molecular machinery designs will be realizable after an unspecified \"assembler breakthrough\" envisioned by K. Eric Drexler, while critics contend that this attitude embodies wishful thinking equivalent to that in the famous Sidney Harris cartoon (ISBN 0-913232-39-4) \"And then a miracle occurs\" published in the American Scientist magazine. In summary the critics contend that a hypothetical model which is both self-consistent and consistent with the laws of science concerning its operation, in the absence of a path to build the device modeled, provides no evidence that the desired device can be built. Proponents contend that there are so many potential ways to build the desired device that surely at least one of those ways will not display a critical flaw preventing the device from being built.\n\n"
+        },
+        {
+            "title": "Science fiction",
+            "text": "Both proponents and critics often point to science fiction stories as the origin of exploratory engineering. On the positive side of the science fiction ledger, the ocean-going submarine, the telecommunications satellite, and other inventions were anticipated in such stories before they could be built.[1] On the negative side of the same ledger, other science fiction devices such as the space elevator may be forever impossible because of basic strength of materials issues or due to other difficulties, either anticipated or unanticipated.\n\n"
+        }
+    ]
+}

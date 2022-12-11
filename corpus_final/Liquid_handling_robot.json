@@ -1,0 +1,38 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Liquid_handling_robot",
+    "title": "Liquid handling robot",
+    "table_of_contents": [
+        "1 Introduction",
+        "2 Types of liquid handling robots",
+        "3 Modularity",
+        "4 Control Software",
+        "5 Quality Control",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "A liquid handling robot is used to automate workflows in life science laboratories.  It is a robot that dispenses a selected quantity of reagent, samples or other liquid to a designated container.\n\n"
+        },
+        {
+            "title": "Introduction",
+            "text": "Liquid handling plays a pivotal role in life science laboratories. The sample volumes are usually small, at the micro- or nanoliter level, and the number of transferred samples can be huge. Under these conditions, liquid handling by hand is tedious, time-consuming, and impractical. Consequently, there is a strong demand for automated liquid handling robots.[1]\n\n"
+        },
+        {
+            "title": "Types of liquid handling robots",
+            "text": "The simplest version simply dispenses an allotted volume of liquid from a motorized pipette or syringe; more complicated machines can also manipulate the position of the dispensers and containers (often a Cartesian coordinate robot, such as the XYZ Triton Robot from TriContinent Scientific) and/or integrate additional laboratory devices, such as centrifuges, microplate readers, heat sealers, heater/shakers, bar code readers, spectrophotometric devices, storage devices and incubators.\n\nMore complex liquid handling workstations can perform multiple Laboratory Unit Operations such as sample transport, sample mixing, manipulation and incubation, as well as transporting vessels to/from other workstations.\n\nThey can range from a specialized bench-top 8-channel DNA PCR processing robot, to a customized-for-process automated liquid handling system, such as the TECAN Freedom EVO (shown on the right), the HighRes Biosolution's PRIME and Janus Automated liquid handlers from PerkinElmer. Other liquid handling systems are designed for specific experiments, e.g. the Intavis InsituPro robot for the automation of immunohistochemistry and in situ hybridization on whole-mounts and slides.\n\nAn alternative category of liquid handlers mimics the operations of humans, by performing liquid transfers as humans would do. These robots achieve the cartesian, 3-axis movements implemented in larger workstations, by means of an arm. In some cases (like the \"Andrew\" system or ASSIST PLUS robot shown on the right[2][3]) they can even use the same pipettes and consumables as humans.\n\n"
+        },
+        {
+            "title": "Modularity",
+            "text": "Liquid handling robots can be customized using different add-on modules such as centrifuges, PCR machines, colony pickers, shaking modules, heating modules and others.  Some liquid handling robots utilize Acoustic Liquid Handling (also known as acoustic droplet ejection or ADE) which uses sound to move liquids without the traditional pipette or syringe.\n\n"
+        },
+        {
+            "title": "Control Software",
+            "text": "Control software, either on a connected computer, or integrated into the system itself, allows the user to customize the liquid handling procedures and transfer volumes.\n\n"
+        },
+        {
+            "title": "Quality Control",
+            "text": "One of the challenges in using automated liquid handlers, or liquid handling robots, is in verifying the proper function of the device. Liquid handling operations, performed by these automated systems, can fail due to clogged pipette tips, failed solenoid valves, damaged labware, operator error and many other reasons. A variety of methods exist for performing quality control of liquid dispensing on automated platforms including gravimetric, fluorescent and colorimetric measurements. [4] In addition to manual quality control methods, technologies have been developed which allow for the automated monitoring of quality control of liquid handling robots.[5]\n\n"
+        }
+    ]
+}

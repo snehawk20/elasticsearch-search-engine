@@ -1,0 +1,39 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Water_table",
+    "title": "Water table",
+    "table_of_contents": [
+        "1 Form",
+        "1.1 Surface topography",
+        "1.2 Perched water tables",
+        "2 Fluctuations",
+        "2.1 Tidal fluctuations",
+        "2.2 Seasonal fluctuations",
+        "2.3 Long-term fluctuations",
+        "3 Effects on crop yield",
+        "4 Effects on construction",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The water table is the upper surface of the zone of saturation. The zone of saturation is where the pores and fractures of the ground are saturated with water.[1] It can also be simply explained as the depth below which the ground is saturated.\n\nThe water table is the surface where the water pressure head is equal to the atmospheric pressure (where gauge pressure = 0).  It may be visualized as the \"surface\" of the subsurface materials that are saturated with groundwater in a given vicinity.[2]\n\nThe groundwater may be from precipitation or from groundwater flowing into the aquifer. In areas with sufficient precipitation, water infiltrates through pore spaces in the soil, passing through the unsaturated zone. At increasing depths, water fills in more of the pore spaces in the soils, until a zone of saturation is reached. Below the water table, in the phreatic zone (zone of saturation), layers of permeable rock that yield groundwater are called aquifers. In less permeable soils, such as tight bedrock formations and historic lakebed deposits, the water table may be more difficult to define.\n\nThe water table should not be confused with the water level in a deeper well. If a deeper aquifer has a lower permeable unit that confines the upward flow, then the water level in this aquifer may rise to a level that is greater or less than the elevation of the actual water table. The elevation of the water in this deeper well is dependent upon the pressure in the deeper aquifer and is referred to as the potentiometric surface, not the water table.[2]\n\n"
+        },
+        {
+            "title": "Form",
+            "text": "The  water table may vary due to seasonal changes such as precipitation and evapotranspiration. In undeveloped regions with permeable soils that receive sufficient amounts of precipitation, the water table typically slopes toward rivers that act to drain the groundwater away and release the pressure in the aquifer. Springs, rivers, lakes and oases occur when the water table reaches the surface. Groundwater entering rivers and lakes accounts for the base-flow water levels in water bodies.[3]\n\nWithin an aquifer, the water table is rarely horizontal, but reflects the surface relief due to the capillary effect (capillary fringe) in soils, sediments and other porous media. In the aquifer, groundwater flows from points of higher pressure to points of lower pressure, and the direction of groundwater flow typically has both a horizontal and a vertical component. The slope of the water table is known as the hydraulic gradient, which depends on the rate at which water is added to and removed from the aquifer and the permeability of the material. The water table does not always mimic the topography due to variations in the underlying geological structure (e.g., folded, faulted, fractured bedrock).\n\nA perched water table (or perched aquifer) is an aquifer that occurs above the regional water table. This occurs when there is an impermeable layer of rock or sediment (aquiclude) or relatively impermeable layer (aquitard) above the main water table/aquifer but below the land surface. If a perched aquifer's flow intersects the surface, at a valley wall, for example, the water is discharged as a spring.\n\n"
+        },
+        {
+            "title": "Fluctuations",
+            "text": "On low-lying oceanic islands with porous soil, freshwater tends to collect in lenticular pools on top of the denser seawater intruding from the sides of the islands. Such an island's freshwater lens, and thus the water table, rises and falls with the tides.\n\nIn some regions, for example, Great Britain or California, winter precipitation is often higher than summer precipitation and so the groundwater storage is not fully recharged in summer. Consequently, the water table is lower during the summer. This disparity between the level of the winter and summer water table is known as the \"zone of intermittent saturation\", wherein the water table will fluctuate in response to climatic conditions.\n\nFossil water is groundwater that has remained in an aquifer for several millennia and occurs mainly in deserts. It is non-renewable by present-day rainfall due to its depth below the surface, and any extraction causes a permanent change in the water table in such regions.\n\n"
+        },
+        {
+            "title": "Effects on crop yield",
+            "text": "Most crops need a water table at a minimum depth.[6] For some important food and fiber crops a classification was made[7] because at shallower depths the crop suffers a yield decline.[8] For some important food and fiber crops a classification was made:[9]\n\n"
+        },
+        {
+            "title": "Effects on construction",
+            "text": "When the water table is close to the surface, groundwater must be removed during construction. This is conspicuous in Berlin, which is built on sandy, marshy ground, and the water table is generally 2 meters below the surface, so where pink and blue pipes are visible in town, carrying groundwater from construction sites into the Spree river (or canals).\n\n"
+        }
+    ]
+}

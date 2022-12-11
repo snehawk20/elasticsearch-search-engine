@@ -1,0 +1,32 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Voskhod_programme",
+    "title": "Voskhod programme",
+    "table_of_contents": [
+        "1 Design",
+        "2 Flights",
+        "2.1 Uncrewed",
+        "2.2 Crewed",
+        "2.3 Cancelled",
+        "3 Results",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The Voskhod programme (Russian: Восход, IPA: [vɐsˈxot], Ascent or Dawn) was the second Soviet human spaceflight project. Two one-day crewed missions were flown using the Voskhod spacecraft and rocket, one in 1964 and one in 1965, and two dogs flew on a 22-day mission in 1966.\n\nVoskhod development was both a follow-on to the Vostok programme and a recycling of components left over from that programme's cancellation following its first six flights. The Voskhod programme was superseded by the Soyuz programme.\n\n"
+        },
+        {
+            "title": "Design",
+            "text": "The Voskhod spacecraft was basically a Vostok spacecraft that had a backup, solid-fueled retrorocket added to the top of the descent module. As it was much heavier, the launch vehicle would be the 11A57, a Molniya 8K78M with the Blok L stage removed and later the basis of the Soyuz booster. The ejection seat was removed and two or three crew couches were added to the interior at a 90-degree angle to that of the Vostok crew position. However, the position of the in-flight controls was not changed, so the crew had to crane their heads 90° to see the instruments.\n\nIn the case of Voskhod 2, an inflatable exterior airlock was also added to the descent module opposite the entry hatch. The airlock was jettisoned after use. This apparatus was needed because the vehicle avionics and environmental systems were air-cooled, and depressurization in orbit would cause overheating. A solid-fueled braking rocket was also added to the parachute lines to provide for a softer landing at touchdown. This was necessary because, unlike the Vostok, the Voskhod descent module landed with the crewmen still inside.\n\nUnlike Vostok and the later Soyuz, Voskhod had no launch abort system, meaning that the crew lacked any means of escape from a malfunctioning launch vehicle.\n\nVoskhod had a solid-fueled backup retrorocket on top of the capsule in case the main one failed (as it did on Voskhod 2). While Vostok lacked this feature, it was not considered a problem since the spacecraft would decay from orbit within 10 days. Relatively lightweight, Voskhod was well below the 11A57 booster's lift capacity, meaning that it launched into a much higher orbit and would not decay as quickly.\n\n"
+        },
+        {
+            "title": "Flights",
+            "text": "The Voskhod flights, with launch dates:\n\n"
+        },
+        {
+            "title": "Results",
+            "text": "While the Vostok programme was dedicated more toward understanding the effects of space travel and microgravity on the human body, Voskhod's two flights were more aimed towards spectacular firsts. Although achieving the first EVA (\"spacewalk\") became the main success of the programme, beating the U.S. Project Gemini to put the first multiman crew in orbit was the objective that initially motivated the programme. After those goals were realized, the programme planned to focus on other advances the spacecraft could accomplish, such as longer duration and a second female flight. However, there were delays preparing for Voskhod 3, and during that time the Gemini programme accomplished most of what had been planned for future Voskhods.[5] In the end, the Voskhod programme was abandoned, aided by a change in Soviet leadership which was less concerned about stunt and prestige flights, and this allowed the Soviet designers to concentrate on the Soyuz programme.\n\n"
+        }
+    ]
+}

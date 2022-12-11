@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Subjunctive_possibility",
+    "title": "Subjunctive possibility",
+    "table_of_contents": [
+        "1 Subjunctive possibility and other modalities",
+        "1.1 Epistemic possibility",
+        "1.2 Deontic possibility",
+        "2 Types of subjunctive possibility",
+        "3 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "Subjunctive possibility (also called alethic possibility) is a form of modality studied in modal logic. Subjunctive possibilities are the sorts of possibilities considered when conceiving counterfactual situations; subjunctive modalities are modalities that bear on whether a statement might have been or could be true—such as might, could, must, possibly, necessarily, contingently, essentially, accidentally, and so on. Subjunctive possibilities include logical possibility, metaphysical possibility, nomological possibility, and temporal possibility.\n\n"
+        },
+        {
+            "title": "Subjunctive possibility and other modalities",
+            "text": "\nSubjunctive possibility is contrasted with (among other things) epistemic possibility (which deals with how the world may be, for all we know) and deontic possibility (which deals with how the world ought to be). \nThe contrast with epistemic possibility is especially important to draw, since in ordinary language the same phrases (\"it's possible,\" \"it can't be\", \"it must be\") are often used to express either sort of possibility. But they are not the same. We do not know whether Goldbach's conjecture is true or not (no-one has come up with a proof yet); so it is (epistemically) possible that it is true and it is (epistemically) possible that it is false. But if it is, in fact, provably true (as it may be, for all we know), then it would have to be (subjunctively) necessarily true; what being provable means is that it would not be (logically) possible for it to be false. Similarly, it might not be at all (epistemically) possible that it is raining outside—we might know beyond a shadow of a doubt that it is not—but that would hardly mean that it is (subjunctively) impossible for it to rain outside. This point is also made by Norman Swartz and Raymond Bradley.[1]\n\nThere is some overlap in language between subjunctive possibilities and deontic possibilities: for example, we sometimes use the statement \"You can/cannot do that\" to express (i) what it is or is not subjunctively possible for you to do, and we sometimes use it to express (ii) what it would or would not be right for you to do. The two are less likely to be confused in ordinary language than subjunctive and epistemic possibility as there are some important differences in the logic of subjunctive modalities and deontic modalities. In particular, subjunctive necessity entails truth: if people logically must such and such, then you can infer that they actually do it. But in this non-ideal world, a deontic ‘must’ does not carry the moral certitude that people morally must do such and such.\n\n"
+        },
+        {
+            "title": "Types of subjunctive possibility",
+            "text": "There are several different types of subjunctive modality, which can be classified as broader or more narrow than one another depending on how restrictive the rules for what counts as \"possible\" are. Some of the most commonly discussed are:\n\nSimilarly David Lewis could have taken a degree in Economics but not in, say, Aviation (because it was not taught at Harvard) or Cognitive Neuroscience (because the so-called 'conceptual space' for such a major did not exist). There is some debate whether this final type of possibility in fact constitutes a type of possibility distinct from Temporal, and is sometimes called Historical Possibility by thinkers like Ian Hacking.\n\n"
+        }
+    ]
+}

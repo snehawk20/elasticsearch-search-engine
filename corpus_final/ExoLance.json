@@ -1,0 +1,25 @@
+{
+    "url": "https://en.wikipedia.org/wiki/ExoLance",
+    "title": "ExoLance",
+    "table_of_contents": [
+        "1 Concept",
+        "2 Subsurface habitability",
+        "3 See also",
+        "4 References",
+        "5 External links"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "ExoLance is a low-cost mission concept that could hitch a ride on other missions to Mars in an effort to look for evidence of subsurface life.[1][2][3]\n\n"
+        },
+        {
+            "title": "Concept",
+            "text": "The ExoLance concept was conceived in 2014 by Steve McDaniel and consists in an impact penetrator that would fly to Mars as a secondary payload on a future Mars lander mission. A Mars lander would carry a set of ExoLance penetrators, each weighing a few kilograms. The penetrators would separate as the lander spacecraft enters the Martian atmosphere, passively falling to the Martian surface. The penetrators would make use of technology originally developed for \"bunker buster\" munitions, which are designed to burrow under the surface before exploding. In this case, the explosive payload would be replaced by a scientific one, specifically, a metabolic test that would attempt to detect chemical reactions created by any active microorganisms living one to two meters below the surface.[1][2] The rear end of the penetrator would remain on the surface, connected to the buried probe by a cable, to provide a communications link to orbiting satellites. Having multiple probes allows for individual probe failures without losing the entire mission. The goal is to create something that is both small enough and affordable enough to be able to be put on several planned flights.[3]\n\nAerojet Rocketdyne is performing computer modeling of the Mars penetrators  as a design tool.[4] A company called ExoLife Inc. has patented the improved deep penetrator designed to carry life-detection equipment and has licensed critical, self-sterilizing coating technology for the penetrators. ExoLife is testing the detection equipment and self-sterilizing surface technology that will be carried as the payloads.  Once the concept is sufficiently tested and has been proven, 'Explore Mars' in collaboration with its corporate partners (AeroJet and ExoLife) will approach space agencies and potential commercial providers to carry ExoLance on one or more future Mars missions.[4]\n\nThe science team is composed of astrobiologists Christopher McKay, Steve McDaniel and engineers Gilbert Levin and Joe Cassidy.[5]\n\n"
+        },
+        {
+            "title": "Subsurface habitability",
+            "text": "Although Mars soils are likely not to be overtly toxic to terrestrial microorganisms,[6] life on the surface of Mars is extremely unlikely because it is bathed in radiation and it is completely frozen.[7][8][9][10][11][12][13] Therefore, the best potential locations for discovering life on Mars may be at subsurface environments that have not been studied yet.[13][14][15][16][17][18]\n\n"
+        }
+    ]
+}

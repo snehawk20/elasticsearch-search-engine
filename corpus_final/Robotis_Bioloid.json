@@ -1,0 +1,34 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Robotis_Bioloid",
+    "title": "Robotis Bioloid",
+    "table_of_contents": [
+        "1 Types of ROBOTIS BIOLOID kits",
+        "2 TurtleBot 3 and other platforms",
+        "3 TB3 Plugins for Gazebo",
+        "4 Applications",
+        "5 See also",
+        "6 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "The ROBOTIS BIOLOID is a hobbyist and educational robot kit produced by the Korean robot manufacturer ROBOTIS. The BIOLOID platform consists of components and small, modular servomechanisms called the AX-12A Dynamixels, which can be used in a daisy-chained fashion to construct robots of various configurations, such as wheeled, legged, or humanoid robots. The Robot is programmed with RoboPlus - C language based software.[1] The Bioloid system is thus comparable to the LEGO Mindstorms and VEXplorer kits.[citation needed]\n\n"
+        },
+        {
+            "title": "Types of ROBOTIS BIOLOID kits",
+            "text": "There are multiple variations of the Bioloid kit:[2]\n\n"
+        },
+        {
+            "title": "TurtleBot 3 and other platforms",
+            "text": "Turtlebot 3, announced in 2016 and developed in collaboration with ROBOTIS and the Open Source Robotics Foundation, is the smallest and cheapest of the TurtleBots.\n\nOther ROBOTIS platforms include:  ROBOTIS OP 2, ROBOTIS Manipulator and ThorMang3.\n\n"
+        },
+        {
+            "title": "TB3 Plugins for Gazebo",
+            "text": "ROBOTIS has TurtleBot3 plugins for the Gazebo Robotics simulator that will let you simulate a TB3 Burger, Waffle, or Waffle Pi.\n\n"
+        },
+        {
+            "title": "Applications",
+            "text": "The platform is currently in use by the U.S. Naval Academy in their Mechanical Engineering courses,[3] and is also popular in the RoboCup international robotics competition [4] and FIRA competition.\n\n"
+        }
+    ]
+}

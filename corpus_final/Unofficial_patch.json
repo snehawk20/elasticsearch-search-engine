@@ -1,0 +1,42 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Unofficial_patch",
+    "title": "Unofficial patch",
+    "table_of_contents": [
+        "1 Motivation",
+        "2 Types",
+        "2.1 Translations",
+        "3 Methods",
+        "4 Law",
+        "5 Reception",
+        "6 Examples in video games",
+        "7 Examples in general software",
+        "8 See also",
+        "9 References"
+    ],
+    "paragraphs": [
+        {
+            "title": "",
+            "text": "An unofficial patch is a patch for a piece of software, created by a third party such as a user community without the involvement of the original developer. Similar to an ordinary patch, it alleviates bugs or shortcomings. Unofficial patches do not usually change the intended usage of the software, in contrast to other third-party software adaptions such as mods or cracks.\n\n"
+        },
+        {
+            "title": "Motivation",
+            "text": "A common motivation for the creation of unofficial patches is missing technical support by the original software developer or provider. Reasons may include: \n\n"
+        },
+        {
+            "title": "Types",
+            "text": "Unofficial patches are also sometimes called fan patches or community patches, and are typically intended to repair unresolved bugs and provide technical compatibility fixes, e.g. for newer operating systems, increased display resolutions[8][9] or new display formats.\n\nWhile unofficial patches are most common for the PC platform, they can also be found for console games e.g. in context of the emulation community.[10]\n\nUnofficial patches are not limited to technical fixes; fan translations of software, especially games, are often created if the software has not been released locally.[11] Fan translations are most common for Japanese role-playing games which are often not localized for Western markets.[12][13]\n\nAnother variant of unofficial patches are slipstream like patches which combine official patches together, when individual patches are only available online or as small incremental updates.\n\n"
+        },
+        {
+            "title": "Methods",
+            "text": "The most common case is that the source code and the original development tools are not available for the software. Therefore, the faulty software's binary must be analyzed at run time by reverse engineering and debugging. If the problem is found, a fix to the program must be applied. Sometimes only small changes in configuration files or the registry are required, sometimes binary hacks on the executable itself are required to fix bugs. If a software development kit (e.g. for modding) is available, fixes to the content can be easily produced, otherwise the community would need to create their own tools. These found fixes are typically packed to user deployable patches (e.g. with NSIS, Innosetup).\n\nIf the source code is available, support can by provided most effectively. Sometimes the source code is released intentionally,[14][15][16] sometimes by leaking[17][18][19] or mistake,[20] such as what happened with the game engine of the Thief series.[21][22] Sometimes fans even completely reverse-engineer source code from the original program binary.[23] With the source code available even the support of completely different but recent platforms with source ports becomes possible.\n\n"
+        },
+        {
+            "title": "Law",
+            "text": "While no court cases have directly addressed the legal ramifications of unofficial patches, similar cases have been tried on related issues. The case of Galoob v. Nintendo found that it was not copyright infringement by a user to apply an unauthorized patch to a system (while the scope was very specific to the Game Genie). On the other hand, the case Micro Star v. FormGen Inc. found that user-generated maps were derivative works of the original game.  In Sega v. Accolade, the 9th Circuit held that making copies in the course of reverse engineering is a fair use, when it is the only way to get access to the \"ideas and functional elements\" in the copyrighted code, and when \"there is a legitimate reason for seeking such access\". According to Copyright law of the United States 17 U.S. Code § 117, the owner of a copy of a program can modify it as necessary for \"Maintenance or Repair\",[24] without permission from the copyright holder; an argumentation also raised by Daniel J. Bernstein professor at the University of Illinois at Chicago.[25]\n\nSimilar user rights are given also according to European copyright laws. The question of whether unauthorized changes of lawfully obtained copyright-protected software qualify as fair use is an unsettled area of law.[26] An article of Helbraun law firm remarks, in the context of fan translations, that while redistributing complete games with adaptions most likely does not fall under fair use, distributing the modifications as a patch might be legally permissible; however, that conclusion has not been tested in court.[27]\n\n"
+        },
+        {
+            "title": "Reception",
+            "text": "Reception of unofficial patches is mixed, but by large, copyright holders are ambivalent. When the software is not considered commercially viable unofficial patches are ignored by the copyright holder as it is not seen as a source of lost revenue.[11][28]\nThere have been seldom cases of cease and desist letters to unofficial patch and fan translation projects.[29][30]\n\nSometimes the copyright holder actively support the patching and fixing efforts of a software community,[31] sometimes even by releasing the source code under a software license which allows the software community the continued software support by themselves.[16][14][15][32][33][34] Examples for such software are in the List of commercial video games with later released source code.\n\nThe free and open source software movement was founded in the 1980s to solve the underlying problem of unofficial patches, the limited possibility for user self-support in binary only distributed software due to missing source code. Free and open source software demands from distributed software the availability of source code, which prevents the technical problems and legal uncertainties of binary only user patching of proprietary software.\n\n"
+        }
+    ]
+}
