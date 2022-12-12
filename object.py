@@ -8,11 +8,8 @@ class WikipediaPage:
         """
         self.url = url
         self.title = []
-        #self.html = ""
         self.table_of_contents = []
-        #self.graphics = []
         self.paragraphs = []
-        #self.links = []
 
     def store(self, directory):
         """

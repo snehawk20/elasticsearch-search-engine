@@ -47,28 +47,6 @@ class WikipediaCrawler:
             print("Failed to download page", ex)
         return None
 
-    def parse_category(self, url, depth):
-        """
-        Collects the links from a category and downloads/parses them
-        :param url:
-        :param depth:
-        :return:
-        """
-        page_content = self.download_page(url)
-        if page_content is None:
-            return []
-
-        base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(url))
-        soup = BeautifulSoup(page_content, 'lxml')
-
-        pages = []
-        links = list(filter(lambda x: x.get('href') is not None, soup.find_all('a')))
-        for link in links:
-            url = link.get('href')
-            pages.extend(self.crawl(base_url + url, depth + 1))
-
-        return pages
-
     def parse_page(self, url, depth=0):
         """
         Downloads and parses a Wikipedia page and stores it if required
@@ -109,22 +87,6 @@ class WikipediaCrawler:
 
         page.paragraphs = list(filter(lambda x: x["text"] != "", page.paragraphs))
 
-        # extract graphics
-        # image_container = soup.find_all('div', {'class': 'thumbinner'})
-        # zero_graphic = {"url": "", "caption": ""}
-
-        # for image in image_container:
-        #     current_graphic = copy.deepcopy(zero_graphic)
-
-        #     for child in image.children:
-        #         if child.name == "a":
-        #             current_graphic["url"] = child.get('href')
-
-        #         elif child.name == "div":
-        #             current_graphic["caption"] = child.text
-
-        #     page.graphics.append(current_graphic)
-
         toc_element = soup.find(id="toc")
         if toc_element is not None:
             page.table_of_contents = list(filter(lambda x: x != "", toc_element.text.split("\n")[1:]))
@@ -141,8 +103,6 @@ class WikipediaCrawler:
         if depth <= self.max_depth:
             base_url = '{uri.scheme}://{uri.netloc}'.format(uri=urlparse(initial_link))
             if base_url in self.valid_origins:
-                if self.category_link_pattern.match(initial_link[len(base_url):]):
-                    return self.parse_category(initial_link, depth)
-                elif self.wiki_page_link_pattern.match(initial_link[len(base_url):]):
+                if self.wiki_page_link_pattern.match(initial_link[len(base_url):]):
                     return self.parse_page(initial_link, depth)
         return []
