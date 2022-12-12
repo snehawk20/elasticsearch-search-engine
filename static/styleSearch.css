@@ -45,6 +45,25 @@
     
 }
 
+ul {
+  list-style-type: none; 
+  color: #F0B6D5; 
+  text-decoration: solid; 
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+  max-height:200px;
+}
+
+ul li:hover {
+  color: white;
+
+}
+
+ul li{
+  font-size: 20px;
+}
+
 /* .img {
     width:200px;
 } */

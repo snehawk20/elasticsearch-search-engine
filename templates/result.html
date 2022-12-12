@@ -13,21 +13,42 @@
           
             </div>
             <div class="flex-container">
+                
                 {% for item in data %}
-                <div><a href="{{ item }}" target="_blank">{{ item }}</a></div>
-                {% endfor %}
+                <div class="cards">
+                <div class = "links"><a href="{{ item }}" target="_blank">{{ item }}</a></div>
+                
+                <div class = "snippet">
+                    {{ snippets[loop.index-1] | safe }} 
+                </div>
+                </div>
+                 {% endfor %}
+                
             </div>
         </div>
     </div>
+
+    <script>
+        function stringToHtml(str)
+        {
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(str,'text/text/html');
+            return doc.body;
+        }
+    </script>
 {% endblock %}
 
+<!--      
+    <div [innerHtml] = "CheckForResults()"></div>
 
-<!-- 
-    query fized at the top
-
-    entire page static
-    with just results scrollable
-    and also clickable :||
-
-
- -->
+    function CheckForResults()
+        {
+            if(data.length == 0 && snippets.length==0)
+            {
+                return "NO PAGE FOUND";
+            } 
+            else
+            {
+                return "";
+            }
+        }-->
