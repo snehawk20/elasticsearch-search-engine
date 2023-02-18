@@ -29,6 +29,7 @@ body{
     
     /* margin-bottom: -20px; */
     overflow: scroll;
+    overflow-x: hidden;
     /* border: 1px solid white; */
 
     /* width:300px; */

@@ -1,10 +1,5 @@
 # Elasticsearch based Search Engine
 
-## Our workflow
-
-- 
-
-
 ## Salient features of our engine
 
 - Scraping
@@ -17,7 +12,7 @@
     - Standard tokenizer
     - Token filters: `stop`, `lowercase`, `snowball stemmer`
 
-- Support for `BM25` and `Jelinek-Mercer` Language Model
+- Support for `BM25` and `LM Jelinek-Mercer` Language Model
 
 - Retrieval of top `k` relevant documents in order
 
@@ -25,12 +20,8 @@
 
 - User interface with the following features
     - `Dropdown keyword suggestions` based on Levenstein distance using Fuzzy search
+        - Fuzziness : AUTO 
     - `Snippets` that displays the most relevant fragments built using `unified highlighter`
+        - order fragments by score using Okapi BM25
     - Interface to change between the models and modes as per user's requirements
     - Displaying results as clickable links for better access
-
-
-
-- Pointers
-    - _box-office_ vs _box office_
-    - hollywood moon blockbuster

@@ -22,7 +22,7 @@ def response():
         querytype=request.form['querytype']
 
         my_dir = os.path.dirname(__file__)
-        file_path = os.path.join(my_dir, "trial.py")
+        file_path = os.path.join(my_dir, "elastic_search/elastic.py")
         file = open(file_path)
         getvalues={}
        
@@ -38,7 +38,7 @@ def autocomplete():
     if request.method == 'POST' :
         query=request.form['data']
 
-        result = es.search(index="finalindex0" , body={
+        result = es.search(index="sciencefiction" , body={
             "query" : {
                 "multi_match" : {
                     "fields" : ["title"],
@@ -58,3 +58,4 @@ def autocomplete():
 
 if __name__ == "__main__":
     app.run(debug=True)
+

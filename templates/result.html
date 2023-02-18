@@ -13,7 +13,10 @@
           
             </div>
             <div class="flex-container">
-                
+                {% set n = data | length %}
+                {% if n == 0 %}
+                <div style="color: white;" >NO PAGE FOUND</div>
+                {% endif %}
                 {% for item in data %}
                 <div class="cards">
                 <div class = "links"><a href="{{ item }}" target="_blank">{{ item }}</a></div>
@@ -38,17 +41,3 @@
     </script>
 {% endblock %}
 
-<!--      
-    <div [innerHtml] = "CheckForResults()"></div>
-
-    function CheckForResults()
-        {
-            if(data.length == 0 && snippets.length==0)
-            {
-                return "NO PAGE FOUND";
-            } 
-            else
-            {
-                return "";
-            }
-        }-->
