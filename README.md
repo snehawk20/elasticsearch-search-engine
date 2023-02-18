@@ -1,6 +1,6 @@
 # Elasticsearch based Search Engine
 
-## Salient features of our engine
+## Salient features
 
 - Scraping
     - Scraped ~7000 documents using ``https://en.wikipedia.org/wiki/Science_fiction_film`` as a seed using `BeautifulSoup`
@@ -12,7 +12,7 @@
     - Standard tokenizer
     - Token filters: `stop`, `lowercase`, `snowball stemmer`
 
-- Support for `BM25` and `LM Jelinek-Mercer` Language Model
+- Support for `BM25` and `Jelinek-Mercer` Language Model
 
 - Retrieval of top `k` relevant documents in order
 
@@ -20,8 +20,9 @@
 
 - User interface with the following features
     - `Dropdown keyword suggestions` based on Levenstein distance using Fuzzy search
-        - Fuzziness : AUTO 
     - `Snippets` that displays the most relevant fragments built using `unified highlighter`
-        - order fragments by score using Okapi BM25
     - Interface to change between the models and modes as per user's requirements
     - Displaying results as clickable links for better access
+    
+## To run
+``` python3 run.py```
